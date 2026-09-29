@@ -1,4 +1,113 @@
 {
+  "alaska-2025/08.01": {
+    "only": [
+      "d0_IMG_6328.HEIC"
+    ],
+    "cover": "d0_IMG_6328.HEIC"
+  },
+  "alaska-2025/08.02": {
+    "only": [
+      "d0_IMG_6340.HEIC",
+      "d0_IMG_6345.HEIC",
+      "d0_IMG_6351.HEIC",
+      "d0_IMG_6354.HEIC",
+      "d0_IMG_6356.HEIC",
+      "d0_IMG_6366.HEIC"
+    ],
+    "cover": "d0_IMG_6351.HEIC"
+  },
+  "alaska-2025/08.03": {
+    "only": [
+      "d0_IMG_6379.HEIC",
+      "d0_IMG_6381.HEIC",
+      "d0_IMG_6383.HEIC",
+      "d0_IMG_6386.HEIC",
+      "d0_IMG_6399.HEIC",
+      "d0_IMG_6401.HEIC"
+    ],
+    "cover": "d0_IMG_6399.HEIC"
+  },
+  "alaska-2025/08.04": {
+    "only": [
+      "d0_IMG_6412.HEIC",
+      "d0_IMG_6417.HEIC",
+      "d0_IMG_6418.HEIC",
+      "d0_IMG_6420.HEIC",
+      "d0_IMG_6423.HEIC",
+      "d0_IMG_6426.HEIC",
+      "d0_IMG_6427.HEIC"
+    ],
+    "cover": "d0_IMG_6412.HEIC"
+  },
+  "alaska-2025/08.05": {
+    "only": [
+      "d0_IMG_6449.HEIC",
+      "d0_IMG_6458.HEIC",
+      "d0_IMG_6461.HEIC",
+      "d0_IMG_6466.HEIC",
+      "d0_IMG_6472.HEIC",
+      "d0_IMG_6483.HEIC"
+    ],
+    "cover": "d0_IMG_6483.HEIC"
+  },
+  "alaska-2025/08.06": {
+    "only": [
+      "d0_IMG_6490.HEIC",
+      "d0_IMG_6493.HEIC",
+      "d0_IMG_6497.HEIC",
+      "d0_IMG_6505.HEIC",
+      "d0_IMG_6511.HEIC",
+      "d0_IMG_6522.HEIC",
+      "d0_IMG_6527.HEIC"
+    ],
+    "cover": "d0_IMG_6497.HEIC"
+  },
+  "alaska-2025/08.07": {
+    "only": [
+      "d0_IMG_6540.HEIC",
+      "d0_IMG_6552.HEIC",
+      "d0_IMG_6561.HEIC",
+      "d0_IMG_6568.HEIC",
+      "d0_IMG_6572.HEIC",
+      "d0_IMG_6606.HEIC"
+    ],
+    "cover": "d0_IMG_6572.HEIC"
+  },
+  "alaska-2025/08.08": {
+    "only": [
+      "d0_IMG_6611.HEIC",
+      "d0_IMG_6616.HEIC",
+      "d0_IMG_6627.HEIC",
+      "d0_IMG_6630.HEIC",
+      "d0_IMG_6633.HEIC",
+      "d0_IMG_6634.HEIC",
+      "d0_IMG_6637.HEIC"
+    ],
+    "cover": "d0_IMG_6630.HEIC"
+  },
+  "alaska-2025/08.09": {
+    "only": [
+      "d0_IMG_6642.HEIC",
+      "d0_IMG_6644.HEIC",
+      "d0_IMG_6648.HEIC",
+      "d0_IMG_6658.HEIC",
+      "d0_IMG_6675.HEIC",
+      "d0_IMG_6681.HEIC"
+    ],
+    "cover": "d0_IMG_6644.HEIC"
+  },
+  "alaska-2025/08.10": {
+    "only": [
+      "d0_IMG_6685.HEIC",
+      "d0_IMG_6687.HEIC",
+      "d0_IMG_6688.HEIC",
+      "d0_IMG_6689.HEIC",
+      "d0_IMG_6691.HEIC",
+      "d0_IMG_6692.HEIC",
+      "d0_IMG_6700.HEIC"
+    ],
+    "cover": "d0_IMG_6688.HEIC"
+  },
   "china-2015/01.23": {
     "only": [
       "wh15_IMG_2258.jpg",
@@ -1486,6 +1595,69 @@
       "IMG_0020.HEIC",
       "IMG_0021.HEIC"
     ]
+  },
+  "new-england-2025/10.12": {
+    "only": [
+      "d3_IMG_7221.HEIC",
+      "d3_IMG_7234.HEIC",
+      "d3_IMG_7244.HEIC",
+      "d3_IMG_7255.HEIC",
+      "d3_IMG_7277.HEIC",
+      "d3_IMG_7288.HEIC",
+      "d3_IMG_7299.HEIC",
+      "d3_IMG_7307.HEIC"
+    ],
+    "cover": "d3_IMG_7244.HEIC"
+  },
+  "new-england-2025/10.13": {
+    "only": [
+      "d3_IMG_7332.HEIC",
+      "d3_IMG_7365.HEIC",
+      "d3_IMG_7383.HEIC",
+      "d3_IMG_7398.HEIC",
+      "d3_IMG_7408.HEIC",
+      "d3_IMG_7440.HEIC",
+      "d3_IMG_7471.HEIC",
+      "d3_IMG_7490.HEIC"
+    ],
+    "cover": "d3_IMG_7365.HEIC"
+  },
+  "new-england-2025/10.14": {
+    "only": [
+      "d3_IMG_7511.HEIC",
+      "d3_IMG_7513.HEIC",
+      "d3_IMG_7516.HEIC",
+      "d3_IMG_7517.HEIC",
+      "d3_PXL_20251014_202047779.jpg",
+      "d3_IMG_7521.HEIC",
+      "d3_PXL_20251014_213359341.MP.jpg",
+      "d3_PXL_20251014_220812121.jpg"
+    ],
+    "cover": "d3_IMG_7517.HEIC"
+  },
+  "new-england-2025/10.15": {
+    "only": [
+      "d3_PXL_20251015_155157075.MP.jpg",
+      "d3_PXL_20251015_160213246.MP.jpg",
+      "d3_PXL_20251015_171352675.jpg",
+      "d3_PXL_20251015_172611483.jpg",
+      "d3_PXL_20251015_175651221.MP.jpg",
+      "d3_PXL_20251015_180548932.jpg",
+      "d3_PXL_20251015_182726447.jpg"
+    ],
+    "cover": "d3_PXL_20251015_172611483.jpg"
+  },
+  "new-england-2025/10.16": {
+    "only": [
+      "d3_IMG_7558.HEIC",
+      "d3_IMG_7564.HEIC",
+      "d3_IMG_7567.HEIC",
+      "d3_IMG_7569.HEIC",
+      "d3_IMG_7573.HEIC",
+      "d3_IMG_7577.HEIC",
+      "d3_IMG_7579.HEIC"
+    ],
+    "cover": "d3_IMG_7579.HEIC"
   },
   "north-america-2024/05.26": {
     "only": [
