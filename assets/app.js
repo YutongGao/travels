@@ -121,7 +121,11 @@ function tileSVG(trip,i){
 function render(){
   const trip=cur;
   document.documentElement.style.setProperty("--accent",trip.accent[isDark()?1:0]);
-  document.getElementById("tabs").innerHTML=TRIPS.map(t=>`<a href="#${t.id}"${t===trip?' aria-current="page"':""}>${T(t.tab)}</a>`).join("");
+  const yr=t=>t.year||2024, strip=v=>v.replace(/\s*\d{4}(–\d{2})?$/,"");
+  const years=[...new Set(TRIPS.map(yr))];
+  document.getElementById("years").innerHTML=years.map(y=>`<a href="#${TRIPS.find(t=>yr(t)===y).id}"${y===yr(trip)?' aria-current="true"':""}>${y}</a>`).join("");
+  document.getElementById("sub").innerHTML=TRIPS.filter(t=>yr(t)===yr(trip)).map(t=>`<a href="#${t.id}"${t===trip?' aria-current="page"':""}>${T({zh:strip(t.tab.zh),en:strip(t.tab.en)})}</a>`).join("");
+  {const ys=document.getElementById("years"),c=ys.querySelector("[aria-current]");if(c&&(c.offsetLeft+c.offsetWidth>ys.scrollLeft+ys.clientWidth||c.offsetLeft<ys.scrollLeft))ys.scrollLeft=c.offsetLeft-ys.offsetLeft-8}
   let h=`<section class="hero"><div><h1>${T(trip.title)}</h1><p class="span">${T(trip.span)}</p><p class="lede">${T(trip.lede)}</p>
     <p class="note">${T({zh:"路线由浅到深、箭头指向前进方向，虚线是长途转移。把鼠标移到地图上的点可以预览，点击进入那一天；没有照片的日子，用当天的地图代替。",en:"The route darkens from start to finish and arrows point the way; dashed lines are long transfers. Hover a point to preview it, click to open that day; days without photos show the day's map instead."})}</p></div>
     <div class="ovwrap">${overviewSVG(trip)}<div class="mapctl"><button type="button" data-z="in" aria-label="Zoom in">+</button><button type="button" data-z="out" aria-label="Zoom out">−</button><button type="button" data-z="reset" aria-label="Reset map">⟲</button></div><div class="maphint">${lang==='zh'?'按住 Ctrl 或 ⌘ 再滚动来缩放':'Hold Ctrl or ⌘ and scroll to zoom'}</div></div></section>`;
