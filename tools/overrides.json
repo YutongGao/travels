@@ -42,6 +42,569 @@
     ],
     "cover": "wh15_IMG_2365.jpg"
   },
+  "europe-2016/07.22": {
+    "only": [
+      "eu16_IMG_6430.jpg",
+      "eu16_IMG_6437.jpg",
+      "eu16_IMG_6439.jpg"
+    ],
+    "cover": "eu16_IMG_6439.jpg"
+  },
+  "europe-2016/07.23": {
+    "only": [
+      "eu16_IMG_6462.jpg",
+      "eu16_IMG_6465.jpg",
+      "eu16_IMG_6479.jpg",
+      "eu16_IMG_6488.jpg",
+      "eu16_IMG_6497.jpg",
+      "eu16_IMG_6498.jpg"
+    ],
+    "cover": "eu16_IMG_6497.jpg"
+  },
+  "europe-2016/07.24": {
+    "only": [
+      "eu16_IMG_6534.jpg",
+      "eu16_IMG_6536.jpg",
+      "eu16_IMG_6545.jpg"
+    ],
+    "cover": "eu16_IMG_6534.jpg"
+  },
+  "europe-2016/07.28": {
+    "only": [
+      "eu16_IMG_6591.jpg",
+      "eu16_IMG_6593.jpg",
+      "eu16_IMG_6604.jpg",
+      "eu16_IMG_6609.jpg",
+      "eu16_IMG_6616.jpg"
+    ],
+    "cover": "eu16_IMG_6591.jpg"
+  },
+  "europe-2016/07.29": {
+    "only": [
+      "eu16_IMG_6625.jpg",
+      "eu16_IMG_6626.jpg",
+      "eu16_IMG_6630.jpg"
+    ],
+    "cover": "eu16_IMG_6630.jpg"
+  },
+  "europe-2016/07.30": {
+    "only": [
+      "eu16_IMG_6643.jpg",
+      "eu16_IMG_6657.jpg",
+      "eu16_IMG_6660.jpg",
+      "eu16_IMG_6672.jpg",
+      "eu16_IMG_6674.jpg",
+      "eu16_IMG_6678.jpg"
+    ],
+    "cover": "eu16_IMG_6672.jpg"
+  },
+  "europe-2016/07.31": {
+    "only": [
+      "eu16_IMG_6702.jpg",
+      "eu16_IMG_6705.jpg",
+      "eu16_IMG_6708.jpg",
+      "eu16_IMG_6709.jpg",
+      "eu16_IMG_6711.jpg",
+      "eu16_IMG_6712.jpg"
+    ],
+    "cover": "eu16_IMG_6711.jpg"
+  },
+  "europe-2016/08.03": {
+    "only": [
+      "eu16_IMG_6742.jpg",
+      "eu16_IMG_6773.jpg",
+      "eu16_IMG_6790.jpg",
+      "eu16_IMG_6810.jpg",
+      "eu16_IMG_6842.jpg",
+      "eu16_IMG_6907.jpg"
+    ],
+    "cover": "eu16_IMG_6790.jpg"
+  },
+  "europe-2016/08.04": {
+    "only": [
+      "eu16_IMG_6932.jpg",
+      "eu16_IMG_6934.jpg",
+      "eu16_IMG_6940.jpg",
+      "eu16_IMG_6953.jpg",
+      "eu16_IMG_6957.jpg",
+      "eu16_IMG_6964.jpg",
+      "eu16_IMG_6969.jpg"
+    ],
+    "cover": "eu16_IMG_6957.jpg"
+  },
+  "europe-2016/08.06": {
+    "only": [
+      "eu16_IMG_7014.jpg",
+      "eu16_IMG_7033.jpg",
+      "eu16_IMG_7049.jpg",
+      "eu16_IMG_7065.jpg",
+      "eu16_IMG_7068.jpg",
+      "eu16_IMG_7108.jpg",
+      "eu16_IMG_7109.jpg"
+    ],
+    "cover": "eu16_IMG_7109.jpg"
+  },
+  "europe-2016/08.07": {
+    "only": [
+      "eu16_IMG_7130.jpg",
+      "eu16_IMG_7145.jpg",
+      "eu16_IMG_7148.jpg",
+      "eu16_IMG_7163.jpg",
+      "eu16_IMG_7180.jpg",
+      "eu16_IMG_7182.jpg",
+      "eu16_IMG_7193.jpg"
+    ],
+    "cover": "eu16_IMG_7130.jpg"
+  },
+  "europe-2016/08.10": {
+    "only": [
+      "eu16_IMG_7229.jpg",
+      "eu16_IMG_7235.jpg",
+      "eu16_IMG_7246.jpg",
+      "eu16_IMG_7256.jpg",
+      "eu16_IMG_7263.jpg",
+      "eu16_IMG_7272.jpg"
+    ],
+    "cover": "eu16_IMG_7256.jpg"
+  },
+  "europe-2016/08.13": {
+    "only": [
+      "eu16_IMG_7301.jpg",
+      "eu16_IMG_7314.jpg",
+      "eu16_IMG_7322.jpg",
+      "eu16_IMG_7340.jpg",
+      "eu16_IMG_7347.jpg"
+    ],
+    "cover": "eu16_IMG_7314.jpg"
+  },
+  "europe-2016/08.14": {
+    "only": [
+      "eu16_IMG_7410.jpg",
+      "eu16_IMG_7423.jpg",
+      "eu16_IMG_7438.jpg",
+      "eu16_IMG_7459.jpg",
+      "eu16_IMG_7477.jpg"
+    ],
+    "cover": "eu16_IMG_7438.jpg"
+  },
+  "europe-2016/08.16": {
+    "only": [
+      "eu16_IMG_7519.jpg",
+      "eu16_IMG_7535.jpg",
+      "eu16_IMG_7543.jpg",
+      "eu16_IMG_7550.jpg",
+      "eu16_IMG_7556.jpg",
+      "eu16_IMG_7574.jpg"
+    ],
+    "cover": "eu16_IMG_7519.jpg"
+  },
+  "europe-2016/08.17": {
+    "only": [
+      "eu16_IMG_7605.jpg",
+      "eu16_IMG_7606.jpg",
+      "eu16_IMG_7608.jpg"
+    ],
+    "cover": "eu16_IMG_7608.jpg"
+  },
+  "europe-2016/08.18": {
+    "only": [
+      "eu16_IMG_7611.jpg",
+      "eu16_IMG_7614.jpg",
+      "eu16_IMG_7619.jpg",
+      "eu16_IMG_7620.jpg",
+      "eu16_IMG_7634.jpg",
+      "eu16_IMG_7635.jpg"
+    ],
+    "cover": "eu16_IMG_7614.jpg"
+  },
+  "europe-2016/08.20": {
+    "only": [
+      "eu16_IMG_7653.jpg",
+      "eu16_IMG_7678.jpg",
+      "eu16_IMG_7690.jpg",
+      "eu16_IMG_7713.jpg",
+      "eu16_IMG_7718.jpg",
+      "eu16_IMG_7739.jpg"
+    ],
+    "cover": "eu16_IMG_7713.jpg"
+  },
+  "europe-2016/08.21": {
+    "only": [
+      "eu16_IMG_7751.jpg",
+      "eu16_IMG_7763.jpg",
+      "eu16_IMG_7771.jpg",
+      "eu16_IMG_7779.jpg",
+      "eu16_IMG_7796.jpg",
+      "eu16_IMG_7803.jpg",
+      "eu16_IMG_7809.jpg"
+    ],
+    "cover": "eu16_IMG_7771.jpg"
+  },
+  "europe-2016/08.22": {
+    "only": [
+      "eu16_IMG_7833.jpg",
+      "eu16_IMG_7849.jpg",
+      "eu16_IMG_7852.jpg",
+      "eu16_IMG_7857.jpg",
+      "eu16_IMG_7861.jpg",
+      "eu16_IMG_7868.jpg",
+      "eu16_IMG_7877.jpg"
+    ],
+    "cover": "eu16_IMG_7852.jpg"
+  },
+  "europe-2016/08.23": {
+    "only": [
+      "eu16_IMG_7885.jpg",
+      "eu16_IMG_7899.jpg",
+      "eu16_IMG_7900.jpg",
+      "eu16_IMG_7910.jpg",
+      "eu16_IMG_7919.jpg",
+      "eu16_IMG_7923.jpg",
+      "eu16_IMG_7938.jpg"
+    ],
+    "cover": "eu16_IMG_7899.jpg"
+  },
+  "europe-2016/08.24": {
+    "only": [
+      "eu16_IMG_7941.jpg",
+      "eu16_IMG_7959.jpg",
+      "eu16_IMG_7963.jpg",
+      "eu16_IMG_7974.jpg",
+      "eu16_IMG_7987.jpg",
+      "eu16_IMG_7991.jpg"
+    ],
+    "cover": "eu16_IMG_7987.jpg"
+  },
+  "europe-2016/08.25": {
+    "only": [
+      "eu16_IMG_8019.jpg",
+      "eu16_IMG_8029.jpg",
+      "eu16_IMG_8042.jpg",
+      "eu16_IMG_8050.jpg",
+      "eu16_IMG_8054.jpg",
+      "eu16_IMG_8065.jpg"
+    ],
+    "cover": "eu16_IMG_8029.jpg"
+  },
+  "europe-2016/08.26": {
+    "only": [
+      "eu16_IMG_8145.jpg",
+      "eu16_IMG_8157.jpg",
+      "eu16_IMG_8162.jpg",
+      "eu16_IMG_8166.jpg",
+      "eu16_IMG_8173.jpg",
+      "eu16_IMG_8175.jpg",
+      "eu16_IMG_8184.jpg"
+    ],
+    "cover": "eu16_IMG_8145.jpg"
+  },
+  "europe-2016/08.27": {
+    "only": [
+      "eu16_IMG_8206.jpg",
+      "eu16_IMG_8210.jpg",
+      "eu16_IMG_8218.jpg",
+      "eu16_IMG_8232.jpg",
+      "eu16_IMG_8235.jpg",
+      "eu16_IMG_8250.jpg",
+      "eu16_IMG_8253.jpg"
+    ],
+    "cover": "eu16_IMG_8206.jpg"
+  },
+  "europe-2017/05.22": {
+    "only": [
+      "eu17_IMG_0391.jpg",
+      "eu17_IMG_0401.jpg",
+      "eu17_IMG_0402.jpg",
+      "eu17_IMG_0404.jpg",
+      "eu17_IMG_0407.jpg",
+      "eu17_IMG_0410.jpg"
+    ],
+    "cover": "eu17_IMG_0410.jpg"
+  },
+  "europe-2017/05.23": {
+    "only": [
+      "eu17_IMG_0421.jpg",
+      "eu17_IMG_0426.jpg",
+      "eu17_IMG_0430.jpg",
+      "eu17_IMG_0434.jpg",
+      "eu17_IMG_0439.jpg",
+      "eu17_IMG_0450.jpg",
+      "eu17_IMG_0453.jpg"
+    ],
+    "cover": "eu17_IMG_0434.jpg"
+  },
+  "europe-2017/05.24": {
+    "only": [
+      "eu17_IMG_0474.jpg",
+      "eu17_IMG_0478.jpg",
+      "eu17_IMG_0484.jpg",
+      "eu17_IMG_0486.jpg",
+      "eu17_IMG_0497.jpg",
+      "eu17_IMG_0510.jpg",
+      "eu17_IMG_0517.jpg"
+    ],
+    "cover": "eu17_IMG_0478.jpg"
+  },
+  "europe-2017/05.25": {
+    "only": [
+      "eu17_IMG_0529.jpg",
+      "eu17_IMG_0536.jpg",
+      "eu17_IMG_0546.jpg",
+      "eu17_IMG_0555.jpg",
+      "eu17_IMG_0564.jpg",
+      "eu17_IMG_0582.jpg",
+      "eu17_IMG_0588.jpg"
+    ],
+    "cover": "eu17_IMG_0588.jpg"
+  },
+  "europe-2017/05.26": {
+    "only": [
+      "eu17_IMG_0611.jpg",
+      "eu17_IMG_0624.jpg",
+      "eu17_IMG_0630.jpg",
+      "eu17_IMG_0637.jpg",
+      "eu17_IMG_0645.jpg",
+      "eu17_IMG_0652.jpg",
+      "eu17_IMG_0659.jpg"
+    ],
+    "cover": "eu17_IMG_0652.jpg"
+  },
+  "europe-2017/05.27": {
+    "only": [
+      "eu17_IMG_0686.jpg",
+      "eu17_IMG_0693.jpg",
+      "eu17_IMG_0702.jpg",
+      "eu17_IMG_0714.jpg",
+      "eu17_IMG_0717.jpg",
+      "eu17_IMG_0732.jpg",
+      "eu17_IMG_0739.jpg",
+      "eu17_IMG_0743.jpg"
+    ],
+    "cover": "eu17_IMG_0732.jpg"
+  },
+  "europe-2017/05.28": {
+    "only": [
+      "eu17_IMG_0770.jpg",
+      "eu17_IMG_0771.jpg",
+      "eu17_IMG_0774.jpg",
+      "eu17_IMG_0777.jpg",
+      "eu17_IMG_0778.jpg",
+      "eu17_IMG_0781.jpg",
+      "eu17_IMG_0783.jpg"
+    ],
+    "cover": "eu17_IMG_0771.jpg"
+  },
+  "europe-2017/05.29": {
+    "only": [
+      "eu17_IMG_0811.jpg",
+      "eu17_IMG_0813.jpg",
+      "eu17_IMG_0814.jpg",
+      "eu17_IMG_0815.jpg",
+      "eu17_IMG_0816.jpg",
+      "eu17_IMG_0817.jpg"
+    ],
+    "cover": "eu17_IMG_0814.jpg"
+  },
+  "europe-2017/05.30": {
+    "only": [
+      "eu17_IMG_0824.jpg",
+      "eu17_IMG_0832.jpg",
+      "eu17_IMG_0840.jpg",
+      "eu17_IMG_0843.jpg",
+      "eu17_IMG_0848.jpg",
+      "eu17_IMG_0865.jpg"
+    ],
+    "cover": "eu17_IMG_0824.jpg"
+  },
+  "europe-2017/05.31": {
+    "only": [
+      "eu17_IMG_0870.jpg",
+      "eu17_IMG_0878.jpg",
+      "eu17_IMG_0886.jpg",
+      "eu17_IMG_0890.jpg",
+      "eu17_IMG_0897.jpg",
+      "eu17_IMG_0915.jpg",
+      "eu17_IMG_0918.jpg"
+    ],
+    "cover": "eu17_IMG_0870.jpg"
+  },
+  "europe-2017/06.01": {
+    "only": [
+      "eu17_IMG_0937.jpg",
+      "eu17_IMG_0957.jpg",
+      "eu17_IMG_0973.jpg",
+      "eu17_IMG_0974.jpg",
+      "eu17_IMG_1010.jpg",
+      "eu17_IMG_1029.jpg",
+      "eu17_IMG_1044.jpg",
+      "eu17_IMG_1059.jpg"
+    ],
+    "cover": "eu17_IMG_0973.jpg"
+  },
+  "europe-2017/06.02": {
+    "only": [
+      "eu17_IMG_1075.jpg",
+      "eu17_IMG_1079.jpg",
+      "eu17_IMG_1093.jpg",
+      "eu17_IMG_1100.jpg",
+      "eu17_IMG_1124.jpg",
+      "eu17_IMG_1135.jpg",
+      "eu17_IMG_1154.jpg"
+    ],
+    "cover": "eu17_IMG_1135.jpg"
+  },
+  "europe-2017/06.03": {
+    "only": [
+      "eu17_IMG_1170.jpg",
+      "eu17_IMG_1171.jpg",
+      "eu17_IMG_1179.jpg",
+      "eu17_IMG_1190.jpg",
+      "eu17_IMG_1194.jpg",
+      "eu17_IMG_1196.jpg"
+    ],
+    "cover": "eu17_IMG_1196.jpg"
+  },
+  "europe-2017/06.04": {
+    "only": [
+      "eu17_IMG_1216.jpg",
+      "eu17_IMG_1230.jpg",
+      "eu17_IMG_1235.jpg",
+      "eu17_IMG_1250.jpg",
+      "eu17_IMG_1267.jpg",
+      "eu17_IMG_1288.jpg"
+    ],
+    "cover": "eu17_IMG_1250.jpg"
+  },
+  "europe-2017/06.05": {
+    "only": [
+      "eu17_IMG_1303.jpg",
+      "eu17_IMG_1310.jpg",
+      "eu17_IMG_1314.jpg",
+      "eu17_IMG_1330.jpg",
+      "eu17_IMG_1354.jpg"
+    ],
+    "cover": "eu17_IMG_1303.jpg"
+  },
+  "europe-2017/06.06": {
+    "only": [
+      "eu17_IMG_1376.jpg",
+      "eu17_IMG_1383.jpg",
+      "eu17_IMG_1395.jpg",
+      "eu17_IMG_1434.jpg",
+      "eu17_IMG_1449.jpg",
+      "eu17_IMG_1458.jpg",
+      "eu17_IMG_E1470.jpg"
+    ],
+    "cover": "eu17_IMG_1434.jpg"
+  },
+  "europe-2017/06.07": {
+    "only": [
+      "eu17_IMG_1492.jpg",
+      "eu17_IMG_1519.jpg",
+      "eu17_IMG_1534.jpg",
+      "eu17_IMG_1551.jpg",
+      "eu17_IMG_1563.jpg",
+      "eu17_IMG_1592.jpg",
+      "eu17_IMG_1613.jpg"
+    ],
+    "cover": "eu17_IMG_1534.jpg"
+  },
+  "europe-2017/06.08": {
+    "only": [
+      "eu17_IMG_1624.jpg",
+      "eu17_IMG_1625.jpg",
+      "eu17_IMG_1626.jpg",
+      "eu17_IMG_1629.jpg",
+      "eu17_IMG_1631.jpg",
+      "eu17_IMG_1634.jpg",
+      "eu17_IMG_1635.jpg"
+    ],
+    "cover": "eu17_IMG_1624.jpg"
+  },
+  "europe-2017/06.09": {
+    "only": [
+      "eu17_IMG_1648.jpg",
+      "eu17_IMG_1651.jpg",
+      "eu17_IMG_1664.jpg",
+      "eu17_IMG_1673.jpg",
+      "eu17_IMG_1692.jpg",
+      "eu17_IMG_1710.jpg",
+      "eu17_IMG_1715.jpg"
+    ],
+    "cover": "eu17_IMG_1648.jpg"
+  },
+  "europe-2017/06.10": {
+    "only": [
+      "eu17_IMG_1754.jpg",
+      "eu17_IMG_1770.jpg",
+      "eu17_IMG_1803.jpg",
+      "eu17_IMG_1833.jpg",
+      "eu17_IMG_1859.jpg",
+      "eu17_IMG_1883.jpg",
+      "eu17_IMG_1900.jpg"
+    ],
+    "cover": "eu17_IMG_1900.jpg"
+  },
+  "europe-2017/06.11": {
+    "only": [
+      "eu17_IMG_1921.jpg",
+      "eu17_IMG_1942.jpg",
+      "eu17_IMG_1944.jpg",
+      "eu17_IMG_1960.jpg",
+      "eu17_IMG_1972.jpg",
+      "eu17_IMG_1980.jpg",
+      "eu17_IMG_1987.jpg"
+    ],
+    "cover": "eu17_IMG_1942.jpg"
+  },
+  "europe-2017/06.12": {
+    "only": [
+      "eu17_IMG_2017.jpg",
+      "eu17_IMG_2030.jpg",
+      "eu17_IMG_2097.jpg",
+      "eu17_IMG_2115.jpg",
+      "eu17_IMG_2132.jpg",
+      "eu17_IMG_2146.jpg",
+      "eu17_IMG_2155.jpg"
+    ],
+    "cover": "eu17_IMG_2017.jpg"
+  },
+  "europe-2017/06.13": {
+    "only": [
+      "eu17_IMG_2172.jpg",
+      "eu17_IMG_2181.jpg",
+      "eu17_IMG_2194.jpg",
+      "eu17_IMG_2201.jpg",
+      "eu17_IMG_2214.jpg",
+      "eu17_IMG_2251.jpg"
+    ],
+    "cover": "eu17_IMG_2172.jpg"
+  },
+  "europe-2017/06.14": {
+    "only": [
+      "eu17_IMG_2258.jpg",
+      "eu17_IMG_2267.jpg",
+      "eu17_IMG_2275.jpg",
+      "eu17_IMG_2289.jpg",
+      "eu17_IMG_2293.jpg",
+      "eu17_IMG_2294.jpg",
+      "eu17_IMG_2304.jpg"
+    ],
+    "cover": "eu17_IMG_2294.jpg"
+  },
+  "europe-2017/06.15": {
+    "only": [
+      "eu17_IMG_2311.jpg",
+      "eu17_IMG_2313.jpg",
+      "eu17_IMG_2321.jpg",
+      "eu17_IMG_2331.jpg",
+      "eu17_IMG_2336.jpg",
+      "eu17_IMG_2343.jpg",
+      "eu17_IMG_2347.jpg",
+      "eu17_IMG_2354.jpg"
+    ],
+    "cover": "eu17_IMG_2313.jpg"
+  },
   "europe-2023/01.01": {
     "only": [
       "PXL_20240101_070536989.jpg",
