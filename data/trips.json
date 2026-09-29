@@ -500,6 +500,35 @@
   ]
  },
  {
+  "id": "taiwan-2014",
+  "geo": "taiwan",
+  "year": 2014,
+  "tab": {"zh": "台湾 2014", "en": "Taiwan 2014"},
+  "accent": ["#2F6E8C", "#7FB6D1"],
+  "title": {"zh": "在高雄的一个学期，2014 年秋冬", "en": "A semester in Kaohsiung, autumn and winter 2014"},
+  "span": {"zh": "2014 年 9 月至 2015 年 1 月", "en": "September 2014 to January 2015"},
+  "lede": {"zh": "在高雄交换读书的半年。周末和假期往外跑：南边的猫鼻头和小琉球，台南的老城，阿里山和清境，北边的淡水、北投、九份、金瓜石和野柳。", "en": "Half a year studying in Kaohsiung on exchange. Weekends and holidays away: Maobitou and Xiaoliuqiu in the south, old Tainan, Alishan and Cingjing in the mountains, and Tamsui, Beitou, Jiufen, Jinguashi and Yehliu in the north."},
+  "chapters": {"1": {"zh": "秋天", "en": "Autumn"}, "2": {"zh": "冬天", "en": "Winter"}},
+  "frozen": true,
+  "days": [
+   {"d": "09.20", "ch": 1, "m": "sea", "s": ["maobitou"], "zh": "猫鼻头", "en": "Maobitou", "bz": "坐车一路往南到恒春半岛的猫鼻头公园，珊瑚礁岩一直铺到海里，海风很大。", "be": "South by bus to Maobitou Park on the Hengchun Peninsula, coral rock running out into the sea, the wind blowing hard."},
+   {"d": "09.26", "ch": 1, "m": "temple", "s": ["tainan"], "zh": "延平郡王祠", "en": "The Shrine of Koxinga", "bz": "到台南，下午在延平郡王祠，祭祀郑成功，红色的牌楼和福州式的祠堂。", "be": "Tainan, and an afternoon at the Yanping Prince shrine to Koxinga, its red gateway and Fuzhou-style hall."},
+   {"d": "09.27", "ch": 1, "m": "ruins", "s": ["anping"], "zh": "安平古堡", "en": "Fort Zeelandia", "bz": "在安平古堡，荷兰人建的热兰遮城，从瞭望台上看安平的老街和远处的海。", "be": "Anping Fort, the Dutch Fort Zeelandia, and the old streets of Anping and the sea from the lookout."},
+   {"d": "09.28", "ch": 1, "m": "mountain", "s": ["alishan"], "zh": "阿里山", "en": "Alishan", "bz": "上阿里山，沿着森林铁路走进桧木林，神木的树根比人还高。傍晚坐小火车下山，茶园铺满了山坡。", "be": "Up to Alishan, along the forest railway into the cypress woods, the roots of the old trees taller than a person. Down on the little train at dusk, tea gardens covering the slopes."},
+   {"d": "10.05", "ch": 1, "m": "sea", "s": ["liuqiu"], "zh": "小琉球", "en": "Xiaoliuqiu", "bz": "坐船到小琉球，珊瑚礁的小岛，海水清得见底。岛上的老榕树根盘在石头上。", "be": "By boat to Xiaoliuqiu, a little coral island, the water clear to the bottom, old banyan roots gripping the rocks."},
+   {"d": "10.10", "ch": 1, "m": "sea", "s": ["tamsui"], "zh": "淡水", "en": "Tamsui", "bz": "双十节放假，一早坐高铁北上，到淡水。山坡上的学校有宫灯教室，老街边是教堂和红砖楼，傍晚在河口的消波块上坐着，最后吃了一支土耳其冰淇淋。", "be": "The National Day holiday: north on the first high-speed train to Tamsui. Palace-style classrooms on the hill, a church and red-brick buildings by the old street, an evening on the breakwater at the river mouth, and a Turkish ice cream to finish."},
+   {"d": "10.11", "ch": 1, "m": "onsen", "s": ["beitou", "taipei"], "zh": "北投", "en": "Beitou", "bz": "上午在北投温泉区，溪水冒着热气。下午在台北看了一座宫殿式的纪念馆。", "be": "The Beitou hot-spring valley in the morning, its stream steaming. A palace-style memorial hall in Taipei in the afternoon."},
+   {"d": "10.12", "ch": 1, "m": "night", "s": ["keelung"], "zh": "基隆", "en": "Keelung", "bz": "往东北到基隆，下午在河边，晚上庙口夜市挂满了黄灯笼。", "be": "Northeast to Keelung, an afternoon by the river, and the Miaokou night market under its yellow lanterns."},
+   {"d": "11.09", "ch": 1, "m": "mountain", "s": ["chaishan"], "zh": "柴山", "en": "Shoushan", "bz": "在高雄西边的柴山，珊瑚礁石灰岩的山，山上都是猕猴，山下就是港口。", "be": "Shoushan on the west side of Kaohsiung, a hill of coral limestone full of macaques, the harbour at its foot."},
+   {"d": "12.05", "ch": 2, "m": "night", "s": ["jiufen"], "zh": "九份", "en": "Jiufen", "bz": "到九份，傍晚在山城的老街上，茶馆里摆着一排茶碗。", "be": "Jiufen, the old streets of the hill town at dusk, a row of tea bowls in a teahouse."},
+   {"d": "12.06", "ch": 2, "m": "mountain", "s": ["jinguashi"], "zh": "金瓜石", "en": "Jinguashi", "bz": "在金瓜石的黄金博物馆，日据时代的矿山，山坡上是老宿舍和矿车轨道，神社只剩几根石柱，山上开满了芒草。", "be": "The Gold Museum at Jinguashi, a mine from the Japanese era: old dormitories and mine-cart tracks on the slope, a shrine reduced to a few stone pillars, silver grass all over the hills."},
+   {"d": "12.13", "ch": 2, "m": "mountain", "s": ["hehuan", "cingjing"], "zh": "合欢山和清境", "en": "Hehuanshan and Cingjing", "bz": "上合欢山，太鲁阁国家公园的高山，云雾里只看得清近处的冷杉。下午到清境农场，草坡上都是羊。", "be": "Up Hehuanshan in Taroko National Park, only the nearest firs clear through the cloud. Cingjing Farm in the afternoon, sheep all over the grassy slopes."},
+   {"d": "12.31", "ch": 2, "m": "night", "s": ["kaohsiung"], "zh": "跨年", "en": "New Year's Eve", "bz": "在高雄跨年，广场上搭着大舞台，摩天轮后面放起了烟火。", "be": "New Year's Eve in Kaohsiung, a huge stage in the square and fireworks behind the Ferris wheel."},
+   {"d": "01.03", "ch": 2, "m": "theater", "s": ["taipei"], "zh": "西门町", "en": "Ximending", "bz": "在台北的西门町，街头有舞台，西门红楼里在办展览。晚上去看了一场戏，谢幕时台上站满了人。", "be": "Ximending in Taipei, a stage in the street and an exhibition in the Red House. A play in the evening, the whole cast out for the curtain call."},
+   {"d": "01.20", "ch": 2, "m": "sea", "s": ["yehliu"], "zh": "野柳", "en": "Yehliu", "bz": "学期末去了北海岸的野柳，海蚀的砂岩上满是壶穴和蕈状岩，悬崖一直伸进海里。", "be": "Yehliu on the north coast at the end of term, the eroded sandstone full of potholes and mushroom rocks, the cape running out into the sea."}
+  ]
+ },
+ {
   "id": "shaanxi-2014",
   "geo": "shu",
   "year": 2014,
