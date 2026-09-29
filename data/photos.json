@@ -1,4 +1,158 @@
 {
+ "lowlands-2026": {
+  "06.20": {"cover": 4, "items": [
+    {"o": "d10_IMG_3407.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3407.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3407.thumb.webp", "w": 1200, "h": 1600, "zh": "马格利特", "en": "Magritte"},
+    {"o": "d10_IMG_3409.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3409.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3409.thumb.webp", "w": 1200, "h": 1600, "zh": "红色背景的画", "en": "A painting on red"},
+    {"o": "d10_IMG_3437.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3437.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3437.thumb.webp", "w": 1600, "h": 1200, "zh": "老城的风景画", "en": "A townscape"},
+    {"o": "d10_IMG_3446.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3446.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3446.thumb.webp", "w": 1200, "h": 1600, "zh": "静物", "en": "A still life"},
+    {"o": "d10_IMG_3476.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3476.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3476.thumb.webp", "w": 1600, "h": 1200, "zh": "勃鲁盖尔《伯利恒户口调查》", "en": "Bruegel, The Census at Bethlehem"},
+    {"o": "d10_IMG_3483.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3483.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3483.thumb.webp", "w": 1600, "h": 1200, "zh": "市场里的人群", "en": "A crowd in a market"},
+    {"o": "d10_IMG_3514.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3514.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3514.thumb.webp", "w": 1600, "h": 1200, "zh": "画中画廊", "en": "A gallery painting"}
+  ]},
+  "06.21": {"cover": 3, "items": [
+    {"o": "d10_IMG_3556.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3556.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3556.thumb.webp", "w": 1200, "h": 1600, "zh": "街上的雕像", "en": "A statue in the street"},
+    {"o": "d10_IMG_3557.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3557.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3557.thumb.webp", "w": 1600, "h": 1200, "zh": "布鲁日的老楼", "en": "An old building in Bruges"},
+    {"o": "d10_IMG_3605.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3605.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3605.thumb.webp", "w": 1200, "h": 1600, "zh": "彩色玻璃", "en": "Stained glass"},
+    {"o": "d10_IMG_3609.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3609.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3609.thumb.webp", "w": 1600, "h": 1200, "zh": "布鲁日的运河", "en": "A canal in Bruges"},
+    {"o": "d10_IMG_3628.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3628.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3628.thumb.webp", "w": 1600, "h": 1200, "zh": "祭坛", "en": "An altar"},
+    {"o": "d10_PXL_20260621_130247863.jpg", "f": "photos/lowlands-2026/06.21/d10_PXL_20260621_130247863.webp", "t": "photos/lowlands-2026/06.21/d10_PXL_20260621_130247863.thumb.webp", "w": 1205, "h": 1600, "zh": "根特伯爵城堡", "en": "The Gravensteen, Ghent"},
+    {"o": "d10_IMG_3658.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3658.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3658.thumb.webp", "w": 1200, "h": 1600, "zh": "根特的哥特式建筑", "en": "Gothic Ghent"},
+    {"o": "d10_IMG_3689.HEIC", "f": "photos/lowlands-2026/06.21/d10_IMG_3689.webp", "t": "photos/lowlands-2026/06.21/d10_IMG_3689.thumb.webp", "w": 1200, "h": 1600, "zh": "安特卫普中央车站", "en": "Antwerp Central"}
+  ]},
+  "06.22": {"cover": 3, "items": [
+    {"o": "d10_IMG_3702.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3702.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3702.thumb.webp", "w": 1200, "h": 1600, "zh": "圣母大教堂的大门", "en": "The cathedral door"},
+    {"o": "d10_IMG_3728.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3728.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3728.thumb.webp", "w": 1600, "h": 1200, "zh": "祭坛和玻璃", "en": "Altar and glass"},
+    {"o": "d10_IMG_3733.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3733.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3733.thumb.webp", "w": 1200, "h": 1600, "zh": "木雕祭坛", "en": "A carved altarpiece"},
+    {"o": "d10_IMG_3760.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3760.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3760.thumb.webp", "w": 1600, "h": 1200, "zh": "市政厅和布拉博喷泉", "en": "The town hall and the Brabo fountain"},
+    {"o": "d10_IMG_3772.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3772.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3772.thumb.webp", "w": 1600, "h": 1200, "zh": "皇家美术馆", "en": "The Royal Museum of Fine Arts"},
+    {"o": "d10_IMG_3798.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3798.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3798.thumb.webp", "w": 1600, "h": 1200, "zh": "马厩里的画", "en": "A stable scene"},
+    {"o": "d10_IMG_3814.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3814.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3814.thumb.webp", "w": 1200, "h": 1600, "zh": "人群里的画", "en": "A crowded painting"},
+    {"o": "d10_IMG_3840.HEIC", "f": "photos/lowlands-2026/06.22/d10_IMG_3840.webp", "t": "photos/lowlands-2026/06.22/d10_IMG_3840.thumb.webp", "w": 1600, "h": 1200, "zh": "三联画", "en": "A triptych"}
+  ]},
+  "06.23": {"cover": 0, "items": [
+    {"o": "d10_IMG_3870.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_3870.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_3870.thumb.webp", "w": 1600, "h": 1200, "zh": "铅字盒", "en": "Type cases"},
+    {"o": "d10_IMG_3912.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_3912.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_3912.thumb.webp", "w": 1600, "h": 1200, "zh": "印刷商的画像", "en": "A printer's portrait"},
+    {"o": "d10_IMG_3921.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_3921.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_3921.thumb.webp", "w": 1600, "h": 1200, "zh": "低地国家的老地图", "en": "An old map of the Low Countries"},
+    {"o": "d10_IMG_3959.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_3959.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_3959.thumb.webp", "w": 1200, "h": 1600, "zh": "院子里的药草", "en": "Herbs in the courtyard"},
+    {"o": "d10_IMG_3994.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_3994.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_3994.thumb.webp", "w": 1200, "h": 1600, "zh": "墓石", "en": "A tombstone"},
+    {"o": "d10_IMG_4039.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_4039.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_4039.thumb.webp", "w": 1600, "h": 1200, "zh": "布雷达的公园", "en": "A park in Breda"},
+    {"o": "d10_IMG_4100.HEIC", "f": "photos/lowlands-2026/06.23/d10_IMG_4100.webp", "t": "photos/lowlands-2026/06.23/d10_IMG_4100.thumb.webp", "w": 1600, "h": 1200, "zh": "布雷达", "en": "Breda"}
+  ]},
+  "06.24": {"cover": 1, "items": [
+    {"o": "d10_IMG_4129.HEIC", "f": "photos/lowlands-2026/06.24/d10_IMG_4129.webp", "t": "photos/lowlands-2026/06.24/d10_IMG_4129.thumb.webp", "w": 1600, "h": 1200, "zh": "老楼", "en": "An old building"},
+    {"o": "d10_IMG_4131.HEIC", "f": "photos/lowlands-2026/06.24/d10_IMG_4131.webp", "t": "photos/lowlands-2026/06.24/d10_IMG_4131.thumb.webp", "w": 1200, "h": 1600, "zh": "伊拉斯谟像", "en": "Erasmus"},
+    {"o": "d10_IMG_4134.HEIC", "f": "photos/lowlands-2026/06.24/d10_IMG_4134.webp", "t": "photos/lowlands-2026/06.24/d10_IMG_4134.thumb.webp", "w": 1200, "h": 1600, "zh": "圣劳伦斯教堂", "en": "The Laurenskerk"},
+    {"o": "d10_IMG_4136.HEIC", "f": "photos/lowlands-2026/06.24/d10_IMG_4136.webp", "t": "photos/lowlands-2026/06.24/d10_IMG_4136.thumb.webp", "w": 1600, "h": 1200, "zh": "教堂里的纹章", "en": "Arms in the church"},
+    {"o": "d10_IMG_4140.HEIC", "f": "photos/lowlands-2026/06.24/d10_IMG_4140.webp", "t": "photos/lowlands-2026/06.24/d10_IMG_4140.thumb.webp", "w": 1200, "h": 1600, "zh": "铜栏杆", "en": "A brass screen"},
+    {"o": "d10_IMG_4145.HEIC", "f": "photos/lowlands-2026/06.24/d10_IMG_4145.webp", "t": "photos/lowlands-2026/06.24/d10_IMG_4145.thumb.webp", "w": 1200, "h": 1600, "zh": "伊拉斯谟的像", "en": "A portrait of Erasmus"},
+    {"o": "d10_PXL_20260624_192404686.jpg", "f": "photos/lowlands-2026/06.24/d10_PXL_20260624_192404686.webp", "t": "photos/lowlands-2026/06.24/d10_PXL_20260624_192404686.thumb.webp", "w": 1205, "h": 1600, "zh": "马斯河的夜", "en": "The Maas at night"}
+  ]},
+  "06.25": {"cover": 0, "items": [
+    {"o": "d10_IMG_4164.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4164.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4164.thumb.webp", "w": 1600, "h": 1200, "zh": "小孩堤防的风车", "en": "The windmills of Kinderdijk"},
+    {"o": "d10_IMG_4170.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4170.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4170.thumb.webp", "w": 1600, "h": 1200, "zh": "排水的模型", "en": "A drainage model"},
+    {"o": "d10_IMG_4174.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4174.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4174.thumb.webp", "w": 1600, "h": 1200, "zh": "荷兰的地图", "en": "A map of the Netherlands"},
+    {"o": "d10_IMG_4179.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4179.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4179.thumb.webp", "w": 1600, "h": 1200, "zh": "水渠", "en": "A channel"},
+    {"o": "d10_IMG_4188.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4188.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4188.thumb.webp", "w": 1600, "h": 1200, "zh": "老货车", "en": "An old cargo bike"},
+    {"o": "d10_IMG_4189.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4189.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4189.thumb.webp", "w": 1600, "h": 1200, "zh": "河", "en": "The river"},
+    {"o": "d10_IMG_4194.HEIC", "f": "photos/lowlands-2026/06.25/d10_IMG_4194.webp", "t": "photos/lowlands-2026/06.25/d10_IMG_4194.thumb.webp", "w": 1600, "h": 1200, "zh": "芦苇", "en": "Reeds"}
+  ]},
+  "06.26": {"cover": 1, "items": [
+    {"o": "d10_IMG_4213.HEIC", "f": "photos/lowlands-2026/06.26/d10_IMG_4213.webp", "t": "photos/lowlands-2026/06.26/d10_IMG_4213.thumb.webp", "w": 1600, "h": 1200, "zh": "运河边", "en": "Along the canal"},
+    {"o": "d10_IMG_4217.HEIC", "f": "photos/lowlands-2026/06.26/d10_IMG_4217.webp", "t": "photos/lowlands-2026/06.26/d10_IMG_4217.thumb.webp", "w": 1200, "h": 1600, "zh": "老教堂的彩色玻璃", "en": "Stained glass in the Old Church"},
+    {"o": "d10_IMG_4218.HEIC", "f": "photos/lowlands-2026/06.26/d10_IMG_4218.webp", "t": "photos/lowlands-2026/06.26/d10_IMG_4218.thumb.webp", "w": 1600, "h": 1200, "zh": "墓", "en": "A tomb"},
+    {"o": "d10_IMG_4222.HEIC", "f": "photos/lowlands-2026/06.26/d10_IMG_4222.webp", "t": "photos/lowlands-2026/06.26/d10_IMG_4222.thumb.webp", "w": 1200, "h": 1600, "zh": "管风琴", "en": "The organ"},
+    {"o": "d10_IMG_4225.HEIC", "f": "photos/lowlands-2026/06.26/d10_IMG_4225.webp", "t": "photos/lowlands-2026/06.26/d10_IMG_4225.thumb.webp", "w": 1200, "h": 1600, "zh": "玻璃窗", "en": "A window"},
+    {"o": "d10_IMG_4231.HEIC", "f": "photos/lowlands-2026/06.26/d10_IMG_4231.webp", "t": "photos/lowlands-2026/06.26/d10_IMG_4231.thumb.webp", "w": 1200, "h": 1600, "zh": "格劳秀斯像", "en": "Grotius"}
+  ]},
+  "06.27": {"cover": 1, "items": [
+    {"o": "d10_IMG_4247.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4247.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4247.thumb.webp", "w": 1600, "h": 1200, "zh": "鸟", "en": "Birds"},
+    {"o": "d10_IMG_4262.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4262.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4262.thumb.webp", "w": 1200, "h": 1600, "zh": "《戴珍珠耳环的少女》", "en": "Girl with a Pearl Earring"},
+    {"o": "d10_IMG_4279.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4279.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4279.thumb.webp", "w": 1200, "h": 1600, "zh": "花", "en": "Flowers"},
+    {"o": "d10_IMG_4296.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4296.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4296.thumb.webp", "w": 1600, "h": 1200, "zh": "林荫道", "en": "Lange Voorhout"},
+    {"o": "d10_IMG_4327.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4327.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4327.thumb.webp", "w": 1200, "h": 1600, "zh": "埃舍尔", "en": "Escher"},
+    {"o": "d10_IMG_4354.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4354.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4354.thumb.webp", "w": 1600, "h": 1200, "zh": "「斯宾诺莎在此居住」", "en": "Here lived Spinoza"},
+    {"o": "d10_IMG_4387.HEIC", "f": "photos/lowlands-2026/06.27/d10_IMG_4387.webp", "t": "photos/lowlands-2026/06.27/d10_IMG_4387.thumb.webp", "w": 1600, "h": 1200, "zh": "马赛克", "en": "A mosaic"}
+  ]},
+  "06.28": {"cover": 5, "items": [
+    {"o": "d10_IMG_4419.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4419.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4419.thumb.webp", "w": 1600, "h": 1200, "zh": "美术馆前的水池", "en": "The pool at the museum"},
+    {"o": "d10_IMG_4432.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4432.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4432.thumb.webp", "w": 1600, "h": 1200, "zh": "风景画", "en": "A landscape"},
+    {"o": "d10_IMG_4453.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4453.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4453.thumb.webp", "w": 1600, "h": 1200, "zh": "一架子小动物", "en": "A shelf of little animals"},
+    {"o": "d10_IMG_4468.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4468.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4468.thumb.webp", "w": 1200, "h": 1600, "zh": "镜子前的雕塑", "en": "A sculpture before a mirror"},
+    {"o": "d10_IMG_4533.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4533.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4533.thumb.webp", "w": 1600, "h": 1200, "zh": "老地图", "en": "An old map"},
+    {"o": "d10_IMG_4547.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4547.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4547.thumb.webp", "w": 1200, "h": 1600, "zh": "斯宾诺莎像", "en": "Spinoza"},
+    {"o": "d10_IMG_4566.HEIC", "f": "photos/lowlands-2026/06.28/d10_IMG_4566.webp", "t": "photos/lowlands-2026/06.28/d10_IMG_4566.thumb.webp", "w": 1600, "h": 1200, "zh": "小屋后的花园", "en": "The garden behind the cottage"}
+  ]},
+  "06.29": {"cover": 5, "items": [
+    {"o": "d10_IMG_4585.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4585.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4585.thumb.webp", "w": 1600, "h": 1200, "zh": "人群里的画", "en": "A crowded painting"},
+    {"o": "d10_IMG_4592.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4592.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4592.thumb.webp", "w": 1200, "h": 1600, "zh": "祭坛画", "en": "An altarpiece"},
+    {"o": "d10_IMG_4615.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4615.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4615.thumb.webp", "w": 1600, "h": 1200, "zh": "修复中的《夜巡》", "en": "The Night Watch under restoration"},
+    {"o": "d10_IMG_4635.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4635.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4635.thumb.webp", "w": 1600, "h": 1200, "zh": "洪水", "en": "A flood"},
+    {"o": "d10_IMG_4676.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4676.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4676.thumb.webp", "w": 1200, "h": 1600, "zh": "鸟", "en": "Birds"},
+    {"o": "d10_IMG_4685.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4685.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4685.thumb.webp", "w": 1600, "h": 1200, "zh": "库伊珀斯图书馆", "en": "The Cuypers Library"},
+    {"o": "d10_IMG_4710.HEIC", "f": "photos/lowlands-2026/06.29/d10_IMG_4710.webp", "t": "photos/lowlands-2026/06.29/d10_IMG_4710.thumb.webp", "w": 1200, "h": 1600, "zh": "骑兵", "en": "Cavalry"}
+  ]},
+  "06.30": {"cover": 1, "items": [
+    {"o": "d10_IMG_4715.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4715.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4715.thumb.webp", "w": 1200, "h": 1600, "zh": "犹太博物馆", "en": "The Jewish Museum"},
+    {"o": "d10_IMG_4740.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4740.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4740.thumb.webp", "w": 1600, "h": 1200, "zh": "斯宾诺莎像", "en": "The Spinoza statue"},
+    {"o": "d10_IMG_4756.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4756.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4756.thumb.webp", "w": 1600, "h": 1200, "zh": "安息日的画", "en": "A Sabbath painting"},
+    {"o": "d10_IMG_4794.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4794.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4794.thumb.webp", "w": 1600, "h": 1200, "zh": "院子", "en": "A courtyard"},
+    {"o": "d10_IMG_4815.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4815.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4815.thumb.webp", "w": 1600, "h": 1200, "zh": "画", "en": "A drawing"},
+    {"o": "d10_IMG_4825.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4825.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4825.thumb.webp", "w": 1600, "h": 1200, "zh": "墙上的纪念牌", "en": "A plaque on the wall"},
+    {"o": "d10_IMG_4863.HEIC", "f": "photos/lowlands-2026/06.30/d10_IMG_4863.webp", "t": "photos/lowlands-2026/06.30/d10_IMG_4863.thumb.webp", "w": 1600, "h": 1200, "zh": "石头", "en": "A stone"}
+  ]},
+  "07.01": {"cover": 3, "items": [
+    {"o": "d10_IMG_4886.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_4886.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_4886.thumb.webp", "w": 1600, "h": 1200, "zh": "高费吕沃的林子", "en": "Woods of the Hoge Veluwe"},
+    {"o": "d10_IMG_4903.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_4903.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_4903.thumb.webp", "w": 1200, "h": 1600, "zh": "黄衣女人", "en": "A woman in yellow"},
+    {"o": "d10_IMG_4931.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_4931.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_4931.thumb.webp", "w": 1200, "h": 1600, "zh": "网", "en": "A net"},
+    {"o": "d10_IMG_4955.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_4955.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_4955.thumb.webp", "w": 1600, "h": 1200, "zh": "梵高", "en": "Van Gogh"},
+    {"o": "d10_IMG_4992.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_4992.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_4992.thumb.webp", "w": 1200, "h": 1600, "zh": "林中小路", "en": "A forest path"},
+    {"o": "d10_IMG_5005.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_5005.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_5005.thumb.webp", "w": 1200, "h": 1600, "zh": "哈滕斯坦", "en": "Hartenstein"},
+    {"o": "d10_IMG_5021.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_5021.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_5021.thumb.webp", "w": 1600, "h": 1200, "zh": "空降博物馆", "en": "The Airborne Museum"},
+    {"o": "d10_IMG_5045.HEIC", "f": "photos/lowlands-2026/07.01/d10_IMG_5045.webp", "t": "photos/lowlands-2026/07.01/d10_IMG_5045.thumb.webp", "w": 1200, "h": 1600, "zh": "雕塑", "en": "A sculpture"}
+  ]},
+  "07.02": {"cover": 1, "items": [
+    {"o": "d10_IMG_5072.HEIC", "f": "photos/lowlands-2026/07.02/d10_IMG_5072.webp", "t": "photos/lowlands-2026/07.02/d10_IMG_5072.thumb.webp", "w": 1200, "h": 1600, "zh": "罗马遗址", "en": "Roman remains"},
+    {"o": "d10_IMG_5095.HEIC", "f": "photos/lowlands-2026/07.02/d10_IMG_5095.webp", "t": "photos/lowlands-2026/07.02/d10_IMG_5095.thumb.webp", "w": 1600, "h": 1200, "zh": "遗址上的保护棚", "en": "The shelter over the ruins"},
+    {"o": "d10_IMG_5102.HEIC", "f": "photos/lowlands-2026/07.02/d10_IMG_5102.webp", "t": "photos/lowlands-2026/07.02/d10_IMG_5102.thumb.webp", "w": 1600, "h": 1200, "zh": "罗马道路图", "en": "A Roman road map"},
+    {"o": "d10_IMG_5116.HEIC", "f": "photos/lowlands-2026/07.02/d10_IMG_5116.webp", "t": "photos/lowlands-2026/07.02/d10_IMG_5116.thumb.webp", "w": 1600, "h": 1200, "zh": "遗址", "en": "The ruins"},
+    {"o": "d10_IMG_5141.HEIC", "f": "photos/lowlands-2026/07.02/d10_IMG_5141.webp", "t": "photos/lowlands-2026/07.02/d10_IMG_5141.thumb.webp", "w": 1200, "h": 1600, "zh": "墙上的铭牌", "en": "A plaque on the wall"},
+    {"o": "d10_IMG_5157.HEIC", "f": "photos/lowlands-2026/07.02/d10_IMG_5157.webp", "t": "photos/lowlands-2026/07.02/d10_IMG_5157.thumb.webp", "w": 1200, "h": 1600, "zh": "运河和林荫道", "en": "A canal and an avenue"}
+  ]},
+  "07.03": {"cover": 0, "items": [
+    {"o": "d10_IMG_5212.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5212.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5212.thumb.webp", "w": 1600, "h": 1200, "zh": "八角礼拜堂的马赛克", "en": "Mosaics in the octagon"},
+    {"o": "d10_IMG_5218.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5218.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5218.thumb.webp", "w": 1200, "h": 1600, "zh": "玻璃唱诗堂", "en": "The glass choir"},
+    {"o": "d10_IMG_5237.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5237.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5237.thumb.webp", "w": 1600, "h": 1200, "zh": "宝库里的祭坛画", "en": "Altarpieces in the treasury"},
+    {"o": "d10_IMG_5241.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5241.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5241.thumb.webp", "w": 1600, "h": 1200, "zh": "老地图", "en": "An old map"},
+    {"o": "d10_IMG_5273.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5273.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5273.thumb.webp", "w": 1600, "h": 1200, "zh": "大教堂和市政厅", "en": "The cathedral and the town hall"},
+    {"o": "d10_IMG_5274.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5274.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5274.thumb.webp", "w": 1200, "h": 1600, "zh": "双头鹰", "en": "A double-headed eagle"},
+    {"o": "d10_IMG_5286.HEIC", "f": "photos/lowlands-2026/07.03/d10_IMG_5286.webp", "t": "photos/lowlands-2026/07.03/d10_IMG_5286.thumb.webp", "w": 1200, "h": 1600, "zh": "纪念碑", "en": "A monument"}
+  ]},
+  "07.04": {"cover": 2, "items": [
+    {"o": "d10_IMG_5303.HEIC", "f": "photos/lowlands-2026/07.04/d10_IMG_5303.webp", "t": "photos/lowlands-2026/07.04/d10_IMG_5303.thumb.webp", "w": 1200, "h": 1600, "zh": "地上的铜牌", "en": "A plaque in the paving"},
+    {"o": "d10_IMG_5306.HEIC", "f": "photos/lowlands-2026/07.04/d10_IMG_5306.webp", "t": "photos/lowlands-2026/07.04/d10_IMG_5306.thumb.webp", "w": 1200, "h": 1600, "zh": "广场上的柱子", "en": "A column in a square"},
+    {"o": "d10_IMG_5310.HEIC", "f": "photos/lowlands-2026/07.04/d10_IMG_5310.webp", "t": "photos/lowlands-2026/07.04/d10_IMG_5310.thumb.webp", "w": 1200, "h": 1600, "zh": "教堂里的书店", "en": "A bookshop in a church"},
+    {"o": "d10_IMG_5314.HEIC", "f": "photos/lowlands-2026/07.04/d10_IMG_5314.webp", "t": "photos/lowlands-2026/07.04/d10_IMG_5314.thumb.webp", "w": 1200, "h": 1600, "zh": "书店的拱顶", "en": "The vaults over the bookshop"},
+    {"o": "d10_IMG_5318.HEIC", "f": "photos/lowlands-2026/07.04/d10_IMG_5318.webp", "t": "photos/lowlands-2026/07.04/d10_IMG_5318.thumb.webp", "w": 1600, "h": 1200, "zh": "雕像", "en": "A statue"},
+    {"o": "d10_IMG_5329.HEIC", "f": "photos/lowlands-2026/07.04/d10_IMG_5329.webp", "t": "photos/lowlands-2026/07.04/d10_IMG_5329.thumb.webp", "w": 1600, "h": 1200, "zh": "弗莱特霍夫的音乐会", "en": "The concert on the Vrijthof"}
+  ]},
+  "07.05": {"cover": 5, "items": [
+    {"o": "d10_IMG_5346.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5346.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5346.thumb.webp", "w": 1200, "h": 1600, "zh": "鲁汶的老楼", "en": "Old Leuven"},
+    {"o": "d10_IMG_5379.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5379.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5379.thumb.webp", "w": 1200, "h": 1600, "zh": "图书馆的书", "en": "Books in the library"},
+    {"o": "d10_IMG_5394.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5394.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5394.thumb.webp", "w": 1600, "h": 1200, "zh": "钟楼里的展览", "en": "The exhibition in the tower"},
+    {"o": "d10_IMG_5399.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5399.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5399.thumb.webp", "w": 1600, "h": 1200, "zh": "钟楼上看广场", "en": "The square from the tower"},
+    {"o": "d10_IMG_5428.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5428.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5428.thumb.webp", "w": 1600, "h": 1200, "zh": "纪念碑", "en": "A monument"},
+    {"o": "d10_IMG_5447.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5447.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5447.thumb.webp", "w": 1600, "h": 1200, "zh": "鲍茨《最后的晚餐》", "en": "Bouts, The Last Supper"},
+    {"o": "d10_IMG_5453.HEIC", "f": "photos/lowlands-2026/07.05/d10_IMG_5453.webp", "t": "photos/lowlands-2026/07.05/d10_IMG_5453.thumb.webp", "w": 1200, "h": 1600, "zh": "教堂里的画", "en": "A painting in the church"}
+  ]},
+  "07.06": {"cover": 3, "items": [
+    {"o": "d10_IMG_5470.HEIC", "f": "photos/lowlands-2026/07.06/d10_IMG_5470.webp", "t": "photos/lowlands-2026/07.06/d10_IMG_5470.thumb.webp", "w": 1200, "h": 1600, "zh": "战场的步道", "en": "The battlefield trail"},
+    {"o": "d10_IMG_5472.HEIC", "f": "photos/lowlands-2026/07.06/d10_IMG_5472.webp", "t": "photos/lowlands-2026/07.06/d10_IMG_5472.thumb.webp", "w": 1600, "h": 1200, "zh": "大炮", "en": "A cannon"},
+    {"o": "d10_IMG_5473.HEIC", "f": "photos/lowlands-2026/07.06/d10_IMG_5473.webp", "t": "photos/lowlands-2026/07.06/d10_IMG_5473.thumb.webp", "w": 1600, "h": 1200, "zh": "1815 年的欧洲", "en": "Europe in 1815"},
+    {"o": "d10_IMG_5474.HEIC", "f": "photos/lowlands-2026/07.06/d10_IMG_5474.webp", "t": "photos/lowlands-2026/07.06/d10_IMG_5474.thumb.webp", "w": 1200, "h": 1600, "zh": "狮子丘", "en": "The Lion's Mound"},
+    {"o": "d10_IMG_5476.HEIC", "f": "photos/lowlands-2026/07.06/d10_IMG_5476.webp", "t": "photos/lowlands-2026/07.06/d10_IMG_5476.thumb.webp", "w": 1600, "h": 1200, "zh": "全景馆和狮子丘", "en": "The panorama and the mound"},
+    {"o": "d10_IMG_5477.HEIC", "f": "photos/lowlands-2026/07.06/d10_IMG_5477.webp", "t": "photos/lowlands-2026/07.06/d10_IMG_5477.thumb.webp", "w": 1600, "h": 1200, "zh": "战场", "en": "The battlefield"}
+  ]}
+ },
  "china-2026": {
   "05.21": {"cover": 1, "items": [
     {"o": "d9_IMG_1785.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1785.webp", "t": "photos/china-2026/05.21/d9_IMG_1785.thumb.webp", "w": 1600, "h": 1200, "zh": "南汉山城", "en": "Namhansanseong"},

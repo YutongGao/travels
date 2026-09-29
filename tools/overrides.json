@@ -1772,6 +1772,209 @@
       "IMG_0021.HEIC"
     ]
   },
+  "lowlands-2026/06.20": {
+    "only": [
+      "d10_IMG_3407.HEIC",
+      "d10_IMG_3409.HEIC",
+      "d10_IMG_3437.HEIC",
+      "d10_IMG_3446.HEIC",
+      "d10_IMG_3476.HEIC",
+      "d10_IMG_3483.HEIC",
+      "d10_IMG_3514.HEIC"
+    ],
+    "cover": "d10_IMG_3476.HEIC"
+  },
+  "lowlands-2026/06.21": {
+    "only": [
+      "d10_IMG_3556.HEIC",
+      "d10_IMG_3557.HEIC",
+      "d10_IMG_3605.HEIC",
+      "d10_IMG_3609.HEIC",
+      "d10_IMG_3628.HEIC",
+      "d10_PXL_20260621_130247863.jpg",
+      "d10_IMG_3658.HEIC",
+      "d10_IMG_3689.HEIC"
+    ],
+    "cover": "d10_IMG_3609.HEIC"
+  },
+  "lowlands-2026/06.22": {
+    "only": [
+      "d10_IMG_3702.HEIC",
+      "d10_IMG_3728.HEIC",
+      "d10_IMG_3733.HEIC",
+      "d10_IMG_3760.HEIC",
+      "d10_IMG_3772.HEIC",
+      "d10_IMG_3798.HEIC",
+      "d10_IMG_3814.HEIC",
+      "d10_IMG_3840.HEIC"
+    ],
+    "cover": "d10_IMG_3760.HEIC"
+  },
+  "lowlands-2026/06.23": {
+    "only": [
+      "d10_IMG_3870.HEIC",
+      "d10_IMG_3912.HEIC",
+      "d10_IMG_3921.HEIC",
+      "d10_IMG_3959.HEIC",
+      "d10_IMG_3994.HEIC",
+      "d10_IMG_4039.HEIC",
+      "d10_IMG_4100.HEIC"
+    ],
+    "cover": "d10_IMG_3870.HEIC"
+  },
+  "lowlands-2026/06.24": {
+    "only": [
+      "d10_IMG_4129.HEIC",
+      "d10_IMG_4131.HEIC",
+      "d10_IMG_4134.HEIC",
+      "d10_IMG_4136.HEIC",
+      "d10_IMG_4140.HEIC",
+      "d10_IMG_4145.HEIC",
+      "d10_PXL_20260624_192404686.jpg"
+    ],
+    "cover": "d10_IMG_4131.HEIC"
+  },
+  "lowlands-2026/06.25": {
+    "only": [
+      "d10_IMG_4164.HEIC",
+      "d10_IMG_4170.HEIC",
+      "d10_IMG_4174.HEIC",
+      "d10_IMG_4179.HEIC",
+      "d10_IMG_4188.HEIC",
+      "d10_IMG_4189.HEIC",
+      "d10_IMG_4194.HEIC"
+    ],
+    "cover": "d10_IMG_4164.HEIC"
+  },
+  "lowlands-2026/06.26": {
+    "only": [
+      "d10_IMG_4213.HEIC",
+      "d10_IMG_4217.HEIC",
+      "d10_IMG_4218.HEIC",
+      "d10_IMG_4222.HEIC",
+      "d10_IMG_4225.HEIC",
+      "d10_IMG_4231.HEIC"
+    ],
+    "cover": "d10_IMG_4217.HEIC"
+  },
+  "lowlands-2026/06.27": {
+    "only": [
+      "d10_IMG_4247.HEIC",
+      "d10_IMG_4262.HEIC",
+      "d10_IMG_4279.HEIC",
+      "d10_IMG_4296.HEIC",
+      "d10_IMG_4327.HEIC",
+      "d10_IMG_4354.HEIC",
+      "d10_IMG_4387.HEIC"
+    ],
+    "cover": "d10_IMG_4262.HEIC"
+  },
+  "lowlands-2026/06.28": {
+    "only": [
+      "d10_IMG_4419.HEIC",
+      "d10_IMG_4432.HEIC",
+      "d10_IMG_4453.HEIC",
+      "d10_IMG_4468.HEIC",
+      "d10_IMG_4533.HEIC",
+      "d10_IMG_4547.HEIC",
+      "d10_IMG_4566.HEIC"
+    ],
+    "cover": "d10_IMG_4547.HEIC"
+  },
+  "lowlands-2026/06.29": {
+    "only": [
+      "d10_IMG_4585.HEIC",
+      "d10_IMG_4592.HEIC",
+      "d10_IMG_4615.HEIC",
+      "d10_IMG_4635.HEIC",
+      "d10_IMG_4676.HEIC",
+      "d10_IMG_4685.HEIC",
+      "d10_IMG_4710.HEIC"
+    ],
+    "cover": "d10_IMG_4685.HEIC"
+  },
+  "lowlands-2026/06.30": {
+    "only": [
+      "d10_IMG_4715.HEIC",
+      "d10_IMG_4740.HEIC",
+      "d10_IMG_4756.HEIC",
+      "d10_IMG_4794.HEIC",
+      "d10_IMG_4815.HEIC",
+      "d10_IMG_4825.HEIC",
+      "d10_IMG_4863.HEIC"
+    ],
+    "cover": "d10_IMG_4740.HEIC"
+  },
+  "lowlands-2026/07.01": {
+    "only": [
+      "d10_IMG_4886.HEIC",
+      "d10_IMG_4903.HEIC",
+      "d10_IMG_4931.HEIC",
+      "d10_IMG_4955.HEIC",
+      "d10_IMG_4992.HEIC",
+      "d10_IMG_5005.HEIC",
+      "d10_IMG_5021.HEIC",
+      "d10_IMG_5045.HEIC"
+    ],
+    "cover": "d10_IMG_4955.HEIC"
+  },
+  "lowlands-2026/07.02": {
+    "only": [
+      "d10_IMG_5072.HEIC",
+      "d10_IMG_5095.HEIC",
+      "d10_IMG_5102.HEIC",
+      "d10_IMG_5116.HEIC",
+      "d10_IMG_5141.HEIC",
+      "d10_IMG_5157.HEIC"
+    ],
+    "cover": "d10_IMG_5095.HEIC"
+  },
+  "lowlands-2026/07.03": {
+    "only": [
+      "d10_IMG_5212.HEIC",
+      "d10_IMG_5218.HEIC",
+      "d10_IMG_5237.HEIC",
+      "d10_IMG_5241.HEIC",
+      "d10_IMG_5273.HEIC",
+      "d10_IMG_5274.HEIC",
+      "d10_IMG_5286.HEIC"
+    ],
+    "cover": "d10_IMG_5212.HEIC"
+  },
+  "lowlands-2026/07.04": {
+    "only": [
+      "d10_IMG_5303.HEIC",
+      "d10_IMG_5306.HEIC",
+      "d10_IMG_5310.HEIC",
+      "d10_IMG_5314.HEIC",
+      "d10_IMG_5318.HEIC",
+      "d10_IMG_5329.HEIC"
+    ],
+    "cover": "d10_IMG_5310.HEIC"
+  },
+  "lowlands-2026/07.05": {
+    "only": [
+      "d10_IMG_5346.HEIC",
+      "d10_IMG_5379.HEIC",
+      "d10_IMG_5394.HEIC",
+      "d10_IMG_5399.HEIC",
+      "d10_IMG_5428.HEIC",
+      "d10_IMG_5447.HEIC",
+      "d10_IMG_5453.HEIC"
+    ],
+    "cover": "d10_IMG_5447.HEIC"
+  },
+  "lowlands-2026/07.06": {
+    "only": [
+      "d10_IMG_5470.HEIC",
+      "d10_IMG_5472.HEIC",
+      "d10_IMG_5473.HEIC",
+      "d10_IMG_5474.HEIC",
+      "d10_IMG_5476.HEIC",
+      "d10_IMG_5477.HEIC"
+    ],
+    "cover": "d10_IMG_5474.HEIC"
+  },
   "new-england-2025/10.12": {
     "only": [
       "d3_IMG_7221.HEIC",

@@ -1,5 +1,36 @@
 [
  {
+  "id": "lowlands-2026",
+  "geo": "lowlands",
+  "year": 2026,
+  "tab": {"zh": "比利时和荷兰 2026", "en": "Belgium and the Netherlands 2026"},
+  "accent": ["#B5712A", "#E6B172"],
+  "title": {"zh": "比利时和荷兰，2026 年夏", "en": "Belgium and the Netherlands, summer 2026"},
+  "span": {"zh": "2026 年 6 月 20 日至 7 月 6 日", "en": "June 20 to July 6, 2026"},
+  "lede": {"zh": "从布鲁塞尔出发，经布鲁日、根特、安特卫普北上，走过鹿特丹、代尔夫特、海牙和阿姆斯特丹；再往东到高费吕沃，沿莱茵河进德国的克桑滕和亚琛，从马斯特里赫特、鲁汶回到滑铁卢。", "en": "From Brussels north by way of Bruges, Ghent and Antwerp, through Rotterdam, Delft, The Hague and Amsterdam; east to the Hoge Veluwe, along the Rhine into Germany at Xanten and Aachen, and back through Maastricht and Leuven to Waterloo."},
+  "chapters": {"1": {"zh": "佛兰德", "en": "Flanders"}, "2": {"zh": "荷兰", "en": "Holland"}, "3": {"zh": "莱茵河和马斯河", "en": "The Rhine and the Meuse"}},
+  "frozen": true,
+  "days": [
+   {"d": "06.20", "ch": 1, "m": "city", "s": ["brussels"], "zh": "布鲁塞尔的美术馆", "en": "The Brussels museums", "bz": "到布鲁塞尔，下午在比利时皇家美术馆，从马格利特一路看到老勃鲁盖尔的《伯利恒户口调查》。", "be": "Brussels, and an afternoon in the Royal Museums of Fine Arts, from Magritte back to Bruegel the Elder's Census at Bethlehem."},
+   {"d": "06.21", "ch": 1, "m": "city", "s": ["bruges", "ghent", "antwerp"], "zh": "布鲁日和根特", "en": "Bruges and Ghent", "bz": "上午在布鲁日，运河边的老房子和教堂里的彩色玻璃。下午到根特，伯爵城堡立在河边；傍晚到安特卫普中央车站。", "be": "Bruges in the morning, old houses along the canals and stained glass in the church. Ghent in the afternoon, the Gravensteen by the river; Antwerp Central Station by evening."},
+   {"d": "06.22", "ch": 1, "m": "city", "s": ["antwerp"], "zh": "安特卫普", "en": "Antwerp", "bz": "在安特卫普，圣母大教堂的大门和木雕祭坛，大广场上的市政厅和布拉博喷泉。下午在皇家美术馆。", "be": "Antwerp: the doors of the Cathedral of Our Lady and its carved altarpieces, the town hall and the Brabo fountain on the Grote Markt. The Royal Museum of Fine Arts in the afternoon."},
+   {"d": "06.23", "ch": 1, "m": "city", "s": ["antwerp", "breda"], "zh": "普朗坦印刷所", "en": "The Plantin-Moretus Museum", "bz": "上午在安特卫普的普朗坦-莫雷图斯博物馆，十六世纪的印刷所，铅字盒、老地图还摆在原处。下午往北过了边境到布雷达。", "be": "The Plantin-Moretus Museum in Antwerp in the morning, a sixteenth-century printing house, type cases and old maps still in place. North over the border to Breda in the afternoon."},
+   {"d": "06.24", "ch": 2, "m": "city", "s": ["rotterdam"], "zh": "鹿特丹", "en": "Rotterdam", "bz": "在鹿特丹，伊拉斯谟的铜像，大战后修复的圣劳伦斯教堂。晚上在马斯河边。", "be": "Rotterdam: the statue of Erasmus and the Laurenskerk, rebuilt after the war. The Maas at night."},
+   {"d": "06.25", "ch": 2, "m": "lake", "s": ["kinderdijk"], "zh": "小孩堤防", "en": "Kinderdijk", "bz": "在小孩堤防，运河两边一排风车，十八世纪修来给低地排水。博物馆里讲荷兰人怎么和水过日子。", "be": "Kinderdijk, a row of windmills along the canals, built in the eighteenth century to drain the polders, and a museum on living with water."},
+   {"d": "06.26", "ch": 2, "m": "temple", "s": ["delft"], "zh": "代尔夫特", "en": "Delft", "bz": "在代尔夫特，老教堂里的彩色玻璃和墓，新教堂的管风琴，市集广场上立着格劳秀斯的铜像。", "be": "Delft: stained glass and tombs in the Old Church, the organ in the New Church, and Grotius in bronze on the market square."},
+   {"d": "06.27", "ch": 2, "m": "city", "s": ["hague"], "zh": "海牙", "en": "The Hague", "bz": "上午在海牙的莫瑞泰斯皇家美术馆，看《戴珍珠耳环的少女》。然后是埃舍尔博物馆，还有斯宾诺莎最后住过的房子，墙上写着「斯宾诺莎在此居住 1671–1677」。", "be": "The Mauritshuis in The Hague in the morning, and the Girl with a Pearl Earring. Then the Escher museum, and the house where Spinoza spent his last years: 'Here lived Spinoza, 1671–1677'."},
+   {"d": "06.28", "ch": 2, "m": "garden", "s": ["hague", "rijnsburg"], "zh": "莱茵斯堡的斯宾诺莎", "en": "Spinoza at Rijnsburg", "bz": "上午在海牙郊外的美术馆，镜子前的雕塑、一架子小动物。下午到莱茵斯堡，斯宾诺莎在这里磨过镜片，小屋后面是花园。", "be": "A museum outside The Hague in the morning, a sculpture before a mirror and a shelf of little animals. Rijnsburg in the afternoon, where Spinoza ground lenses, a garden behind his cottage."},
+   {"d": "06.29", "ch": 2, "m": "city", "s": ["amsterdam"], "zh": "国家博物馆", "en": "The Rijksmuseum", "bz": "在阿姆斯特丹的国家博物馆，《夜巡》正在玻璃房里修复。又去了库伊珀斯图书馆，一层层的书架。", "be": "The Rijksmuseum in Amsterdam, The Night Watch under restoration in its glass room, and the Cuypers Library, gallery upon gallery of shelves."},
+   {"d": "06.30", "ch": 2, "m": "city", "s": ["amsterdam"], "zh": "犹太区", "en": "The Jewish Quarter", "bz": "在阿姆斯特丹的犹太博物馆，旁边的广场上有斯宾诺莎的雕像。下午在老城里看墙上的石碑。", "be": "The Jewish Museum in Amsterdam, with Spinoza's statue on the square nearby. Stones in the walls of the old city in the afternoon."},
+   {"d": "07.01", "ch": 3, "m": "garden", "s": ["hogeveluwe", "oosterbeek"], "zh": "高费吕沃和奥斯特贝克", "en": "Hoge Veluwe and Oosterbeek", "bz": "上午在高费吕沃国家公园的林子里，克勒勒-米勒美术馆里有梵高。下午到阿纳姆边上的奥斯特贝克，1944 年「市场花园」行动的空降博物馆，就在当年的哈滕斯坦酒店里。", "be": "The woods of the Hoge Veluwe in the morning, and Van Gogh at the Kröller-Müller Museum. Oosterbeek near Arnhem in the afternoon, the Airborne Museum of Operation Market Garden in the old Hartenstein hotel."},
+   {"d": "07.02", "ch": 3, "m": "ruins", "s": ["xanten"], "zh": "克桑滕", "en": "Xanten", "bz": "过了边境到德国的克桑滕，古罗马的城市遗址，展厅里有罗马道路图。傍晚在运河边的林荫道上。", "be": "Over the border to Xanten in Germany and its Roman city, a Roman road map in the museum. An avenue by a canal at dusk."},
+   {"d": "07.03", "ch": 3, "m": "dome", "s": ["aachen"], "zh": "亚琛大教堂", "en": "Aachen Cathedral", "bz": "到亚琛，查理曼的八角礼拜堂顶上是金色的马赛克，后面是一整面彩色玻璃的唱诗堂。然后看了大教堂宝库。", "be": "Aachen: gold mosaics in Charlemagne's octagon, a whole choir of stained glass behind it, and then the cathedral treasury."},
+   {"d": "07.04", "ch": 3, "m": "night", "s": ["maastricht"], "zh": "马斯特里赫特", "en": "Maastricht", "bz": "在马斯特里赫特，老教堂改成的书店。晚上弗莱特霍夫广场上正在开露天音乐会。", "be": "Maastricht, and a bookshop in an old Dominican church. An open-air concert on the Vrijthof at night."},
+   {"d": "07.05", "ch": 3, "m": "city", "s": ["leuven"], "zh": "鲁汶", "en": "Leuven", "bz": "到鲁汶，爬上大学图书馆的钟楼看城市；圣伯多禄教堂里挂着迪里克·鲍茨的《最后的晚餐》。", "be": "Leuven: the city from the University Library tower, and Dieric Bouts' Last Supper in St Peter's Church."},
+   {"d": "07.06", "ch": 3, "m": "mountain", "s": ["waterloo"], "zh": "滑铁卢", "en": "Waterloo", "bz": "最后一天在滑铁卢，1815 年的战场。爬上狮子丘，四周还是一片麦田。", "be": "A last day at Waterloo, the battlefield of 1815, up the Lion's Mound over fields still full of wheat."}
+  ]
+ },
+ {
   "id": "china-2026",
   "geo": "eastchina",
   "year": 2026,
