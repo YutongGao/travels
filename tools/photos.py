@@ -53,6 +53,13 @@ ZONES = [  # (in effect until this UTC instant, zone)
 ]
 
 
+# Cameras whose clocks were wrong on a trip, checked against same-scene iPhone shots.
+# California 2017: the Canon was on China time, the Nikon on US Eastern time.
+CLOCK_FIX = {
+    ("Canon EOS 70D", 2017): timedelta(hours=-15),
+    ("NIKON D3200", 2017): timedelta(hours=-3),
+}
+
 ZONES_FROM = datetime(2024, 11, 20, tzinfo=timezone.utc)   # the table above covers Japan + Turkey only
 ZONES_UNTIL = datetime(2025, 1, 14, tzinfo=timezone.utc)
 
@@ -147,6 +154,10 @@ def classify(rec, days):
         return
     if rec.get("oto") and not rec["oto"].strip(" :"):
         rec["oto"] = None
+    fix = CLOCK_FIX.get((rec.get("model"), local.year))
+    if fix:  # camera clock set to another zone; shift to trip-local wall time
+        local += fix
+        rec["note"] = f"clock fix {fix}"
     if rec.get("oto"):
         sign = 1 if rec["oto"][0] == "+" else -1
         hh, mm = map(int, rec["oto"][1:].split(":"))
@@ -351,6 +362,14 @@ def cmd_build():
         for d in t["days"]:
             key = (t["id"], d["d"])
             cands = by_day.get(key, [])
+            if t.get("draft"):  # not reviewed yet: export nothing
+                continue
+            if t.get("frozen"):
+                # finished trip: keep exactly what is published, never re-pick or touch its files
+                old = previous.get(key[0], {}).get(key[1])
+                if old:
+                    kept[key] = old
+                continue
             if any(r.get("missing") for r in cands):
                 # originals for this day aren't on disk any more: keep what was exported before
                 old = previous.get(key[0], {}).get(key[1])

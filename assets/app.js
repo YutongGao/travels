@@ -3,6 +3,7 @@ const load=f=>fetch("data/"+f,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Er
 let GEO,TRIPS,PHOTOS;
 try{[GEO,TRIPS,PHOTOS]=await Promise.all(["geo.json","trips.json","photos.json"].map(load))}
 catch(e){document.getElementById("app").innerHTML=`<p style="padding:48px 0">数据加载失败 / Failed to load data: ${e.message}</p>`;throw e}
+TRIPS=TRIPS.filter(t=>!t.draft);  // drafts are still being reviewed
 TRIPS.forEach(tr=>tr.days.forEach(d=>{const p=(PHOTOS[tr.id]||{})[d.d];if(p){d.photos=p.items;d.cover=p.cover||0}}));
 const MOOD={air:["#9DB7D5","#E4ECF4"],night:["#1C2440","#46557F"],city:["#B9C3CC","#77838F"],mountain:["#A9C1D9","#66806A"],temple:["#D6C7AE","#8A5A3C"],
  snow:["#C9D6E2","#F4F7FA"],garden:["#B9CBA4","#687F52"],sea:["#AFCFE0","#3B7894"],lake:["#C3D6DE","#6893A3"],torii:["#EDBE95","#B4452F"],
