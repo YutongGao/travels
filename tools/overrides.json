@@ -101,6 +101,150 @@
       "IMG_0021.HEIC"
     ]
   },
+  "north-america-2024/05.26": {
+    "only": [
+      "IMG_6775.HEIC",
+      "IMG_6778.HEIC",
+      "IMG_6780.HEIC",
+      "IMG_6781.HEIC",
+      "IMG_6784.HEIC",
+      "IMG_6786.HEIC",
+      "IMG_6789.HEIC",
+      "IMG_6814.HEIC"
+    ],
+    "cover": "IMG_6781.HEIC"
+  },
+  "north-america-2024/05.28": {
+    "only": [
+      "IMG_6820.HEIC",
+      "IMG_6823.HEIC",
+      "IMG_6824.HEIC",
+      "IMG_6833.HEIC",
+      "IMG_6830.HEIC",
+      "IMG_6842.HEIC",
+      "IMG_6847.HEIC",
+      "IMG_6852.HEIC",
+      "IMG_6873.HEIC"
+    ],
+    "cover": "IMG_6820.HEIC"
+  },
+  "north-america-2024/05.31": {
+    "only": [
+      "IMG_6897.HEIC",
+      "IMG_6903.HEIC",
+      "IMG_6905.HEIC",
+      "IMG_6908.HEIC",
+      "IMG_6917.HEIC",
+      "IMG_6918.HEIC",
+      "IMG_6921.HEIC"
+    ],
+    "cover": "IMG_6905.HEIC"
+  },
+  "north-america-2024/06.03": {
+    "only": [
+      "IMG_6936.HEIC",
+      "IMG_6942.HEIC",
+      "IMG_6944.HEIC",
+      "IMG_6973.HEIC",
+      "IMG_6975.HEIC",
+      "IMG_6979.HEIC",
+      "IMG_6984.HEIC",
+      "IMG_6991.HEIC",
+      "IMG_6993.HEIC"
+    ],
+    "cover": "IMG_6984.HEIC"
+  },
+  "north-america-2024/06.08": {
+    "only": [
+      "IMG_7024.HEIC",
+      "IMG_7026.HEIC",
+      "IMG_7035.HEIC",
+      "IMG_7052.HEIC",
+      "IMG_7054.HEIC",
+      "IMG_7074.HEIC",
+      "IMG_7078.HEIC",
+      "IMG_7119.HEIC",
+      "IMG_7137.HEIC"
+    ],
+    "cover": "IMG_7078.HEIC"
+  },
+  "north-america-2024/07.04": {
+    "only": [
+      "IMG_7357.HEIC",
+      "IMG_7354.HEIC"
+    ],
+    "cover": "IMG_7357.HEIC"
+  },
+  "north-america-2024/07.06": {
+    "only": [
+      "IMG_7372.HEIC",
+      "IMG_7378.HEIC",
+      "IMG_7379.HEIC",
+      "IMG_7383.HEIC",
+      "IMG_7386.HEIC",
+      "IMG_7389.HEIC",
+      "IMG_7390.HEIC",
+      "IMG_7392.HEIC",
+      "IMG_7394.HEIC"
+    ],
+    "cover": "IMG_7390.HEIC"
+  },
+  "north-america-2024/07.07": {
+    "only": [
+      "IMG_7403.HEIC",
+      "IMG_7410.HEIC",
+      "IMG_7411.HEIC",
+      "IMG_7413.HEIC",
+      "IMG_21D11BAA-30AF-411D-BE5E-C0E1792D306E.jpeg",
+      "IMG_7415.HEIC",
+      "IMG_7416.HEIC",
+      "IMG_7418.HEIC",
+      "IMG_7419.HEIC"
+    ],
+    "cover": "IMG_7413.HEIC"
+  },
+  "north-america-2024/07.09": {
+    "only": [
+      "IMG_7433.HEIC",
+      "IMG_7436.HEIC",
+      "IMG_7442.HEIC",
+      "IMG_7443.HEIC",
+      "IMG_7445.HEIC",
+      "IMG_7447.HEIC",
+      "IMG_7448.HEIC",
+      "IMG_7449.HEIC",
+      "IMG_7452.HEIC"
+    ],
+    "cover": "IMG_7436.HEIC"
+  },
+  "north-america-2024/07.12": {
+    "only": [
+      "IMG_7466.HEIC",
+      "IMG_7467.HEIC",
+      "IMG_7472.HEIC",
+      "IMG_7473.HEIC"
+    ],
+    "cover": "IMG_7473.HEIC"
+  },
+  "north-america-2024/07.13": {
+    "only": [
+      "IMG_7475.HEIC",
+      "IMG_7482.HEIC",
+      "IMG_7485.HEIC",
+      "IMG_7496.HEIC",
+      "IMG_7498.HEIC",
+      "IMG_7501.HEIC",
+      "IMG_7503.HEIC"
+    ],
+    "cover": "IMG_7501.HEIC"
+  },
+  "north-america-2024/07.15": {
+    "only": [
+      "IMG_7506.HEIC",
+      "IMG_7514.HEIC"
+    ],
+    "cover": "IMG_7506.HEIC"
+  },
   "turkey-2024/12.19": {
     "remove": [
       "IMG_0754.HEIC"

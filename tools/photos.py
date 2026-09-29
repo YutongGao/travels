@@ -1,7 +1,7 @@
 """Photo pipeline for the travels site.
 
-    python tools/photos.py scan [SRC]     read every original, assign it to a trip day, cache analysis
-    python tools/photos.py build [SRC]    pick photos per day, export web sizes, write data/photos.json
+    python tools/photos.py scan [SRC ...] read every original in the given folders, assign it to a trip day, cache analysis
+    python tools/photos.py build          pick photos per day, export web sizes, write data/photos.json
                                           and the review page .cache/report.html
 
 Hand edits live in two files that the pipeline never overwrites:
@@ -53,7 +53,14 @@ ZONES = [  # (in effect until this UTC instant, zone)
 ]
 
 
+ZONES_FROM = datetime(2024, 11, 20, tzinfo=timezone.utc)   # the table above covers Japan + Turkey only
+ZONES_UNTIL = datetime(2025, 1, 14, tzinfo=timezone.utc)
+
+
 def zone_at(utc):
+    """Trip-local zone for the Japan/Turkey period; None elsewhere (then the phone's own offset is used)."""
+    if not (ZONES_FROM <= utc < ZONES_UNTIL):
+        return None
     return next(z for until, z in ZONES if utc < until)
 
 
@@ -63,7 +70,7 @@ def day_index():
     out = {}
     for t in trips:
         first_month = int(t["days"][0]["d"][:2])
-        year0 = 2024
+        year0 = t.get("year", 2024)
         for d in t["days"]:
             m, dd = map(int, d["d"].split("."))
             y = year0 + (1 if m < first_month else 0)
@@ -141,16 +148,20 @@ def classify(rec, days):
         utc = local.replace(tzinfo=phone_tz).astimezone(timezone.utc)
     else:
         # no offset recorded: assume the phone clock showed trip-local time
-        guess = local.replace(tzinfo=JST if local < datetime(2024, 12, 16, 14) else TRT)
+        phone_tz = None
+        if datetime(2024, 11, 20) <= local < datetime(2025, 1, 14):
+            guess = local.replace(tzinfo=JST if local < datetime(2024, 12, 16, 14) else TRT)
+        else:
+            guess = local.replace(tzinfo=timezone.utc)  # unknown zone: keep the wall-clock time as is
         utc = guess.astimezone(timezone.utc)
         rec["note"] = "no-offset"
-    tz = zone_at(utc)
+    tz = zone_at(utc) or phone_tz or timezone.utc
     loc = utc.astimezone(tz)
-    if rec.get("oto") and loc.utcoffset() != utc.astimezone(phone_tz).utcoffset():
+    if phone_tz and loc.utcoffset() != utc.astimezone(phone_tz).utcoffset():
         rec["note"] = f"phone-offset {rec['oto']} vs {tz.tzname(None)}"
     rec["utc"] = utc.strftime("%Y-%m-%dT%H:%M:%SZ")
     rec["local"] = loc.strftime("%Y-%m-%d %H:%M:%S")
-    rec["zone"] = tz.tzname(None)
+    rec["zone"] = tz.tzname(None) if tz is not timezone.utc else "local"
     d = (loc - timedelta(hours=DAY_STARTS_AT)).date()
     if d not in days:
         rec["reason"] = "outside-trip"
@@ -160,11 +171,10 @@ def classify(rec, days):
 
 # ---------- commands ----------
 
-def cmd_scan(src):
-    src = Path(src)
+def cmd_scan(srcs):
     PREVIEW.mkdir(parents=True, exist_ok=True)
     old = {r["name"]: r for r in json.loads(SCAN.read_text(encoding="utf-8"))} if SCAN.exists() else {}
-    files = sorted(p for p in src.iterdir() if p.suffix.lower() in IMAGE_EXT)
+    files = sorted(p for src in map(Path, srcs) for p in src.iterdir() if p.suffix.lower() in IMAGE_EXT)
     todo, recs = [], []
     for p in files:
         r = old.get(p.name)
@@ -187,9 +197,11 @@ def cmd_scan(src):
         if name not in here:
             r["missing"] = True
             recs.append(r)
+    where = {p.name: str(p.parent.resolve()) for p in files}
     for r in recs:
         if r["name"] in here:
             r.pop("missing", None)
+            r["dir"] = where[r["name"]]
     days = day_index()
     for r in recs:
         classify(r, days)
@@ -312,9 +324,9 @@ def export_one(job):
         return f.size
 
 
-def cmd_build(src):
-    src = Path(src)
+def cmd_build():
     recs = json.loads(SCAN.read_text(encoding="utf-8"))
+    srcpath = {r["name"]: str(Path(r["dir"]) / r["name"]) for r in recs if r.get("dir") and not r.get("missing")}
     overrides = json.loads(OVERRIDES.read_text(encoding="utf-8")) if OVERRIDES.exists() else {}
     captions = json.loads(CAPTIONS.read_text(encoding="utf-8")) if CAPTIONS.exists() else {}
     trips = json.loads((ROOT / "data" / "trips.json").read_text(encoding="utf-8"))
@@ -344,7 +356,7 @@ def cmd_build(src):
             for n in names:
                 stem = Path(n).stem
                 want |= {stem + ".webp", stem + ".thumb.webp"}
-                jobs.append((str(src / n), str(out / (stem + ".webp")), str(out / (stem + ".thumb.webp"))))
+                jobs.append((srcpath[n], str(out / (stem + ".webp")), str(out / (stem + ".thumb.webp"))))
             for f in out.iterdir():  # drop files from earlier runs that are no longer picked
                 if f.name not in want:
                     f.unlink()
@@ -361,7 +373,7 @@ def cmd_build(src):
         items = []
         for n in names:
             stem = Path(n).stem
-            w, h = sizes[str(src / n)]
+            w, h = sizes[srcpath[n]]
             c = captions.get(n, {})
             items.append({"o": n, "f": f"photos/{tid}/{day}/{stem}.webp", "t": f"photos/{tid}/{day}/{stem}.thumb.webp",
                           "w": w, "h": h, "zh": c.get("zh", ""), "en": c.get("en", "")})
@@ -429,8 +441,7 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     if not args or args[0] not in ("scan", "build"):
         sys.exit(__doc__)
-    src = args[1] if len(args) > 1 else DEFAULT_SRC
     if args[0] == "scan":
-        cmd_scan(src)
+        cmd_scan(args[1:] or [DEFAULT_SRC])
     else:
-        cmd_build(src)
+        cmd_build()

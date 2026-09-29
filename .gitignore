@@ -16,3 +16,7 @@ desktop.ini
 
 # local tooling config (contains machine paths)
 .claude/
+
+# other photo exports
+Photos-*/
+*.zip

@@ -1,4 +1,114 @@
 {
+ "north-america-2024": {
+  "05.26": {"cover": 3, "items": [
+    {"o": "IMG_6775.HEIC", "f": "photos/north-america-2024/05.26/IMG_6775.webp", "t": "photos/north-america-2024/05.26/IMG_6775.thumb.webp", "w": 1200, "h": 1600, "zh": "煤气镇的蒸汽钟", "en": "The steam clock in Gastown"},
+    {"o": "IMG_6778.HEIC", "f": "photos/north-america-2024/05.26/IMG_6778.webp", "t": "photos/north-america-2024/05.26/IMG_6778.thumb.webp", "w": 1600, "h": 1200, "zh": "加拿大广场", "en": "Canada Place"},
+    {"o": "IMG_6780.HEIC", "f": "photos/north-america-2024/05.26/IMG_6780.webp", "t": "photos/north-america-2024/05.26/IMG_6780.thumb.webp", "w": 1600, "h": 1200, "zh": "停在码头的邮轮", "en": "A cruise ship at the pier"},
+    {"o": "IMG_6781.HEIC", "f": "photos/north-america-2024/05.26/IMG_6781.webp", "t": "photos/north-america-2024/05.26/IMG_6781.thumb.webp", "w": 1600, "h": 1200, "zh": "阴天的布勒内湾，对岸是北岸群山", "en": "Burrard Inlet under cloud, the North Shore mountains beyond"},
+    {"o": "IMG_6784.HEIC", "f": "photos/north-america-2024/05.26/IMG_6784.webp", "t": "photos/north-america-2024/05.26/IMG_6784.thumb.webp", "w": 1600, "h": 1200, "zh": "英吉利湾的沙滩", "en": "The beach at English Bay"},
+    {"o": "IMG_6786.HEIC", "f": "photos/north-america-2024/05.26/IMG_6786.webp", "t": "photos/north-america-2024/05.26/IMG_6786.thumb.webp", "w": 1200, "h": 1600, "zh": "海边吃一支冰淇淋", "en": "An ice cream by the water"},
+    {"o": "IMG_6789.HEIC", "f": "photos/north-america-2024/05.26/IMG_6789.webp", "t": "photos/north-america-2024/05.26/IMG_6789.thumb.webp", "w": 1600, "h": 1200, "zh": "英吉利湾的因纽特石人", "en": "The inukshuk at English Bay"},
+    {"o": "IMG_6814.HEIC", "f": "photos/north-america-2024/05.26/IMG_6814.webp", "t": "photos/north-america-2024/05.26/IMG_6814.thumb.webp", "w": 1200, "h": 1600, "zh": "夜里到多伦多", "en": "Arriving in Toronto at night"}
+  ]},
+  "05.28": {"cover": 0, "items": [
+    {"o": "IMG_6820.HEIC", "f": "photos/north-america-2024/05.28/IMG_6820.webp", "t": "photos/north-america-2024/05.28/IMG_6820.thumb.webp", "w": 1600, "h": 1200, "zh": "卡萨罗马城堡", "en": "Casa Loma"},
+    {"o": "IMG_6823.HEIC", "f": "photos/north-america-2024/05.28/IMG_6823.webp", "t": "photos/north-america-2024/05.28/IMG_6823.thumb.webp", "w": 1600, "h": 1200, "zh": "城堡里的书房", "en": "A study inside the castle"},
+    {"o": "IMG_6824.HEIC", "f": "photos/north-america-2024/05.28/IMG_6824.webp", "t": "photos/north-america-2024/05.28/IMG_6824.thumb.webp", "w": 1200, "h": 1600, "zh": "城堡里的管风琴", "en": "The organ at Casa Loma"},
+    {"o": "IMG_6833.HEIC", "f": "photos/north-america-2024/05.28/IMG_6833.webp", "t": "photos/north-america-2024/05.28/IMG_6833.thumb.webp", "w": 1600, "h": 1200, "zh": "女王直属来复枪团的团史博物馆", "en": "The regimental museum of the Queen's Own Rifles"},
+    {"o": "IMG_6830.HEIC", "f": "photos/north-america-2024/05.28/IMG_6830.webp", "t": "photos/north-america-2024/05.28/IMG_6830.thumb.webp", "w": 1200, "h": 1600, "zh": "博物馆里的勋章", "en": "Medals in the museum"},
+    {"o": "IMG_6842.HEIC", "f": "photos/north-america-2024/05.28/IMG_6842.webp", "t": "photos/north-america-2024/05.28/IMG_6842.thumb.webp", "w": 1200, "h": 1600, "zh": "多伦多大学的托马斯·费舍尔善本图书馆", "en": "Thomas Fisher Rare Book Library, University of Toronto"},
+    {"o": "IMG_6847.HEIC", "f": "photos/north-america-2024/05.28/IMG_6847.webp", "t": "photos/north-america-2024/05.28/IMG_6847.thumb.webp", "w": 1600, "h": 1200, "zh": "多伦多大学的会议堂", "en": "Convocation Hall, University of Toronto"},
+    {"o": "IMG_6852.HEIC", "f": "photos/north-america-2024/05.28/IMG_6852.webp", "t": "photos/north-america-2024/05.28/IMG_6852.thumb.webp", "w": 1200, "h": 1600, "zh": "校园里的钟楼", "en": "A tower on campus"},
+    {"o": "IMG_6873.HEIC", "f": "photos/north-america-2024/05.28/IMG_6873.webp", "t": "photos/north-america-2024/05.28/IMG_6873.thumb.webp", "w": 1200, "h": 1600, "zh": "傍晚的 CN 塔", "en": "The CN Tower in the evening"}
+  ]},
+  "05.31": {"cover": 2, "items": [
+    {"o": "IMG_6897.HEIC", "f": "photos/north-america-2024/05.31/IMG_6897.webp", "t": "photos/north-america-2024/05.31/IMG_6897.thumb.webp", "w": 1600, "h": 1200, "zh": "草地上吃草的鹿", "en": "A deer grazing"},
+    {"o": "IMG_6903.HEIC", "f": "photos/north-america-2024/05.31/IMG_6903.webp", "t": "photos/north-america-2024/05.31/IMG_6903.thumb.webp", "w": 1600, "h": 1200, "zh": "乡间的天空", "en": "Sky over the countryside"},
+    {"o": "IMG_6905.HEIC", "f": "photos/north-america-2024/05.31/IMG_6905.webp", "t": "photos/north-america-2024/05.31/IMG_6905.thumb.webp", "w": 1600, "h": 1200, "zh": "清晨的草坪", "en": "The lawn in the early morning"},
+    {"o": "IMG_6908.HEIC", "f": "photos/north-america-2024/05.31/IMG_6908.webp", "t": "photos/north-america-2024/05.31/IMG_6908.thumb.webp", "w": 1200, "h": 1600, "zh": "书架上的佛学书", "en": "Books on Buddhism on the shelf"},
+    {"o": "IMG_6917.HEIC", "f": "photos/north-america-2024/05.31/IMG_6917.webp", "t": "photos/north-america-2024/05.31/IMG_6917.thumb.webp", "w": 1200, "h": 1600, "zh": "一整排《大藏经》", "en": "A whole row of the Buddhist canon"},
+    {"o": "IMG_6918.HEIC", "f": "photos/north-america-2024/05.31/IMG_6918.webp", "t": "photos/north-america-2024/05.31/IMG_6918.thumb.webp", "w": 1200, "h": 1600, "zh": "傍晚又来了一只鹿", "en": "Another deer at dusk"},
+    {"o": "IMG_6921.HEIC", "f": "photos/north-america-2024/05.31/IMG_6921.webp", "t": "photos/north-america-2024/05.31/IMG_6921.thumb.webp", "w": 1200, "h": 1600, "zh": "林边的鹿", "en": "A deer at the edge of the woods"}
+  ]},
+  "06.03": {"cover": 6, "items": [
+    {"o": "IMG_6936.HEIC", "f": "photos/north-america-2024/06.03/IMG_6936.webp", "t": "photos/north-america-2024/06.03/IMG_6936.thumb.webp", "w": 1600, "h": 1200, "zh": "哈德逊河对岸的泽西城", "en": "Jersey City across the Hudson"},
+    {"o": "IMG_6942.HEIC", "f": "photos/north-america-2024/06.03/IMG_6942.webp", "t": "photos/north-america-2024/06.03/IMG_6942.thumb.webp", "w": 1600, "h": 1200, "zh": "哈德逊河", "en": "The Hudson"},
+    {"o": "IMG_6944.HEIC", "f": "photos/north-america-2024/06.03/IMG_6944.webp", "t": "photos/north-america-2024/06.03/IMG_6944.thumb.webp", "w": 1200, "h": 1600, "zh": "远处的自由女神像", "en": "The Statue of Liberty in the distance"},
+    {"o": "IMG_6973.HEIC", "f": "photos/north-america-2024/06.03/IMG_6973.webp", "t": "photos/north-america-2024/06.03/IMG_6973.thumb.webp", "w": 1600, "h": 1200, "zh": "美国自然历史博物馆，墨西哥和中美洲展厅", "en": "American Museum of Natural History, the Mexico and Central America hall"},
+    {"o": "IMG_6975.HEIC", "f": "photos/north-america-2024/06.03/IMG_6975.webp", "t": "photos/north-america-2024/06.03/IMG_6975.thumb.webp", "w": 1200, "h": 1600, "zh": "阿兹特克太阳石的复制品", "en": "A cast of the Aztec Sun Stone"},
+    {"o": "IMG_6979.HEIC", "f": "photos/north-america-2024/06.03/IMG_6979.webp", "t": "photos/north-america-2024/06.03/IMG_6979.thumb.webp", "w": 1600, "h": 1200, "zh": "秘鲁的陶俑", "en": "Peruvian ceramic figures"},
+    {"o": "IMG_6984.HEIC", "f": "photos/north-america-2024/06.03/IMG_6984.webp", "t": "photos/north-america-2024/06.03/IMG_6984.thumb.webp", "w": 1200, "h": 1600, "zh": "傍晚从高处看帝国大厦", "en": "The Empire State Building from high up at dusk"},
+    {"o": "IMG_6991.HEIC", "f": "photos/north-america-2024/06.03/IMG_6991.webp", "t": "photos/north-america-2024/06.03/IMG_6991.thumb.webp", "w": 1600, "h": 1200, "zh": "纪伊国屋书店的日文书架", "en": "Japanese shelves at Kinokuniya"},
+    {"o": "IMG_6993.HEIC", "f": "photos/north-america-2024/06.03/IMG_6993.webp", "t": "photos/north-america-2024/06.03/IMG_6993.thumb.webp", "w": 1600, "h": 1200, "zh": "纪伊国屋书店", "en": "Kinokuniya"}
+  ]},
+  "06.08": {"cover": 6, "items": [
+    {"o": "IMG_7024.HEIC", "f": "photos/north-america-2024/06.08/IMG_7024.webp", "t": "photos/north-america-2024/06.08/IMG_7024.thumb.webp", "w": 1600, "h": 1200, "zh": "芝加哥艺术博物馆的日本陶器", "en": "Japanese ceramics at the Art Institute of Chicago"},
+    {"o": "IMG_7026.HEIC", "f": "photos/north-america-2024/06.08/IMG_7026.webp", "t": "photos/north-america-2024/06.08/IMG_7026.thumb.webp", "w": 1200, "h": 1600, "zh": "陶狗", "en": "A ceramic dog"},
+    {"o": "IMG_7035.HEIC", "f": "photos/north-america-2024/06.08/IMG_7035.webp", "t": "photos/north-america-2024/06.08/IMG_7035.thumb.webp", "w": 1200, "h": 1600, "zh": "埃尔·格列柯的画", "en": "A painting by El Greco"},
+    {"o": "IMG_7052.HEIC", "f": "photos/north-america-2024/06.08/IMG_7052.webp", "t": "photos/north-america-2024/06.08/IMG_7052.thumb.webp", "w": 1200, "h": 1600, "zh": "威利斯大厦顶上往西看", "en": "West from the top of Willis Tower"},
+    {"o": "IMG_7054.HEIC", "f": "photos/north-america-2024/06.08/IMG_7054.webp", "t": "photos/north-america-2024/06.08/IMG_7054.thumb.webp", "w": 1600, "h": 1200, "zh": "密歇根湖和城区", "en": "Lake Michigan and the city"},
+    {"o": "IMG_7074.HEIC", "f": "photos/north-america-2024/06.08/IMG_7074.webp", "t": "photos/north-america-2024/06.08/IMG_7074.thumb.webp", "w": 1200, "h": 1600, "zh": "论坛报大楼", "en": "Tribune Tower"},
+    {"o": "IMG_7078.HEIC", "f": "photos/north-america-2024/06.08/IMG_7078.webp", "t": "photos/north-america-2024/06.08/IMG_7078.thumb.webp", "w": 1600, "h": 1200, "zh": "芝加哥河两岸的高楼", "en": "Towers along the Chicago River"},
+    {"o": "IMG_7119.HEIC", "f": "photos/north-america-2024/06.08/IMG_7119.webp", "t": "photos/north-america-2024/06.08/IMG_7119.thumb.webp", "w": 1200, "h": 1600, "zh": "菲尔德自然史博物馆", "en": "The Field Museum"},
+    {"o": "IMG_7137.HEIC", "f": "photos/north-america-2024/06.08/IMG_7137.webp", "t": "photos/north-america-2024/06.08/IMG_7137.thumb.webp", "w": 1600, "h": 1200, "zh": "唐人街的九龙壁", "en": "The Nine Dragon Wall in Chinatown"}
+  ]},
+  "07.04": {"cover": 0, "items": [
+    {"o": "IMG_7357.HEIC", "f": "photos/north-america-2024/07.04/IMG_7357.webp", "t": "photos/north-america-2024/07.04/IMG_7357.thumb.webp", "w": 1200, "h": 1600, "zh": "奥斯汀的高楼", "en": "Downtown Austin"},
+    {"o": "IMG_7354.HEIC", "f": "photos/north-america-2024/07.04/IMG_7354.webp", "t": "photos/north-america-2024/07.04/IMG_7354.thumb.webp", "w": 1600, "h": 1200, "zh": "从高处看奥斯汀", "en": "Austin from high up"}
+  ]},
+  "07.06": {"cover": 6, "items": [
+    {"o": "IMG_7372.HEIC", "f": "photos/north-america-2024/07.06/IMG_7372.webp", "t": "photos/north-america-2024/07.06/IMG_7372.thumb.webp", "w": 1200, "h": 1600, "zh": "暴雨里开往休斯顿", "en": "Driving to Houston through a downpour"},
+    {"o": "IMG_7378.HEIC", "f": "photos/north-america-2024/07.06/IMG_7378.webp", "t": "photos/north-america-2024/07.06/IMG_7378.thumb.webp", "w": 1200, "h": 1600, "zh": "约翰逊航天中心的展厅", "en": "The exhibition hall at Johnson Space Center"},
+    {"o": "IMG_7379.HEIC", "f": "photos/north-america-2024/07.06/IMG_7379.webp", "t": "photos/north-america-2024/07.06/IMG_7379.thumb.webp", "w": 1600, "h": 1200, "zh": "月球上的着陆点", "en": "Landing sites on the Moon"},
+    {"o": "IMG_7383.HEIC", "f": "photos/north-america-2024/07.06/IMG_7383.webp", "t": "photos/north-america-2024/07.06/IMG_7383.thumb.webp", "w": 1200, "h": 1600, "zh": "小乔火箭", "en": "A Little Joe rocket"},
+    {"o": "IMG_7386.HEIC", "f": "photos/north-america-2024/07.06/IMG_7386.webp", "t": "photos/north-america-2024/07.06/IMG_7386.thumb.webp", "w": 1600, "h": 1200, "zh": "土星五号的发动机", "en": "The engines of a Saturn V"},
+    {"o": "IMG_7389.HEIC", "f": "photos/north-america-2024/07.06/IMG_7389.webp", "t": "photos/north-america-2024/07.06/IMG_7389.thumb.webp", "w": 1600, "h": 1200, "zh": "航天中心的草地", "en": "The grounds of the space center"},
+    {"o": "IMG_7390.HEIC", "f": "photos/north-america-2024/07.06/IMG_7390.webp", "t": "photos/north-america-2024/07.06/IMG_7390.thumb.webp", "w": 1600, "h": 1200, "zh": "驮着航天飞机的波音 747", "en": "The Boeing 747 carrying a space shuttle"},
+    {"o": "IMG_7392.HEIC", "f": "photos/north-america-2024/07.06/IMG_7392.webp", "t": "photos/north-america-2024/07.06/IMG_7392.thumb.webp", "w": 1200, "h": 1600, "zh": "747 的机头", "en": "The nose of the 747"},
+    {"o": "IMG_7394.HEIC", "f": "photos/north-america-2024/07.06/IMG_7394.webp", "t": "photos/north-america-2024/07.06/IMG_7394.thumb.webp", "w": 1200, "h": 1600, "zh": "晚饭的烤串", "en": "Kebabs for dinner"}
+  ]},
+  "07.07": {"cover": 3, "items": [
+    {"o": "IMG_7403.HEIC", "f": "photos/north-america-2024/07.07/IMG_7403.webp", "t": "photos/north-america-2024/07.07/IMG_7403.thumb.webp", "w": 1600, "h": 1200, "zh": "州议会前的牛仔群像", "en": "The cowboy monument outside the Capitol"},
+    {"o": "IMG_7410.HEIC", "f": "photos/north-america-2024/07.07/IMG_7410.webp", "t": "photos/north-america-2024/07.07/IMG_7410.thumb.webp", "w": 1600, "h": 1200, "zh": "议会大厦里的油画", "en": "A painting inside the Capitol"},
+    {"o": "IMG_7411.HEIC", "f": "photos/north-america-2024/07.07/IMG_7411.webp", "t": "photos/north-america-2024/07.07/IMG_7411.thumb.webp", "w": 1200, "h": 1600, "zh": "圆厅地面上的六面旗徽章", "en": "The six-flags seal on the rotunda floor"},
+    {"o": "IMG_7413.HEIC", "f": "photos/north-america-2024/07.07/IMG_7413.webp", "t": "photos/north-america-2024/07.07/IMG_7413.thumb.webp", "w": 1200, "h": 1600, "zh": "德州议会大厦的穹顶", "en": "The dome of the Texas Capitol"},
+    {"o": "IMG_21D11BAA-30AF-411D-BE5E-C0E1792D306E.jpeg", "f": "photos/north-america-2024/07.07/IMG_21D11BAA-30AF-411D-BE5E-C0E1792D306E.webp", "t": "photos/north-america-2024/07.07/IMG_21D11BAA-30AF-411D-BE5E-C0E1792D306E.thumb.webp", "w": 1200, "h": 1600, "zh": "从上面看圆厅", "en": "The rotunda from above"},
+    {"o": "IMG_7415.HEIC", "f": "photos/north-america-2024/07.07/IMG_7415.webp", "t": "photos/north-america-2024/07.07/IMG_7415.thumb.webp", "w": 1200, "h": 1600, "zh": "议会大厦草坪上的纪念碑", "en": "A monument on the Capitol grounds"},
+    {"o": "IMG_7416.HEIC", "f": "photos/north-america-2024/07.07/IMG_7416.webp", "t": "photos/north-america-2024/07.07/IMG_7416.thumb.webp", "w": 1600, "h": 1200, "zh": "德州非裔美国人历史纪念碑", "en": "The Texas African American History Memorial"},
+    {"o": "IMG_7418.HEIC", "f": "photos/north-america-2024/07.07/IMG_7418.webp", "t": "photos/north-america-2024/07.07/IMG_7418.thumb.webp", "w": 1200, "h": 1600, "zh": "圣母玛利亚主教座堂", "en": "St. Mary Cathedral"},
+    {"o": "IMG_7419.HEIC", "f": "photos/north-america-2024/07.07/IMG_7419.webp", "t": "photos/north-america-2024/07.07/IMG_7419.thumb.webp", "w": 1200, "h": 1600, "zh": "一座石砌教堂", "en": "A stone church"}
+  ]},
+  "07.09": {"cover": 1, "items": [
+    {"o": "IMG_7433.HEIC", "f": "photos/north-america-2024/07.09/IMG_7433.webp", "t": "photos/north-america-2024/07.09/IMG_7433.thumb.webp", "w": 1600, "h": 1200, "zh": "肯尼迪航天中心的入口", "en": "The entrance to Kennedy Space Center"},
+    {"o": "IMG_7436.HEIC", "f": "photos/north-america-2024/07.09/IMG_7436.webp", "t": "photos/north-america-2024/07.09/IMG_7436.thumb.webp", "w": 1200, "h": 1600, "zh": "火箭花园", "en": "The Rocket Garden"},
+    {"o": "IMG_7442.HEIC", "f": "photos/north-america-2024/07.09/IMG_7442.webp", "t": "photos/north-america-2024/07.09/IMG_7442.thumb.webp", "w": 1200, "h": 1600, "zh": "宇航服", "en": "A spacesuit"},
+    {"o": "IMG_7443.HEIC", "f": "photos/north-america-2024/07.09/IMG_7443.webp", "t": "photos/north-america-2024/07.09/IMG_7443.thumb.webp", "w": 1600, "h": 1200, "zh": "展厅里的飞船", "en": "A spacecraft on display"},
+    {"o": "IMG_7445.HEIC", "f": "photos/north-america-2024/07.09/IMG_7445.webp", "t": "photos/north-america-2024/07.09/IMG_7445.thumb.webp", "w": 1600, "h": 1200, "zh": "远处的飞行器总装大楼", "en": "The Vehicle Assembly Building in the distance"},
+    {"o": "IMG_7447.HEIC", "f": "photos/north-america-2024/07.09/IMG_7447.webp", "t": "photos/north-america-2024/07.09/IMG_7447.thumb.webp", "w": 1200, "h": 1600, "zh": "土星五号发射塔的模型", "en": "A model of the Saturn V launch tower"},
+    {"o": "IMG_7448.HEIC", "f": "photos/north-america-2024/07.09/IMG_7448.webp", "t": "photos/north-america-2024/07.09/IMG_7448.thumb.webp", "w": 1600, "h": 1200, "zh": "阿波罗时代的发射控制室", "en": "The Apollo-era firing room"},
+    {"o": "IMG_7449.HEIC", "f": "photos/north-america-2024/07.09/IMG_7449.webp", "t": "photos/north-america-2024/07.09/IMG_7449.thumb.webp", "w": 1600, "h": 1200, "zh": "土星五号的发动机", "en": "The engines of a Saturn V"},
+    {"o": "IMG_7452.HEIC", "f": "photos/north-america-2024/07.09/IMG_7452.webp", "t": "photos/north-america-2024/07.09/IMG_7452.thumb.webp", "w": 1600, "h": 1200, "zh": "阿波罗任务的徽章", "en": "Apollo mission patches"}
+  ]},
+  "07.12": {"cover": 3, "items": [
+    {"o": "IMG_7466.HEIC", "f": "photos/north-america-2024/07.12/IMG_7466.webp", "t": "photos/north-america-2024/07.12/IMG_7466.thumb.webp", "w": 1600, "h": 1200, "zh": "环球影城的园区模型", "en": "A model of the Universal parks"},
+    {"o": "IMG_7467.HEIC", "f": "photos/north-america-2024/07.12/IMG_7467.webp", "t": "photos/north-america-2024/07.12/IMG_7467.thumb.webp", "w": 1600, "h": 1200, "zh": "入口的钟楼", "en": "The clock tower at the entrance"},
+    {"o": "IMG_7472.HEIC", "f": "photos/north-america-2024/07.12/IMG_7472.webp", "t": "photos/north-america-2024/07.12/IMG_7472.thumb.webp", "w": 1600, "h": 1200, "zh": "卡通主题街区", "en": "The cartoon district"},
+    {"o": "IMG_7473.HEIC", "f": "photos/north-america-2024/07.12/IMG_7473.webp", "t": "photos/north-america-2024/07.12/IMG_7473.thumb.webp", "w": 1600, "h": 1200, "zh": "棕榈树下的游乐区", "en": "Rides under the palms"}
+  ]},
+  "07.13": {"cover": 5, "items": [
+    {"o": "IMG_7475.HEIC", "f": "photos/north-america-2024/07.13/IMG_7475.webp", "t": "photos/north-america-2024/07.13/IMG_7475.thumb.webp", "w": 1600, "h": 1200, "zh": "车窗外的棕榈树", "en": "Palms from the car window"},
+    {"o": "IMG_7482.HEIC", "f": "photos/north-america-2024/07.13/IMG_7482.webp", "t": "photos/north-america-2024/07.13/IMG_7482.thumb.webp", "w": 1200, "h": 1600, "zh": "朋友家的猫", "en": "A friend's cat"},
+    {"o": "IMG_7485.HEIC", "f": "photos/north-america-2024/07.13/IMG_7485.webp", "t": "photos/north-america-2024/07.13/IMG_7485.thumb.webp", "w": 1200, "h": 1600, "zh": "窗台上的猫", "en": "The cat on the windowsill"},
+    {"o": "IMG_7496.HEIC", "f": "photos/north-america-2024/07.13/IMG_7496.webp", "t": "photos/north-america-2024/07.13/IMG_7496.thumb.webp", "w": 1200, "h": 1600, "zh": "泳池边", "en": "By the pool"},
+    {"o": "IMG_7498.HEIC", "f": "photos/north-america-2024/07.13/IMG_7498.webp", "t": "photos/north-america-2024/07.13/IMG_7498.thumb.webp", "w": 1200, "h": 1600, "zh": "水里的鳄鱼", "en": "An alligator in the water"},
+    {"o": "IMG_7501.HEIC", "f": "photos/north-america-2024/07.13/IMG_7501.webp", "t": "photos/north-america-2024/07.13/IMG_7501.thumb.webp", "w": 1200, "h": 1600, "zh": "浮在水面上的鳄鱼", "en": "An alligator floating at the surface"},
+    {"o": "IMG_7503.HEIC", "f": "photos/north-america-2024/07.13/IMG_7503.webp", "t": "photos/north-america-2024/07.13/IMG_7503.thumb.webp", "w": 1200, "h": 1600, "zh": "睡莲叶", "en": "Water lily pads"}
+  ]},
+  "07.15": {"cover": 0, "items": [
+    {"o": "IMG_7506.HEIC", "f": "photos/north-america-2024/07.15/IMG_7506.webp", "t": "photos/north-america-2024/07.15/IMG_7506.thumb.webp", "w": 1600, "h": 1200, "zh": "从高处看亚特兰大", "en": "Atlanta from high up"},
+    {"o": "IMG_7514.HEIC", "f": "photos/north-america-2024/07.15/IMG_7514.webp", "t": "photos/north-america-2024/07.15/IMG_7514.thumb.webp", "w": 1200, "h": 1600, "zh": "晚饭", "en": "Dinner"}
+  ]}
+ },
  "japan-2024": {
   "11.24": {"cover": 2, "items": [
     {"o": "IMG_8251.HEIC", "f": "photos/japan-2024/11.24/IMG_8251.webp", "t": "photos/japan-2024/11.24/IMG_8251.thumb.webp", "w": 1200, "h": 1600, "zh": "曹洞宗真正寺，门口一棵银杏", "en": "Shinshō-ji, a Sōtō Zen temple, with its ginkgo"},
