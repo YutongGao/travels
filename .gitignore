@@ -1,0 +1,18 @@
+# original photo export (9 GB) — never commit
+Photos-1-001/
+*.zip
+
+# prototype kept locally for reference (4.8 MB of base64)
+travels.html
+
+# photo pipeline scratch
+.cache/
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# local tooling config (contains machine paths)
+.claude/

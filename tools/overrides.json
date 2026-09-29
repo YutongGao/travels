@@ -1,0 +1,104 @@
+{
+  "japan-2024/11.23": {
+    "remove": [
+      "IMG_8249.HEIC",
+      "IMG_8248.HEIC"
+    ]
+  },
+  "japan-2024/11.24": {
+    "only": [
+      "IMG_8251.HEIC",
+      "IMG_8254.HEIC",
+      "IMG_8262.HEIC",
+      "IMG_8265.HEIC",
+      "IMG_8268.HEIC",
+      "IMG_8273.HEIC",
+      "IMG_8282.HEIC"
+    ],
+    "cover": "IMG_8262.HEIC"
+  },
+  "japan-2024/11.25": {
+    "remove": [
+      "IMG_8291.HEIC",
+      "IMG_8307.HEIC",
+      "IMG_8304.HEIC",
+      "IMG_8320.HEIC"
+    ]
+  },
+  "japan-2024/11.27": {
+    "remove": [
+      "IMG_8526.HEIC",
+      "IMG_8523.HEIC"
+    ]
+  },
+  "japan-2024/11.28": {
+    "remove": [
+      "IMG_8561.HEIC"
+    ]
+  },
+  "japan-2024/11.29": {
+    "only": [
+      "IMG_8600.HEIC",
+      "IMG_8601.HEIC",
+      "IMG_8605.HEIC",
+      "IMG_8607.HEIC"
+    ],
+    "cover": "IMG_8605.HEIC"
+  },
+  "japan-2024/12.02": {
+    "remove": [
+      "IMG_8673.HEIC",
+      "IMG_8674.HEIC",
+      "IMG_8675.HEIC",
+      "IMG_8676.HEIC"
+    ]
+  },
+  "japan-2024/12.03": {
+    "remove": [
+      "IMG_8921.HEIC",
+      "IMG_8923.HEIC"
+    ]
+  },
+  "japan-2024/12.04": {
+    "remove": [
+      "IMG_9004.HEIC",
+      "IMG_9017.HEIC"
+    ]
+  },
+  "japan-2024/12.06": {
+    "remove": [
+      "IMG_9199.HEIC",
+      "IMG_9151.HEIC"
+    ]
+  },
+  "japan-2024/12.09": {
+    "remove": [
+      "IMG_9601.HEIC",
+      "IMG_9570.HEIC"
+    ]
+  },
+  "japan-2024/12.12": {
+    "remove": [
+      "IMG_9808.HEIC"
+    ]
+  },
+  "japan-2024/12.14": {
+    "remove": [
+      "IMG_9926.HEIC",
+      "IMG_9941.HEIC"
+    ]
+  },
+  "japan-2024/12.15": {
+    "remove": [
+      "IMG_0001.HEIC"
+    ]
+  },
+  "japan-2024/12.16": {
+    "remove": [
+      "IMG_0023.HEIC",
+      "IMG_0022.HEIC",
+      "IMG_0020.HEIC",
+      "IMG_0021.HEIC"
+    ]
+  }
+}

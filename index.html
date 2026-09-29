@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>旅行 Travels</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body data-lang="zh">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs id="defs"></defs></svg>
+<header class="top"><div class="top-in">
+  <a class="brand" href="#"><span class="zh">旅行</span><span class="en">Travels</span></a>
+  <nav class="tabs" id="tabs" aria-label="Trips"></nav>
+  <button class="lang" id="langBtn" type="button">EN</button>
+</div></header>
+<main id="app"></main>
+<div class="tip" id="tip" aria-hidden="true"></div>
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photo"><button class="x" type="button" id="lbX" aria-label="Close">✕</button><button class="pv" type="button" id="lbP" aria-label="Previous photo">‹</button><img id="lbImg" alt=""><p id="lbCap"></p><p class="lbc" id="lbCount"></p><button class="nx" type="button" id="lbN" aria-label="Next photo">›</button></div>
+<div class="detail" id="detail" hidden role="dialog" aria-modal="true" aria-labelledby="dTitle">
+  <div class="d-map"><svg id="dmap" preserveAspectRatio="xMidYMid meet"></svg><div class="mapctl"><button type="button" id="dzIn" aria-label="Zoom in">+</button><button type="button" id="dzOut" aria-label="Zoom out">−</button><button type="button" id="dzReset" aria-label="Back to this day">⟲</button></div><span class="d-hint"><span class="zh">拖动、滚轮缩放；点其他地点跳过去</span><span class="en">Drag, scroll to zoom; tap a point to jump there</span></span></div>
+  <div class="d-body" id="dbody">
+    <div class="d-nav"><button type="button" id="dPrev" aria-label="Previous day">‹</button><span class="count" id="dCount"></span><button type="button" id="dNext" aria-label="Next day">›</button><button type="button" id="dClose" aria-label="Close">✕</button></div>
+    <div id="dContent"></div>
+  </div>
+</div>
+<script type="module" src="assets/app.js"></script>
+</body>
+</html>
