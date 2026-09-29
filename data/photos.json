@@ -1,4 +1,219 @@
 {
+ "china-2026": {
+  "05.21": {"cover": 1, "items": [
+    {"o": "d9_IMG_1785.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1785.webp", "t": "photos/china-2026/05.21/d9_IMG_1785.thumb.webp", "w": 1600, "h": 1200, "zh": "南汉山城", "en": "Namhansanseong"},
+    {"o": "d9_IMG_1808.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1808.webp", "t": "photos/china-2026/05.21/d9_IMG_1808.thumb.webp", "w": 1200, "h": 1600, "zh": "行宫和松树", "en": "The temporary palace and a pine"},
+    {"o": "d9_IMG_1819.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1819.webp", "t": "photos/china-2026/05.21/d9_IMG_1819.thumb.webp", "w": 1200, "h": 1600, "zh": "「国清寺」石碑", "en": "The stone of Gukcheongsa"},
+    {"o": "d9_IMG_1823.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1823.webp", "t": "photos/china-2026/05.21/d9_IMG_1823.thumb.webp", "w": 1600, "h": 1200, "zh": "寺院门口的灯笼", "en": "Lanterns at the temple gate"},
+    {"o": "d9_IMG_1833.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1833.webp", "t": "photos/china-2026/05.21/d9_IMG_1833.thumb.webp", "w": 1600, "h": 1200, "zh": "山里的石碑", "en": "Stelae in the hills"},
+    {"o": "d9_IMG_1856.HEIC", "f": "photos/china-2026/05.21/d9_IMG_1856.webp", "t": "photos/china-2026/05.21/d9_IMG_1856.thumb.webp", "w": 1600, "h": 1200, "zh": "山下的湖", "en": "A lake below the mountain"}
+  ]},
+  "05.22": {"cover": 0, "items": [
+    {"o": "d9_IMG_1862.HEIC", "f": "photos/china-2026/05.22/d9_IMG_1862.webp", "t": "photos/china-2026/05.22/d9_IMG_1862.thumb.webp", "w": 1600, "h": 1200, "zh": "首尔的公园", "en": "A park in Seoul"}
+  ]},
+  "05.23": {"cover": 4, "items": [
+    {"o": "d9_IMG_1888.HEIC", "f": "photos/china-2026/05.23/d9_IMG_1888.webp", "t": "photos/china-2026/05.23/d9_IMG_1888.thumb.webp", "w": 1200, "h": 1600, "zh": "大墓的模型", "en": "A model of a royal tomb"},
+    {"o": "d9_IMG_1902.HEIC", "f": "photos/china-2026/05.23/d9_IMG_1902.webp", "t": "photos/china-2026/05.23/d9_IMG_1902.thumb.webp", "w": 1200, "h": 1600, "zh": "墓道", "en": "A burial ramp"},
+    {"o": "d9_IMG_1926.HEIC", "f": "photos/china-2026/05.23/d9_IMG_1926.webp", "t": "photos/china-2026/05.23/d9_IMG_1926.thumb.webp", "w": 1600, "h": 1200, "zh": "殷墟外的田野", "en": "Fields outside Yinxu"},
+    {"o": "d9_IMG_1940.HEIC", "f": "photos/china-2026/05.23/d9_IMG_1940.webp", "t": "photos/china-2026/05.23/d9_IMG_1940.thumb.webp", "w": 1200, "h": 1600, "zh": "展览的前言", "en": "The exhibition's introduction"},
+    {"o": "d9_IMG_1955.HEIC", "f": "photos/china-2026/05.23/d9_IMG_1955.webp", "t": "photos/china-2026/05.23/d9_IMG_1955.thumb.webp", "w": 1600, "h": 1200, "zh": "车马坑", "en": "A chariot burial"},
+    {"o": "d9_IMG_1992.HEIC", "f": "photos/china-2026/05.23/d9_IMG_1992.webp", "t": "photos/china-2026/05.23/d9_IMG_1992.thumb.webp", "w": 1600, "h": 1200, "zh": "青铜纹样的展厅", "en": "A hall of bronze patterns"},
+    {"o": "d9_IMG_2014.HEIC", "f": "photos/china-2026/05.23/d9_IMG_2014.webp", "t": "photos/china-2026/05.23/d9_IMG_2014.thumb.webp", "w": 1600, "h": 1200, "zh": "遗址公园", "en": "The site park"}
+  ]},
+  "05.24": {"cover": 2, "items": [
+    {"o": "d9_IMG_2036.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2036.webp", "t": "photos/china-2026/05.24/d9_IMG_2036.thumb.webp", "w": 1200, "h": 1600, "zh": "城墙下的花", "en": "Flowers below the wall"},
+    {"o": "d9_IMG_2076.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2076.webp", "t": "photos/china-2026/05.24/d9_IMG_2076.thumb.webp", "w": 1200, "h": 1600, "zh": "邺城一带的地图", "en": "A map of the Yecheng area"},
+    {"o": "d9_IMG_2088.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2088.webp", "t": "photos/china-2026/05.24/d9_IMG_2088.thumb.webp", "w": 1600, "h": 1200, "zh": "邺城复原模型", "en": "A model of Yecheng"},
+    {"o": "d9_IMG_2159.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2159.webp", "t": "photos/china-2026/05.24/d9_IMG_2159.thumb.webp", "w": 1600, "h": 1200, "zh": "遗址", "en": "The site"},
+    {"o": "d9_IMG_2202.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2202.webp", "t": "photos/china-2026/05.24/d9_IMG_2202.thumb.webp", "w": 1600, "h": 1200, "zh": "北朝壁画", "en": "A Northern Dynasties mural"},
+    {"o": "d9_IMG_2229.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2229.webp", "t": "photos/china-2026/05.24/d9_IMG_2229.thumb.webp", "w": 1600, "h": 1200, "zh": "展板", "en": "A panel"},
+    {"o": "d9_IMG_2248.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2248.webp", "t": "photos/china-2026/05.24/d9_IMG_2248.thumb.webp", "w": 1200, "h": 1600, "zh": "邺城博物馆", "en": "The Yecheng Museum"},
+    {"o": "d9_IMG_2296.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2296.webp", "t": "photos/china-2026/05.24/d9_IMG_2296.thumb.webp", "w": 1600, "h": 1200, "zh": "浮雕墙", "en": "The relief wall"}
+  ]},
+  "05.25": {"cover": 3, "items": [
+    {"o": "d9_IMG_2335.HEIC", "f": "photos/china-2026/05.25/d9_IMG_2335.webp", "t": "photos/china-2026/05.25/d9_IMG_2335.thumb.webp", "w": 1600, "h": 1200, "zh": "雨里的饭店", "en": "A roadside restaurant in the rain"},
+    {"o": "d9_IMG_2337.HEIC", "f": "photos/china-2026/05.25/d9_IMG_2337.webp", "t": "photos/china-2026/05.25/d9_IMG_2337.thumb.webp", "w": 1600, "h": 1200, "zh": "麦田", "en": "Wheat fields"},
+    {"o": "d9_IMG_2351.HEIC", "f": "photos/china-2026/05.25/d9_IMG_2351.webp", "t": "photos/china-2026/05.25/d9_IMG_2351.thumb.webp", "w": 1600, "h": 1200, "zh": "夜里的城楼", "en": "A gate tower at night"},
+    {"o": "d9_IMG_2357.HEIC", "f": "photos/china-2026/05.25/d9_IMG_2357.webp", "t": "photos/china-2026/05.25/d9_IMG_2357.thumb.webp", "w": 1600, "h": 1200, "zh": "应天门", "en": "The Yingtian Gate"},
+    {"o": "d9_IMG_2359.HEIC", "f": "photos/china-2026/05.25/d9_IMG_2359.webp", "t": "photos/china-2026/05.25/d9_IMG_2359.thumb.webp", "w": 1200, "h": 1600, "zh": "城门", "en": "The gateway"}
+  ]},
+  "05.26": {"cover": 3, "items": [
+    {"o": "d9_IMG_2405.HEIC", "f": "photos/china-2026/05.26/d9_IMG_2405.webp", "t": "photos/china-2026/05.26/d9_IMG_2405.thumb.webp", "w": 1600, "h": 1200, "zh": "武汉", "en": "Wuhan"},
+    {"o": "d9_IMG_2453.HEIC", "f": "photos/china-2026/05.26/d9_IMG_2453.webp", "t": "photos/china-2026/05.26/d9_IMG_2453.thumb.webp", "w": 1600, "h": 1200, "zh": "收回汉口、九江英租界", "en": "Recovering the British concessions at Hankou and Jiujiang"},
+    {"o": "d9_IMG_2504.HEIC", "f": "photos/china-2026/05.26/d9_IMG_2504.webp", "t": "photos/china-2026/05.26/d9_IMG_2504.thumb.webp", "w": 1200, "h": 1600, "zh": "江汉关税务司界碑", "en": "A boundary stone of the Jianghan customs"},
+    {"o": "d9_IMG_2519.HEIC", "f": "photos/china-2026/05.26/d9_IMG_2519.webp", "t": "photos/china-2026/05.26/d9_IMG_2519.thumb.webp", "w": 1200, "h": 1600, "zh": "「东方芝加哥」的崛起", "en": "The rise of the 'Chicago of the East'"},
+    {"o": "d9_IMG_2530.HEIC", "f": "photos/china-2026/05.26/d9_IMG_2530.webp", "t": "photos/china-2026/05.26/d9_IMG_2530.thumb.webp", "w": 1600, "h": 1200, "zh": "老照片", "en": "Old photographs"},
+    {"o": "d9_IMG_2572.HEIC", "f": "photos/china-2026/05.26/d9_IMG_2572.webp", "t": "photos/china-2026/05.26/d9_IMG_2572.thumb.webp", "w": 1600, "h": 1200, "zh": "墓园", "en": "A tomb"}
+  ]},
+  "05.27": {"cover": 1, "items": [
+    {"o": "d9_IMG_2595.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2595.webp", "t": "photos/china-2026/05.27/d9_IMG_2595.thumb.webp", "w": 1200, "h": 1600, "zh": "青铜纹样", "en": "Bronze patterns"},
+    {"o": "d9_IMG_2604.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2604.webp", "t": "photos/china-2026/05.27/d9_IMG_2604.thumb.webp", "w": 1200, "h": 1600, "zh": "曾侯乙编钟", "en": "The bells of the Marquis Yi"},
+    {"o": "d9_IMG_2653.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2653.webp", "t": "photos/china-2026/05.27/d9_IMG_2653.thumb.webp", "w": 1600, "h": 1200, "zh": "湖边", "en": "By the lake"},
+    {"o": "d9_IMG_2665.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2665.webp", "t": "photos/china-2026/05.27/d9_IMG_2665.thumb.webp", "w": 1600, "h": 1200, "zh": "墙上的文字", "en": "Writing on a wall"},
+    {"o": "d9_IMG_2674.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2674.webp", "t": "photos/china-2026/05.27/d9_IMG_2674.thumb.webp", "w": 1600, "h": 1200, "zh": "湖心的亭子", "en": "A pavilion on the lake"},
+    {"o": "d9_IMG_2688.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2688.webp", "t": "photos/china-2026/05.27/d9_IMG_2688.thumb.webp", "w": 1200, "h": 1600, "zh": "碑", "en": "A stele"},
+    {"o": "d9_IMG_2742.HEIC", "f": "photos/china-2026/05.27/d9_IMG_2742.webp", "t": "photos/china-2026/05.27/d9_IMG_2742.thumb.webp", "w": 1600, "h": 1200, "zh": "石雕", "en": "A stone carving"}
+  ]},
+  "05.28": {"cover": 0, "items": [
+    {"o": "d9_IMG_2769.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2769.webp", "t": "photos/china-2026/05.28/d9_IMG_2769.thumb.webp", "w": 1600, "h": 1200, "zh": "亭子", "en": "A pavilion"},
+    {"o": "d9_IMG_2771.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2771.webp", "t": "photos/china-2026/05.28/d9_IMG_2771.thumb.webp", "w": 1600, "h": 1200, "zh": "墙上的题字", "en": "An inscription on the wall"},
+    {"o": "d9_IMG_2776.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2776.webp", "t": "photos/china-2026/05.28/d9_IMG_2776.thumb.webp", "w": 1600, "h": 1200, "zh": "三公祠", "en": "The Hall of the Three Lords"},
+    {"o": "d9_IMG_2783.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2783.webp", "t": "photos/china-2026/05.28/d9_IMG_2783.thumb.webp", "w": 1600, "h": 1200, "zh": "白墙黑瓦", "en": "White walls and dark tiles"},
+    {"o": "d9_IMG_2785.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2785.webp", "t": "photos/china-2026/05.28/d9_IMG_2785.thumb.webp", "w": 1600, "h": 1200, "zh": "雕塑", "en": "A sculpture"},
+    {"o": "d9_IMG_2792.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2792.webp", "t": "photos/china-2026/05.28/d9_IMG_2792.thumb.webp", "w": 1600, "h": 1200, "zh": "三元洞", "en": "The Sanyuan Cave"},
+    {"o": "d9_IMG_2797.HEIC", "f": "photos/china-2026/05.28/d9_IMG_2797.webp", "t": "photos/china-2026/05.28/d9_IMG_2797.thumb.webp", "w": 1600, "h": 1200, "zh": "广济寺", "en": "Guangji Temple"}
+  ]},
+  "05.29": {"cover": 0, "items": [
+    {"o": "d9_IMG_2821.HEIC", "f": "photos/china-2026/05.29/d9_IMG_2821.webp", "t": "photos/china-2026/05.29/d9_IMG_2821.thumb.webp", "w": 1600, "h": 1200, "zh": "南京城墙", "en": "The Nanjing city wall"},
+    {"o": "d9_IMG_2837.HEIC", "f": "photos/china-2026/05.29/d9_IMG_2837.webp", "t": "photos/china-2026/05.29/d9_IMG_2837.thumb.webp", "w": 1600, "h": 1200, "zh": "园子里的石头", "en": "Stones in a garden"},
+    {"o": "d9_IMG_2893.HEIC", "f": "photos/china-2026/05.29/d9_IMG_2893.webp", "t": "photos/china-2026/05.29/d9_IMG_2893.thumb.webp", "w": 1200, "h": 1600, "zh": "碑", "en": "A stele"},
+    {"o": "d9_IMG_2925.HEIC", "f": "photos/china-2026/05.29/d9_IMG_2925.webp", "t": "photos/china-2026/05.29/d9_IMG_2925.thumb.webp", "w": 1200, "h": 1600, "zh": "石像", "en": "A statue"},
+    {"o": "d9_IMG_2978.HEIC", "f": "photos/china-2026/05.29/d9_IMG_2978.webp", "t": "photos/china-2026/05.29/d9_IMG_2978.thumb.webp", "w": 1200, "h": 1600, "zh": "碑刻", "en": "An inscription"},
+    {"o": "d9_IMG_3017.HEIC", "f": "photos/china-2026/05.29/d9_IMG_3017.webp", "t": "photos/china-2026/05.29/d9_IMG_3017.thumb.webp", "w": 1600, "h": 1200, "zh": "展厅", "en": "An exhibition hall"},
+    {"o": "d9_IMG_3078.HEIC", "f": "photos/china-2026/05.29/d9_IMG_3078.webp", "t": "photos/china-2026/05.29/d9_IMG_3078.thumb.webp", "w": 1200, "h": 1600, "zh": "花纹石刻", "en": "A carved stone"}
+  ]},
+  "05.30": {"cover": 2, "items": [
+    {"o": "d9_IMG_3111.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3111.webp", "t": "photos/china-2026/05.30/d9_IMG_3111.thumb.webp", "w": 1200, "h": 1600, "zh": "古碑", "en": "An old stele"},
+    {"o": "d9_IMG_3124.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3124.webp", "t": "photos/china-2026/05.30/d9_IMG_3124.thumb.webp", "w": 1200, "h": 1600, "zh": "碑", "en": "A stele"},
+    {"o": "d9_IMG_3132.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3132.webp", "t": "photos/china-2026/05.30/d9_IMG_3132.thumb.webp", "w": 1600, "h": 1200, "zh": "长江", "en": "The Yangtze"},
+    {"o": "d9_IMG_3141.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3141.webp", "t": "photos/china-2026/05.30/d9_IMG_3141.thumb.webp", "w": 1600, "h": 1200, "zh": "树林外的江", "en": "The river through the trees"},
+    {"o": "d9_IMG_3152.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3152.webp", "t": "photos/china-2026/05.30/d9_IMG_3152.thumb.webp", "w": 1200, "h": 1600, "zh": "龟趺碑", "en": "A tortoise-borne stele"},
+    {"o": "d9_IMG_3154.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3154.webp", "t": "photos/china-2026/05.30/d9_IMG_3154.thumb.webp", "w": 1200, "h": 1600, "zh": "墓", "en": "A tomb"}
+  ]}
+ },
+ "seasia-2025": {
+  "12.26": {"cover": 1, "items": [
+    {"o": "d5_IMG_0142.HEIC", "f": "photos/seasia-2025/12.26/d5_IMG_0142.webp", "t": "photos/seasia-2025/12.26/d5_IMG_0142.thumb.webp", "w": 1200, "h": 1600, "zh": "机场的地毯", "en": "The airport carpet"},
+    {"o": "d5_IMG_0148.HEIC", "f": "photos/seasia-2025/12.26/d5_IMG_0148.webp", "t": "photos/seasia-2025/12.26/d5_IMG_0148.thumb.webp", "w": 1200, "h": 1600, "zh": "夜里的收费站", "en": "A toll gate at night"}
+  ]},
+  "12.27": {"cover": 3, "items": [
+    {"o": "d5_IMG_0162.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0162.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0162.thumb.webp", "w": 1200, "h": 1600, "zh": "雾里的山路", "en": "The path in the mist"},
+    {"o": "d5_IMG_0172.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0172.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0172.thumb.webp", "w": 1600, "h": 1200, "zh": "火山上的林子", "en": "Woods on the volcano"},
+    {"o": "d5_IMG_0187.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0187.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0187.thumb.webp", "w": 1600, "h": 1200, "zh": "火山灰上的马", "en": "Horses on the ash"},
+    {"o": "d5_IMG_0204.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0204.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0204.thumb.webp", "w": 1600, "h": 1200, "zh": "布罗莫火山口", "en": "The crater of Bromo"},
+    {"o": "d5_IMG_0210.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0210.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0210.thumb.webp", "w": 1600, "h": 1200, "zh": "巴托克山", "en": "Mount Batok"},
+    {"o": "d5_IMG_0224.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0224.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0224.thumb.webp", "w": 1600, "h": 1200, "zh": "郑和宝船", "en": "Zheng He's treasure ship"},
+    {"o": "d5_IMG_0231.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0231.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0231.thumb.webp", "w": 1200, "h": 1600, "zh": "郑和清真寺的碑", "en": "The inscription at the Cheng Ho Mosque"},
+    {"o": "d5_IMG_0244.HEIC", "f": "photos/seasia-2025/12.27/d5_IMG_0244.webp", "t": "photos/seasia-2025/12.27/d5_IMG_0244.thumb.webp", "w": 1200, "h": 1600, "zh": "雕塑", "en": "A sculpture"}
+  ]},
+  "12.28": {"cover": 2, "items": [
+    {"o": "d5_IMG_0251.HEIC", "f": "photos/seasia-2025/12.28/d5_IMG_0251.webp", "t": "photos/seasia-2025/12.28/d5_IMG_0251.thumb.webp", "w": 1200, "h": 1600, "zh": "站台", "en": "The platform"},
+    {"o": "d5_IMG_0252.HEIC", "f": "photos/seasia-2025/12.28/d5_IMG_0252.webp", "t": "photos/seasia-2025/12.28/d5_IMG_0252.thumb.webp", "w": 1600, "h": 1200, "zh": "窗外的香蕉林", "en": "Banana trees from the train"},
+    {"o": "d5_IMG_0262.HEIC", "f": "photos/seasia-2025/12.28/d5_IMG_0262.webp", "t": "photos/seasia-2025/12.28/d5_IMG_0262.thumb.webp", "w": 1600, "h": 1200, "zh": "稻田", "en": "Paddy fields"},
+    {"o": "d5_IMG_0268.HEIC", "f": "photos/seasia-2025/12.28/d5_IMG_0268.webp", "t": "photos/seasia-2025/12.28/d5_IMG_0268.thumb.webp", "w": 1200, "h": 1600, "zh": "日惹的街", "en": "A street in Yogyakarta"},
+    {"o": "d5_IMG_0270.HEIC", "f": "photos/seasia-2025/12.28/d5_IMG_0270.webp", "t": "photos/seasia-2025/12.28/d5_IMG_0270.thumb.webp", "w": 1200, "h": 1600, "zh": "炒饭", "en": "Fried rice"},
+    {"o": "d5_IMG_0272.HEIC", "f": "photos/seasia-2025/12.28/d5_IMG_0272.webp", "t": "photos/seasia-2025/12.28/d5_IMG_0272.thumb.webp", "w": 1200, "h": 1600, "zh": "空心菜", "en": "Water spinach"}
+  ]},
+  "12.29": {"cover": 6, "items": [
+    {"o": "d5_IMG_0283.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0283.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0283.thumb.webp", "w": 1200, "h": 1600, "zh": "婆罗浮屠的大树", "en": "Great trees at Borobudur"},
+    {"o": "d5_IMG_0299.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0299.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0299.thumb.webp", "w": 1600, "h": 1200, "zh": "回廊上的浮雕", "en": "Reliefs on the galleries"},
+    {"o": "d5_IMG_0302.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0302.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0302.thumb.webp", "w": 1600, "h": 1200, "zh": "一层层的浮雕", "en": "Tier upon tier of reliefs"},
+    {"o": "d5_IMG_0310.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0310.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0310.thumb.webp", "w": 1200, "h": 1600, "zh": "浮雕细节", "en": "A relief in detail"},
+    {"o": "d5_IMG_0323.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0323.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0323.thumb.webp", "w": 1600, "h": 1200, "zh": "普兰巴南", "en": "Prambanan"},
+    {"o": "d5_IMG_0340.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0340.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0340.thumb.webp", "w": 1200, "h": 1600, "zh": "神庙的石雕", "en": "Temple carving"},
+    {"o": "d5_IMG_0343.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0343.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0343.thumb.webp", "w": 1200, "h": 1600, "zh": "普兰巴南的尖塔", "en": "The spires of Prambanan"},
+    {"o": "d5_IMG_0362.HEIC", "f": "photos/seasia-2025/12.29/d5_IMG_0362.webp", "t": "photos/seasia-2025/12.29/d5_IMG_0362.thumb.webp", "w": 1600, "h": 1200, "zh": "展板", "en": "A panel"}
+  ]},
+  "12.30": {"cover": 0, "items": [
+    {"o": "d5_IMG_0387.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0387.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0387.thumb.webp", "w": 1600, "h": 1200, "zh": "窗外的稻田", "en": "Paddy fields from the train"},
+    {"o": "d5_IMG_0388.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0388.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0388.thumb.webp", "w": 1600, "h": 1200, "zh": "村子", "en": "A village"},
+    {"o": "d5_IMG_0389.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0389.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0389.thumb.webp", "w": 1600, "h": 1200, "zh": "水田", "en": "Flooded fields"},
+    {"o": "d5_IMG_0391.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0391.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0391.thumb.webp", "w": 1600, "h": 1200, "zh": "锦鲤池", "en": "A koi pond"},
+    {"o": "d5_IMG_0393.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0393.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0393.thumb.webp", "w": 1600, "h": 1200, "zh": "万隆火车站", "en": "Bandung station"},
+    {"o": "d5_IMG_0396.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0396.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0396.thumb.webp", "w": 1200, "h": 1600, "zh": "荷花画", "en": "A painting of lotuses"},
+    {"o": "d5_IMG_0400.HEIC", "f": "photos/seasia-2025/12.30/d5_IMG_0400.webp", "t": "photos/seasia-2025/12.30/d5_IMG_0400.thumb.webp", "w": 1200, "h": 1600, "zh": "印尼炒饭", "en": "Nasi goreng"}
+  ]},
+  "12.31": {"cover": 6, "items": [
+    {"o": "d5_IMG_0404.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0404.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0404.thumb.webp", "w": 1600, "h": 1200, "zh": "独立大厦", "en": "Gedung Merdeka"},
+    {"o": "d5_IMG_0412.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0412.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0412.thumb.webp", "w": 1600, "h": 1200, "zh": "与会代表", "en": "The delegates"},
+    {"o": "d5_IMG_0417.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0417.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0417.thumb.webp", "w": 1600, "h": 1200, "zh": "会议的老照片", "en": "Photographs of the conference"},
+    {"o": "d5_IMG_0422.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0422.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0422.thumb.webp", "w": 1200, "h": 1600, "zh": "会场座位图", "en": "The seating plan"},
+    {"o": "d5_IMG_0425.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0425.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0425.thumb.webp", "w": 1200, "h": 1600, "zh": "会议文件", "en": "A conference document"},
+    {"o": "d5_IMG_0430.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0430.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0430.thumb.webp", "w": 1600, "h": 1200, "zh": "「1955 年 4 月 24 日」", "en": "24 April 1955"},
+    {"o": "d5_IMG_0433.HEIC", "f": "photos/seasia-2025/12.31/d5_IMG_0433.webp", "t": "photos/seasia-2025/12.31/d5_IMG_0433.thumb.webp", "w": 1600, "h": 1200, "zh": "会议厅", "en": "The conference hall"}
+  ]},
+  "01.01": {"cover": 3, "items": [
+    {"o": "d5_IMG_0453.HEIC", "f": "photos/seasia-2025/01.01/d5_IMG_0453.webp", "t": "photos/seasia-2025/01.01/d5_IMG_0453.thumb.webp", "w": 1600, "h": 1200, "zh": "高铁站", "en": "The high-speed station"},
+    {"o": "d5_IMG_0454.HEIC", "f": "photos/seasia-2025/01.01/d5_IMG_0454.webp", "t": "photos/seasia-2025/01.01/d5_IMG_0454.thumb.webp", "w": 1600, "h": 1200, "zh": "高铁线路", "en": "The high-speed line"},
+    {"o": "d5_IMG_0470.HEIC", "f": "photos/seasia-2025/01.01/d5_IMG_0470.webp", "t": "photos/seasia-2025/01.01/d5_IMG_0470.thumb.webp", "w": 1600, "h": 1200, "zh": "老城的咖啡馆", "en": "A café in the old town"},
+    {"o": "d5_IMG_0473.HEIC", "f": "photos/seasia-2025/01.01/d5_IMG_0473.webp", "t": "photos/seasia-2025/01.01/d5_IMG_0473.thumb.webp", "w": 1600, "h": 1200, "zh": "老市政厅", "en": "The old city hall"},
+    {"o": "d5_IMG_0486.HEIC", "f": "photos/seasia-2025/01.01/d5_IMG_0486.webp", "t": "photos/seasia-2025/01.01/d5_IMG_0486.thumb.webp", "w": 1600, "h": 1200, "zh": "老城的地图", "en": "A map of the old town"}
+  ]},
+  "01.02": {"cover": 0, "items": [
+    {"o": "d5_IMG_0499.HEIC", "f": "photos/seasia-2025/01.02/d5_IMG_0499.webp", "t": "photos/seasia-2025/01.02/d5_IMG_0499.thumb.webp", "w": 1600, "h": 1200, "zh": "雅加达", "en": "Jakarta"},
+    {"o": "d5_IMG_0500.HEIC", "f": "photos/seasia-2025/01.02/d5_IMG_0500.webp", "t": "photos/seasia-2025/01.02/d5_IMG_0500.thumb.webp", "w": 1600, "h": 1200, "zh": "玻璃楼", "en": "Glass towers"},
+    {"o": "d5_IMG_0501.HEIC", "f": "photos/seasia-2025/01.02/d5_IMG_0501.webp", "t": "photos/seasia-2025/01.02/d5_IMG_0501.thumb.webp", "w": 1600, "h": 1200, "zh": "高楼之间", "en": "Between the towers"}
+  ]},
+  "01.03": {"cover": 2, "items": [
+    {"o": "d5_IMG_0516.HEIC", "f": "photos/seasia-2025/01.03/d5_IMG_0516.webp", "t": "photos/seasia-2025/01.03/d5_IMG_0516.thumb.webp", "w": 1200, "h": 1600, "zh": "大印尼购物中心", "en": "Grand Indonesia"},
+    {"o": "d5_IMG_0521.HEIC", "f": "photos/seasia-2025/01.03/d5_IMG_0521.webp", "t": "photos/seasia-2025/01.03/d5_IMG_0521.thumb.webp", "w": 1200, "h": 1600, "zh": "木雕", "en": "Woodcarvings"},
+    {"o": "d5_IMG_0523.HEIC", "f": "photos/seasia-2025/01.03/d5_IMG_0523.webp", "t": "photos/seasia-2025/01.03/d5_IMG_0523.thumb.webp", "w": 1200, "h": 1600, "zh": "皮影", "en": "A shadow puppet"},
+    {"o": "d5_IMG_0525.HEIC", "f": "photos/seasia-2025/01.03/d5_IMG_0525.webp", "t": "photos/seasia-2025/01.03/d5_IMG_0525.thumb.webp", "w": 1200, "h": 1600, "zh": "面具", "en": "Masks"},
+    {"o": "d5_IMG_0535.HEIC", "f": "photos/seasia-2025/01.03/d5_IMG_0535.webp", "t": "photos/seasia-2025/01.03/d5_IMG_0535.thumb.webp", "w": 1600, "h": 1200, "zh": "街边", "en": "By the road"},
+    {"o": "d5_IMG_0537.HEIC", "f": "photos/seasia-2025/01.03/d5_IMG_0537.webp", "t": "photos/seasia-2025/01.03/d5_IMG_0537.thumb.webp", "w": 1200, "h": 1600, "zh": "高楼", "en": "Towers"}
+  ]},
+  "01.05": {"cover": 1, "items": [
+    {"o": "d5_IMG_0580.HEIC", "f": "photos/seasia-2025/01.05/d5_IMG_0580.webp", "t": "photos/seasia-2025/01.05/d5_IMG_0580.thumb.webp", "w": 1600, "h": 1200, "zh": "新加坡", "en": "Singapore"},
+    {"o": "d5_IMG_0585.HEIC", "f": "photos/seasia-2025/01.05/d5_IMG_0585.webp", "t": "photos/seasia-2025/01.05/d5_IMG_0585.thumb.webp", "w": 1600, "h": 1200, "zh": "绿地和高楼", "en": "Greenery and towers"},
+    {"o": "d5_IMG_0586.HEIC", "f": "photos/seasia-2025/01.05/d5_IMG_0586.webp", "t": "photos/seasia-2025/01.05/d5_IMG_0586.thumb.webp", "w": 1600, "h": 1200, "zh": "城市", "en": "The city"},
+    {"o": "d5_IMG_0589.HEIC", "f": "photos/seasia-2025/01.05/d5_IMG_0589.webp", "t": "photos/seasia-2025/01.05/d5_IMG_0589.thumb.webp", "w": 1600, "h": 1200, "zh": "港口方向", "en": "Towards the port"},
+    {"o": "d5_IMG_0596.HEIC", "f": "photos/seasia-2025/01.05/d5_IMG_0596.webp", "t": "photos/seasia-2025/01.05/d5_IMG_0596.thumb.webp", "w": 1600, "h": 1200, "zh": "书架上的杂志", "en": "Magazines on the shelf"},
+    {"o": "d5_IMG_0600.HEIC", "f": "photos/seasia-2025/01.05/d5_IMG_0600.webp", "t": "photos/seasia-2025/01.05/d5_IMG_0600.thumb.webp", "w": 1200, "h": 1600, "zh": "胸像", "en": "A bust"}
+  ]},
+  "01.06": {"cover": 0, "items": [
+    {"o": "d5_IMG_0614.HEIC", "f": "photos/seasia-2025/01.06/d5_IMG_0614.webp", "t": "photos/seasia-2025/01.06/d5_IMG_0614.thumb.webp", "w": 1200, "h": 1600, "zh": "滨海湾金沙", "en": "Marina Bay Sands"}
+  ]},
+  "01.07": {"cover": 6, "items": [
+    {"o": "d5_IMG_0622.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0622.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0622.thumb.webp", "w": 1600, "h": 1200, "zh": "西乐索炮台", "en": "Fort Siloso"},
+    {"o": "d5_IMG_0629.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0629.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0629.thumb.webp", "w": 1600, "h": 1200, "zh": "炮", "en": "A gun"},
+    {"o": "d5_IMG_0631.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0631.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0631.thumb.webp", "w": 1600, "h": 1200, "zh": "圣淘沙的炮", "en": "The guns of Sentosa"},
+    {"o": "d5_IMG_0638.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0638.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0638.thumb.webp", "w": 1200, "h": 1600, "zh": "海岸炮", "en": "A coastal gun"},
+    {"o": "d5_IMG_0641.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0641.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0641.thumb.webp", "w": 1600, "h": 1200, "zh": "1942 年的投降", "en": "The surrender of 1942"},
+    {"o": "d5_IMG_0651.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0651.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0651.thumb.webp", "w": 1600, "h": 1200, "zh": "炮台里的路", "en": "A road through the fort"},
+    {"o": "d5_IMG_0656.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0656.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0656.thumb.webp", "w": 1600, "h": 1200, "zh": "对着海峡的炮", "en": "A gun facing the strait"},
+    {"o": "d5_IMG_0657.HEIC", "f": "photos/seasia-2025/01.07/d5_IMG_0657.webp", "t": "photos/seasia-2025/01.07/d5_IMG_0657.thumb.webp", "w": 1600, "h": 1200, "zh": "海峡", "en": "The strait"}
+  ]},
+  "01.08": {"cover": 0, "items": [
+    {"o": "d5_IMG_0671.HEIC", "f": "photos/seasia-2025/01.08/d5_IMG_0671.webp", "t": "photos/seasia-2025/01.08/d5_IMG_0671.thumb.webp", "w": 1600, "h": 1200, "zh": "信天翁档案", "en": "The Albatross File"},
+    {"o": "d5_IMG_0673.HEIC", "f": "photos/seasia-2025/01.08/d5_IMG_0673.webp", "t": "photos/seasia-2025/01.08/d5_IMG_0673.thumb.webp", "w": 1200, "h": 1600, "zh": "1963 年新加坡大选", "en": "The 1963 Singapore general election"},
+    {"o": "d5_IMG_0676.HEIC", "f": "photos/seasia-2025/01.08/d5_IMG_0676.webp", "t": "photos/seasia-2025/01.08/d5_IMG_0676.thumb.webp", "w": 1200, "h": 1600, "zh": "人民行动党参加联邦选举", "en": "The PAP enters the federal election"},
+    {"o": "d5_IMG_0678.HEIC", "f": "photos/seasia-2025/01.08/d5_IMG_0678.webp", "t": "photos/seasia-2025/01.08/d5_IMG_0678.thumb.webp", "w": 1600, "h": 1200, "zh": "邦联的讨论", "en": "Confederation discussions"},
+    {"o": "d5_IMG_0681.HEIC", "f": "photos/seasia-2025/01.08/d5_IMG_0681.webp", "t": "photos/seasia-2025/01.08/d5_IMG_0681.thumb.webp", "w": 1600, "h": 1200, "zh": "马来西亚人的马来西亚", "en": "Malaysian Solidarity Convention"},
+    {"o": "d5_IMG_0682.HEIC", "f": "photos/seasia-2025/01.08/d5_IMG_0682.webp", "t": "photos/seasia-2025/01.08/d5_IMG_0682.thumb.webp", "w": 1600, "h": 1200, "zh": "分家前 48 天", "en": "48 days to separation"}
+  ]},
+  "01.09": {"cover": 1, "items": [
+    {"o": "d5_IMG_0713.HEIC", "f": "photos/seasia-2025/01.09/d5_IMG_0713.webp", "t": "photos/seasia-2025/01.09/d5_IMG_0713.thumb.webp", "w": 1600, "h": 1200, "zh": "吉隆坡的绿地", "en": "Green Kuala Lumpur"},
+    {"o": "d5_IMG_0718.HEIC", "f": "photos/seasia-2025/01.09/d5_IMG_0718.webp", "t": "photos/seasia-2025/01.09/d5_IMG_0718.thumb.webp", "w": 1600, "h": 1200, "zh": "吉隆坡", "en": "Kuala Lumpur"},
+    {"o": "d5_IMG_0726.HEIC", "f": "photos/seasia-2025/01.09/d5_IMG_0726.webp", "t": "photos/seasia-2025/01.09/d5_IMG_0726.thumb.webp", "w": 1600, "h": 1200, "zh": "城中心", "en": "The city centre"}
+  ]},
+  "01.10": {"cover": 0, "items": [
+    {"o": "d5_IMG_0734.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0734.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0734.thumb.webp", "w": 1600, "h": 1200, "zh": "国家博物馆", "en": "The National Museum"},
+    {"o": "d5_IMG_0747.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0747.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0747.thumb.webp", "w": 1600, "h": 1200, "zh": "木雕", "en": "Wood carving"},
+    {"o": "d5_IMG_0752.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0752.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0752.thumb.webp", "w": 1600, "h": 1200, "zh": "老地图", "en": "An old map"},
+    {"o": "d5_IMG_0758.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0758.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0758.thumb.webp", "w": 1600, "h": 1200, "zh": "东南亚的老地图", "en": "An old map of Southeast Asia"},
+    {"o": "d5_IMG_0770.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0770.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0770.thumb.webp", "w": 1200, "h": 1600, "zh": "锡矿", "en": "The tin mines"},
+    {"o": "d5_IMG_0774.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0774.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0774.thumb.webp", "w": 1200, "h": 1600, "zh": "爪夷文手抄本", "en": "A Jawi manuscript"},
+    {"o": "d5_IMG_0781.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0781.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0781.thumb.webp", "w": 1600, "h": 1200, "zh": "文书", "en": "Documents"},
+    {"o": "d5_IMG_0792.HEIC", "f": "photos/seasia-2025/01.10/d5_IMG_0792.webp", "t": "photos/seasia-2025/01.10/d5_IMG_0792.thumb.webp", "w": 1600, "h": 1200, "zh": "正面的马赛克壁画", "en": "The mosaic mural"}
+  ]},
+  "01.11": {"cover": 1, "items": [
+    {"o": "d5_IMG_1167.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_1167.webp", "t": "photos/seasia-2025/01.11/d5_IMG_1167.thumb.webp", "w": 1600, "h": 1200, "zh": "宗祠", "en": "A clan house"},
+    {"o": "d5_IMG_1195.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_1195.webp", "t": "photos/seasia-2025/01.11/d5_IMG_1195.thumb.webp", "w": 1200, "h": 1600, "zh": "姓氏桥", "en": "The clan jetties"},
+    {"o": "d5_IMG_1198.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_1198.webp", "t": "photos/seasia-2025/01.11/d5_IMG_1198.thumb.webp", "w": 1600, "h": 1200, "zh": "海上的栈道", "en": "The walkway over the sea"},
+    {"o": "d5_IMG_0817.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_0817.webp", "t": "photos/seasia-2025/01.11/d5_IMG_0817.thumb.webp", "w": 1600, "h": 1200, "zh": "娘惹博物馆", "en": "The Peranakan Mansion"},
+    {"o": "d5_IMG_0828.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_0828.webp", "t": "photos/seasia-2025/01.11/d5_IMG_0828.thumb.webp", "w": 1200, "h": 1600, "zh": "娘惹人家的画像", "en": "A Peranakan portrait"},
+    {"o": "d5_IMG_0862.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_0862.webp", "t": "photos/seasia-2025/01.11/d5_IMG_0862.thumb.webp", "w": 1600, "h": 1200, "zh": "骑单车的孩子", "en": "Children on a bicycle"},
+    {"o": "d5_IMG_0883.HEIC", "f": "photos/seasia-2025/01.11/d5_IMG_0883.webp", "t": "photos/seasia-2025/01.11/d5_IMG_0883.thumb.webp", "w": 1600, "h": 1200, "zh": "椅子上的猫", "en": "A cat on a chair"}
+  ]},
+  "01.12": {"cover": 4, "items": [
+    {"o": "d5_IMG_0948.HEIC", "f": "photos/seasia-2025/01.12/d5_IMG_0948.webp", "t": "photos/seasia-2025/01.12/d5_IMG_0948.thumb.webp", "w": 1200, "h": 1600, "zh": "说明牌", "en": "A sign"},
+    {"o": "d5_IMG_0966.HEIC", "f": "photos/seasia-2025/01.12/d5_IMG_0966.webp", "t": "photos/seasia-2025/01.12/d5_IMG_0966.thumb.webp", "w": 1200, "h": 1600, "zh": "荷兰墓碑", "en": "A Dutch tombstone"},
+    {"o": "d5_IMG_0970.HEIC", "f": "photos/seasia-2025/01.12/d5_IMG_0970.webp", "t": "photos/seasia-2025/01.12/d5_IMG_0970.thumb.webp", "w": 1200, "h": 1600, "zh": "墓碑", "en": "A tombstone"},
+    {"o": "d5_IMG_0983.HEIC", "f": "photos/seasia-2025/01.12/d5_IMG_0983.webp", "t": "photos/seasia-2025/01.12/d5_IMG_0983.thumb.webp", "w": 1200, "h": 1600, "zh": "城门", "en": "A gateway"},
+    {"o": "d5_IMG_0988.HEIC", "f": "photos/seasia-2025/01.12/d5_IMG_0988.webp", "t": "photos/seasia-2025/01.12/d5_IMG_0988.thumb.webp", "w": 1600, "h": 1200, "zh": "马六甲河", "en": "The Malacca River"},
+    {"o": "d5_IMG_0993.HEIC", "f": "photos/seasia-2025/01.12/d5_IMG_0993.webp", "t": "photos/seasia-2025/01.12/d5_IMG_0993.thumb.webp", "w": 1200, "h": 1600, "zh": "郑和", "en": "Zheng He"}
+  ]}
+ },
  "uk-2025": {
   "11.24": {"cover": 2, "items": [
     {"o": "d4_IMG_7914.HEIC", "f": "photos/uk-2025/11.24/d4_IMG_7914.webp", "t": "photos/uk-2025/11.24/d4_IMG_7914.thumb.webp", "w": 1200, "h": 1600, "zh": "大英博物馆", "en": "The British Museum"},
@@ -304,6 +519,63 @@
     {"o": "d0_IMG_6691.HEIC", "f": "photos/alaska-2025/08.10/d0_IMG_6691.webp", "t": "photos/alaska-2025/08.10/d0_IMG_6691.thumb.webp", "w": 1600, "h": 1200, "zh": "「追着冰川走」", "en": "Chasing a glacier"},
     {"o": "d0_IMG_6692.HEIC", "f": "photos/alaska-2025/08.10/d0_IMG_6692.webp", "t": "photos/alaska-2025/08.10/d0_IMG_6692.thumb.webp", "w": 1200, "h": 1600, "zh": "回程的河", "en": "A river on the way back"},
     {"o": "d0_IMG_6700.HEIC", "f": "photos/alaska-2025/08.10/d0_IMG_6700.webp", "t": "photos/alaska-2025/08.10/d0_IMG_6700.thumb.webp", "w": 1600, "h": 1200, "zh": "树、苔原、山", "en": "Trees, tundra, mountains"}
+  ]}
+ },
+ "taiwan-2025": {
+  "04.02": {"cover": 2, "items": [
+    {"o": "d1_IMG_5101.HEIC", "f": "photos/taiwan-2025/04.02/d1_IMG_5101.webp", "t": "photos/taiwan-2025/04.02/d1_IMG_5101.thumb.webp", "w": 1600, "h": 1200, "zh": "纪伊国屋书店", "en": "Kinokuniya"},
+    {"o": "d1_IMG_5106.HEIC", "f": "photos/taiwan-2025/04.02/d1_IMG_5106.webp", "t": "photos/taiwan-2025/04.02/d1_IMG_5106.thumb.webp", "w": 1200, "h": 1600, "zh": "平台上的新书", "en": "New books on the table"},
+    {"o": "d1_IMG_5127.HEIC", "f": "photos/taiwan-2025/04.02/d1_IMG_5127.webp", "t": "photos/taiwan-2025/04.02/d1_IMG_5127.thumb.webp", "w": 1600, "h": 1200, "zh": "书架", "en": "Bookshelves"},
+    {"o": "d1_IMG_5129.HEIC", "f": "photos/taiwan-2025/04.02/d1_IMG_5129.webp", "t": "photos/taiwan-2025/04.02/d1_IMG_5129.thumb.webp", "w": 1200, "h": 1600, "zh": "历史书", "en": "History books"}
+  ]},
+  "04.03": {"cover": 4, "items": [
+    {"o": "d1_IMG_5151.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5151.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5151.thumb.webp", "w": 1600, "h": 1200, "zh": "公园里的雕像", "en": "A statue in the park"},
+    {"o": "d1_IMG_5154.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5154.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5154.thumb.webp", "w": 1200, "h": 1600, "zh": "中山碑林", "en": "The Zhongshan stele garden"},
+    {"o": "d1_IMG_5161.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5161.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5161.thumb.webp", "w": 1200, "h": 1600, "zh": "玻璃顶的回廊", "en": "A glass-roofed walkway"},
+    {"o": "d1_IMG_5171.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5171.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5171.thumb.webp", "w": 1200, "h": 1600, "zh": "木简", "en": "Wooden slips"},
+    {"o": "d1_IMG_5173.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5173.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5173.thumb.webp", "w": 1600, "h": 1200, "zh": "清水池", "en": "The reflecting pool"}
+  ]},
+  "04.04": {"cover": 3, "items": [
+    {"o": "d1_IMG_5188.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5188.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5188.thumb.webp", "w": 1200, "h": 1600, "zh": "庙里", "en": "Inside a temple"},
+    {"o": "d1_IMG_5189.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5189.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5189.thumb.webp", "w": 1200, "h": 1600, "zh": "庙边的碑", "en": "A stele by the temple"},
+    {"o": "d1_IMG_5191.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5191.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5191.thumb.webp", "w": 1600, "h": 1200, "zh": "新竹站", "en": "Hsinchu station"},
+    {"o": "d1_IMG_5195.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5195.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5195.thumb.webp", "w": 1600, "h": 1200, "zh": "大东文化艺术中心", "en": "The Dadong Arts Center"},
+    {"o": "d1_IMG_5196.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5196.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5196.thumb.webp", "w": 1600, "h": 1200, "zh": "白色的膜顶", "en": "The white membrane roofs"},
+    {"o": "d1_IMG_5197.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5197.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5197.thumb.webp", "w": 1600, "h": 1200, "zh": "「大东」", "en": "Dadong"}
+  ]},
+  "04.05": {"cover": 0, "items": [
+    {"o": "d1_IMG_5205.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5205.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5205.thumb.webp", "w": 1600, "h": 1200, "zh": "草地上的狗", "en": "A dog on the grass"},
+    {"o": "d1_IMG_5214.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5214.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5214.thumb.webp", "w": 1200, "h": 1600, "zh": "教室", "en": "A classroom"},
+    {"o": "d1_IMG_5218.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5218.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5218.thumb.webp", "w": 1600, "h": 1200, "zh": "红砖的遗址", "en": "Brick ruins"},
+    {"o": "d1_IMG_5227.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5227.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5227.thumb.webp", "w": 1200, "h": 1600, "zh": "佛陀纪念馆", "en": "The Buddha Museum"},
+    {"o": "d1_IMG_5232.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5232.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5232.thumb.webp", "w": 1600, "h": 1200, "zh": "佛龛", "en": "A shrine"},
+    {"o": "d1_IMG_5284.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5284.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5284.thumb.webp", "w": 1600, "h": 1200, "zh": "夜里的路标", "en": "A sign at night"},
+    {"o": "d1_IMG_5296.HEIC", "f": "photos/taiwan-2025/04.05/d1_IMG_5296.webp", "t": "photos/taiwan-2025/04.05/d1_IMG_5296.thumb.webp", "w": 1600, "h": 1200, "zh": "港边的夜", "en": "The harbour at night"}
+  ]},
+  "04.06": {"cover": 2, "items": [
+    {"o": "d1_IMG_5304.HEIC", "f": "photos/taiwan-2025/04.06/d1_IMG_5304.webp", "t": "photos/taiwan-2025/04.06/d1_IMG_5304.thumb.webp", "w": 1200, "h": 1600, "zh": "中环站", "en": "Central station"},
+    {"o": "d1_IMG_5309.HEIC", "f": "photos/taiwan-2025/04.06/d1_IMG_5309.webp", "t": "photos/taiwan-2025/04.06/d1_IMG_5309.thumb.webp", "w": 1600, "h": 1200, "zh": "商务印书馆", "en": "The Commercial Press"},
+    {"o": "d1_IMG_5327.HEIC", "f": "photos/taiwan-2025/04.06/d1_IMG_5327.webp", "t": "photos/taiwan-2025/04.06/d1_IMG_5327.thumb.webp", "w": 1200, "h": 1600, "zh": "铜锣湾", "en": "Causeway Bay"},
+    {"o": "d1_IMG_5336.HEIC", "f": "photos/taiwan-2025/04.06/d1_IMG_5336.webp", "t": "photos/taiwan-2025/04.06/d1_IMG_5336.thumb.webp", "w": 1200, "h": 1600, "zh": "高楼", "en": "Towers"}
+  ]},
+  "04.07": {"cover": 0, "items": [
+    {"o": "d1_IMG_5339.HEIC", "f": "photos/taiwan-2025/04.07/d1_IMG_5339.webp", "t": "photos/taiwan-2025/04.07/d1_IMG_5339.thumb.webp", "w": 1600, "h": 1200, "zh": "香港", "en": "Hong Kong"}
+  ]},
+  "04.10": {"cover": 0, "items": [
+    {"o": "d1_IMG_5357.HEIC", "f": "photos/taiwan-2025/04.10/d1_IMG_5357.webp", "t": "photos/taiwan-2025/04.10/d1_IMG_5357.thumb.webp", "w": 1200, "h": 1600, "zh": "陆家嘴", "en": "Lujiazui"},
+    {"o": "d1_IMG_5358.HEIC", "f": "photos/taiwan-2025/04.10/d1_IMG_5358.webp", "t": "photos/taiwan-2025/04.10/d1_IMG_5358.thumb.webp", "w": 1600, "h": 1200, "zh": "犹太难民的纪念牌", "en": "A plaque for the Jewish refugees"}
+  ]},
+  "04.12": {"cover": 0, "items": [
+    {"o": "d1_IMG_5369.HEIC", "f": "photos/taiwan-2025/04.12/d1_IMG_5369.webp", "t": "photos/taiwan-2025/04.12/d1_IMG_5369.thumb.webp", "w": 1200, "h": 1600, "zh": "雾里的东方明珠", "en": "The Oriental Pearl Tower in the fog"}
+  ]},
+  "04.13": {"cover": 3, "items": [
+    {"o": "d1_IMG_5437.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5437.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5437.thumb.webp", "w": 1600, "h": 1200, "zh": "柳浪闻莺", "en": "Orioles Singing in the Willows"},
+    {"o": "d1_IMG_5443.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5443.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5443.thumb.webp", "w": 1600, "h": 1200, "zh": "林启先生祠", "en": "The shrine of Lin Qi"},
+    {"o": "d1_IMG_5450.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5450.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5450.thumb.webp", "w": 1600, "h": 1200, "zh": "张煌言墓", "en": "The tomb of Zhang Huangyan"},
+    {"o": "d1_IMG_5460.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5460.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5460.thumb.webp", "w": 1600, "h": 1200, "zh": "西湖的傍晚", "en": "Evening on the West Lake"},
+    {"o": "d1_IMG_5464.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5464.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5464.thumb.webp", "w": 1600, "h": 1200, "zh": "苏堤春晓", "en": "Spring Dawn on the Su Causeway"},
+    {"o": "d1_IMG_5479.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5479.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5479.thumb.webp", "w": 1600, "h": 1200, "zh": "雷峰塔", "en": "Leifeng Pagoda"},
+    {"o": "d1_IMG_5483.HEIC", "f": "photos/taiwan-2025/04.13/d1_IMG_5483.webp", "t": "photos/taiwan-2025/04.13/d1_IMG_5483.thumb.webp", "w": 1600, "h": 1200, "zh": "夜里的树", "en": "Trees at night"}
   ]}
  },
  "turkey-2024": {
@@ -2057,6 +2329,113 @@
     {"o": "wh15_IMG_2368.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2368.webp", "t": "photos/china-2015/01.26/wh15_IMG_2368.thumb.webp", "w": 1600, "h": 1600, "zh": "「中华民国十九年国立武汉大学建」", "en": "'Built 1930, National Wuhan University'"},
     {"o": "wh15_IMG_2371.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2371.webp", "t": "photos/china-2015/01.26/wh15_IMG_2371.thumb.webp", "w": 1600, "h": 1600, "zh": "雾中的老图书馆", "en": "The old library in the mist"},
     {"o": "wh15_IMG_2375.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2375.webp", "t": "photos/china-2015/01.26/wh15_IMG_2375.thumb.webp", "w": 1600, "h": 1200, "zh": "大智门火车站", "en": "Dazhimen railway station"}
+  ]}
+ },
+ "shaanxi-2014": {
+  "08.17": {"cover": 6, "items": [
+    {"o": "d6_2014-08-17 092522.jpg", "f": "photos/shaanxi-2014/08.17/d6_2014-08-17_092522.webp", "t": "photos/shaanxi-2014/08.17/d6_2014-08-17_092522.thumb.webp", "w": 1195, "h": 1600, "zh": "展板", "en": "A panel"},
+    {"o": "d6_2014-08-17 093254.jpg", "f": "photos/shaanxi-2014/08.17/d6_2014-08-17_093254.webp", "t": "photos/shaanxi-2014/08.17/d6_2014-08-17_093254.thumb.webp", "w": 1600, "h": 1195, "zh": "「入仕长安为郎，历险初使西域」", "en": "Zhang Qian's first mission to the west"},
+    {"o": "d6_UYZV6538.jpg", "f": "photos/shaanxi-2014/08.17/d6_UYZV6538.webp", "t": "photos/shaanxi-2014/08.17/d6_UYZV6538.thumb.webp", "w": 1600, "h": 1195, "zh": "史书里的张骞", "en": "Zhang Qian in the histories"},
+    {"o": "d6_2014-08-17 095749.jpg", "f": "photos/shaanxi-2014/08.17/d6_2014-08-17_095749.webp", "t": "photos/shaanxi-2014/08.17/d6_2014-08-17_095749.thumb.webp", "w": 1600, "h": 1195, "zh": "丝绸之路上的出土文物", "en": "Finds along the Silk Road"},
+    {"o": "d6_2014-08-17 134423.jpg", "f": "photos/shaanxi-2014/08.17/d6_2014-08-17_134423.webp", "t": "photos/shaanxi-2014/08.17/d6_2014-08-17_134423.thumb.webp", "w": 1600, "h": 1195, "zh": "景区的示意图", "en": "A site plan"},
+    {"o": "d6_BVBI1062.jpg", "f": "photos/shaanxi-2014/08.17/d6_BVBI1062.webp", "t": "photos/shaanxi-2014/08.17/d6_BVBI1062.thumb.webp", "w": 1195, "h": 1600, "zh": "刻字的石头", "en": "An inscribed stone"},
+    {"o": "d6_2014-08-17 141644.jpg", "f": "photos/shaanxi-2014/08.17/d6_2014-08-17_141644.webp", "t": "photos/shaanxi-2014/08.17/d6_2014-08-17_141644.thumb.webp", "w": 1600, "h": 1195, "zh": "稻田", "en": "Rice fields"},
+    {"o": "d6_2014-08-17 160525.jpg", "f": "photos/shaanxi-2014/08.17/d6_2014-08-17_160525.webp", "t": "photos/shaanxi-2014/08.17/d6_2014-08-17_160525.thumb.webp", "w": 1195, "h": 1600, "zh": "古柏", "en": "An old cypress"}
+  ]},
+  "08.18": {"cover": 3, "items": [
+    {"o": "d6_2014-08-18 085547.jpg", "f": "photos/shaanxi-2014/08.18/d6_2014-08-18_085547.webp", "t": "photos/shaanxi-2014/08.18/d6_2014-08-18_085547.thumb.webp", "w": 1600, "h": 1195, "zh": "石门的题刻墙", "en": "A wall of Shimen inscriptions"},
+    {"o": "d6_P40818-090355.jpg", "f": "photos/shaanxi-2014/08.18/d6_P40818-090355.webp", "t": "photos/shaanxi-2014/08.18/d6_P40818-090355.thumb.webp", "w": 1200, "h": 1600, "zh": "摩崖的拓片", "en": "Rubbings of the cliff inscriptions"},
+    {"o": "d6_2014-08-18 091501.jpg", "f": "photos/shaanxi-2014/08.18/d6_2014-08-18_091501.webp", "t": "photos/shaanxi-2014/08.18/d6_2014-08-18_091501.thumb.webp", "w": 1600, "h": 1195, "zh": "褒河", "en": "The Bao River"},
+    {"o": "d6_P40818-094441.jpg", "f": "photos/shaanxi-2014/08.18/d6_P40818-094441.webp", "t": "photos/shaanxi-2014/08.18/d6_P40818-094441.thumb.webp", "w": 1200, "h": 1600, "zh": "褒河峡谷", "en": "The Bao gorge"},
+    {"o": "d6_P40818-114247.jpg", "f": "photos/shaanxi-2014/08.18/d6_P40818-114247.webp", "t": "photos/shaanxi-2014/08.18/d6_P40818-114247.thumb.webp", "w": 1200, "h": 1600, "zh": "崖边的栈道", "en": "The plank road on the cliff"},
+    {"o": "d6_P40818-114545.jpg", "f": "photos/shaanxi-2014/08.18/d6_P40818-114545.webp", "t": "photos/shaanxi-2014/08.18/d6_P40818-114545.thumb.webp", "w": 1200, "h": 1600, "zh": "栈道", "en": "The plank road"},
+    {"o": "d6_P40818-153415.jpg", "f": "photos/shaanxi-2014/08.18/d6_P40818-153415.webp", "t": "photos/shaanxi-2014/08.18/d6_P40818-153415.thumb.webp", "w": 1200, "h": 1600, "zh": "石碑", "en": "A stele"}
+  ]},
+  "08.19": {"cover": 4, "items": [
+    {"o": "d6_P40819-112400.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-112400.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-112400.thumb.webp", "w": 1600, "h": 1200, "zh": "明月峡的导览图", "en": "A map of Mingyue Gorge"},
+    {"o": "d6_P40819-112951.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-112951.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-112951.thumb.webp", "w": 1600, "h": 1200, "zh": "嘉陵江", "en": "The Jialing River"},
+    {"o": "d6_P40819-121653.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-121653.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-121653.thumb.webp", "w": 1600, "h": 1200, "zh": "峡谷", "en": "The gorge"},
+    {"o": "d6_P40819-122407.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-122407.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-122407.thumb.webp", "w": 1200, "h": 1600, "zh": "江边的崖", "en": "Cliffs on the river"},
+    {"o": "d6_P40819-122511.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-122511.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-122511.thumb.webp", "w": 1600, "h": 1200, "zh": "明月峡", "en": "Mingyue Gorge"},
+    {"o": "d6_P40819-124744.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-124744.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-124744.thumb.webp", "w": 1600, "h": 1200, "zh": "栈道的老照片", "en": "Old pictures of the plank road"},
+    {"o": "d6_P40819-161937.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-161937.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-161937.thumb.webp", "w": 1600, "h": 1200, "zh": "千佛崖", "en": "The Thousand Buddha Cliff"},
+    {"o": "d6_P40819-163310.jpg", "f": "photos/shaanxi-2014/08.19/d6_P40819-163310.webp", "t": "photos/shaanxi-2014/08.19/d6_P40819-163310.thumb.webp", "w": 1200, "h": 1600, "zh": "佛崖下的院子", "en": "A courtyard under the cliff"}
+  ]},
+  "08.20": {"cover": 1, "items": [
+    {"o": "d6_P40820-094824.jpg", "f": "photos/shaanxi-2014/08.20/d6_P40820-094824.webp", "t": "photos/shaanxi-2014/08.20/d6_P40820-094824.thumb.webp", "w": 1600, "h": 1200, "zh": "古道的说明", "en": "About the old road"},
+    {"o": "d6_P40820-102304.jpg", "f": "photos/shaanxi-2014/08.20/d6_P40820-102304.webp", "t": "photos/shaanxi-2014/08.20/d6_P40820-102304.thumb.webp", "w": 1200, "h": 1600, "zh": "山溪", "en": "A mountain stream"},
+    {"o": "d6_P40820-105103.jpg", "f": "photos/shaanxi-2014/08.20/d6_P40820-105103.webp", "t": "photos/shaanxi-2014/08.20/d6_P40820-105103.thumb.webp", "w": 1600, "h": 1200, "zh": "石刻", "en": "A carving"},
+    {"o": "d6_P40820-111325.jpg", "f": "photos/shaanxi-2014/08.20/d6_P40820-111325.webp", "t": "photos/shaanxi-2014/08.20/d6_P40820-111325.thumb.webp", "w": 1600, "h": 1200, "zh": "溪谷", "en": "The valley"},
+    {"o": "d6_P40820-113027.jpg", "f": "photos/shaanxi-2014/08.20/d6_P40820-113027.webp", "t": "photos/shaanxi-2014/08.20/d6_P40820-113027.thumb.webp", "w": 1600, "h": 1200, "zh": "溪水", "en": "The stream"},
+    {"o": "d6_P40820-123659.jpg", "f": "photos/shaanxi-2014/08.20/d6_P40820-123659.webp", "t": "photos/shaanxi-2014/08.20/d6_P40820-123659.thumb.webp", "w": 1600, "h": 1200, "zh": "牌坊", "en": "A stone gateway"}
+  ]},
+  "08.21": {"cover": 0, "items": [
+    {"o": "d6_P40821-124542.jpg", "f": "photos/shaanxi-2014/08.21/d6_P40821-124542.webp", "t": "photos/shaanxi-2014/08.21/d6_P40821-124542.thumb.webp", "w": 1200, "h": 1600, "zh": "小巷", "en": "A lane"},
+    {"o": "d6_P40821-124546.jpg", "f": "photos/shaanxi-2014/08.21/d6_P40821-124546.webp", "t": "photos/shaanxi-2014/08.21/d6_P40821-124546.thumb.webp", "w": 1200, "h": 1600, "zh": "巷子", "en": "An alley"}
+  ]},
+  "08.22": {"cover": 1, "items": [
+    {"o": "d6_P40822-170009.jpg", "f": "photos/shaanxi-2014/08.22/d6_P40822-170009.webp", "t": "photos/shaanxi-2014/08.22/d6_P40822-170009.thumb.webp", "w": 1200, "h": 1600, "zh": "园子里的老房子", "en": "An old house in the garden"},
+    {"o": "d6_P40822-170020.jpg", "f": "photos/shaanxi-2014/08.22/d6_P40822-170020.webp", "t": "photos/shaanxi-2014/08.22/d6_P40822-170020.thumb.webp", "w": 1200, "h": 1600, "zh": "亭子", "en": "A pavilion"},
+    {"o": "d6_P40822-171656.jpg", "f": "photos/shaanxi-2014/08.22/d6_P40822-171656.webp", "t": "photos/shaanxi-2014/08.22/d6_P40822-171656.thumb.webp", "w": 1600, "h": 1200, "zh": "垂柳", "en": "Willows"},
+    {"o": "d6_P40822-172411.jpg", "f": "photos/shaanxi-2014/08.22/d6_P40822-172411.webp", "t": "photos/shaanxi-2014/08.22/d6_P40822-172411.thumb.webp", "w": 1200, "h": 1600, "zh": "旧文书", "en": "An old document"},
+    {"o": "d6_P40822-172717.jpg", "f": "photos/shaanxi-2014/08.22/d6_P40822-172717.webp", "t": "photos/shaanxi-2014/08.22/d6_P40822-172717.thumb.webp", "w": 1200, "h": 1600, "zh": "木塔的模型", "en": "A model of a wooden tower"},
+    {"o": "d6_P40822-173719.jpg", "f": "photos/shaanxi-2014/08.22/d6_P40822-173719.webp", "t": "photos/shaanxi-2014/08.22/d6_P40822-173719.thumb.webp", "w": 1600, "h": 1200, "zh": "院门", "en": "The gate"}
+  ]},
+  "08.23": {"cover": 3, "items": [
+    {"o": "d6_P40823-130051.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-130051.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-130051.thumb.webp", "w": 1600, "h": 1200, "zh": "乐山大佛的导览图", "en": "A map of the Leshan site"},
+    {"o": "d6_P40823-130806.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-130806.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-130806.thumb.webp", "w": 1600, "h": 1200, "zh": "崖壁上的石刻", "en": "Carvings in the cliff"},
+    {"o": "d6_P40823-135243.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-135243.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-135243.thumb.webp", "w": 1600, "h": 1200, "zh": "三江汇流", "en": "Where the three rivers meet"},
+    {"o": "d6_P40823-135614.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-135614.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-135614.thumb.webp", "w": 1200, "h": 1600, "zh": "大佛的头", "en": "The Buddha's head"},
+    {"o": "d6_P40823-153815.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-153815.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-153815.thumb.webp", "w": 1200, "h": 1600, "zh": "乐山大佛", "en": "The Leshan Giant Buddha"},
+    {"o": "d6_P40823-153825.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-153825.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-153825.thumb.webp", "w": 1200, "h": 1600, "zh": "江面", "en": "The river"},
+    {"o": "d6_P40823-161114.jpg", "f": "photos/shaanxi-2014/08.23/d6_P40823-161114.webp", "t": "photos/shaanxi-2014/08.23/d6_P40823-161114.thumb.webp", "w": 1200, "h": 1600, "zh": "从下面看大佛", "en": "The Buddha from below"}
+  ]}
+ },
+ "japan-2014": {
+  "07.19": {"cover": 0, "items": [
+    {"o": "d7_YCFM9539.jpg", "f": "photos/japan-2014/07.19/d7_YCFM9539.webp", "t": "photos/japan-2014/07.19/d7_YCFM9539.thumb.webp", "w": 1600, "h": 1195, "zh": "车窗外的东京塔", "en": "Tokyo Tower from the bus"}
+  ]},
+  "07.20": {"cover": 0, "items": [
+    {"o": "d7_2014-07-20 090715.jpg", "f": "photos/japan-2014/07.20/d7_2014-07-20_090715.webp", "t": "photos/japan-2014/07.20/d7_2014-07-20_090715.thumb.webp", "w": 1600, "h": 1195, "zh": "三四郎池的说明", "en": "About Sanshiro Pond"}
+  ]},
+  "07.22": {"cover": 4, "items": [
+    {"o": "d7_P40722-122444.jpg", "f": "photos/japan-2014/07.22/d7_P40722-122444.webp", "t": "photos/japan-2014/07.22/d7_P40722-122444.thumb.webp", "w": 1200, "h": 1600, "zh": "老树", "en": "An old tree"},
+    {"o": "d7_P40722-123909.jpg", "f": "photos/japan-2014/07.22/d7_P40722-123909.webp", "t": "photos/japan-2014/07.22/d7_P40722-123909.thumb.webp", "w": 1200, "h": 1600, "zh": "木牌", "en": "A wooden notice"},
+    {"o": "d7_P40722-124228.jpg", "f": "photos/japan-2014/07.22/d7_P40722-124228.webp", "t": "photos/japan-2014/07.22/d7_P40722-124228.thumb.webp", "w": 1200, "h": 1600, "zh": "松林", "en": "Pines"},
+    {"o": "d7_P40722-144626.jpg", "f": "photos/japan-2014/07.22/d7_P40722-144626.webp", "t": "photos/japan-2014/07.22/d7_P40722-144626.thumb.webp", "w": 1200, "h": 1600, "zh": "门柱", "en": "A gatepost"},
+    {"o": "d7_P40722-160736.jpg", "f": "photos/japan-2014/07.22/d7_P40722-160736.webp", "t": "photos/japan-2014/07.22/d7_P40722-160736.thumb.webp", "w": 1200, "h": 1600, "zh": "神社", "en": "A shrine"},
+    {"o": "d7_P40722-164815.jpg", "f": "photos/japan-2014/07.22/d7_P40722-164815.webp", "t": "photos/japan-2014/07.22/d7_P40722-164815.thumb.webp", "w": 1200, "h": 1600, "zh": "石碑", "en": "A stone monument"},
+    {"o": "d7_P40722-175807.jpg", "f": "photos/japan-2014/07.22/d7_P40722-175807.webp", "t": "photos/japan-2014/07.22/d7_P40722-175807.thumb.webp", "w": 1200, "h": 1600, "zh": "高楼", "en": "Towers"}
+  ]},
+  "07.26": {"cover": 1, "items": [
+    {"o": "d7_OYRK3853.jpg", "f": "photos/japan-2014/07.26/d7_OYRK3853.webp", "t": "photos/japan-2014/07.26/d7_OYRK3853.thumb.webp", "w": 1600, "h": 1195, "zh": "二条城的护城河", "en": "The moat of Nijō Castle"},
+    {"o": "d7_2014-07-26 160417.jpg", "f": "photos/japan-2014/07.26/d7_2014-07-26_160417.webp", "t": "photos/japan-2014/07.26/d7_2014-07-26_160417.thumb.webp", "w": 1600, "h": 1195, "zh": "八坂神社", "en": "Yasaka Shrine"},
+    {"o": "d7_FROT7443.jpg", "f": "photos/japan-2014/07.26/d7_FROT7443.webp", "t": "photos/japan-2014/07.26/d7_FROT7443.thumb.webp", "w": 1600, "h": 1195, "zh": "门帘", "en": "Noren"},
+    {"o": "d7_2014-07-26 161754.jpg", "f": "photos/japan-2014/07.26/d7_2014-07-26_161754.webp", "t": "photos/japan-2014/07.26/d7_2014-07-26_161754.thumb.webp", "w": 1600, "h": 1195, "zh": "祇园祭的灯笼", "en": "Lanterns for the Gion Festival"},
+    {"o": "d7_2014-07-26 164904.jpg", "f": "photos/japan-2014/07.26/d7_2014-07-26_164904.webp", "t": "photos/japan-2014/07.26/d7_2014-07-26_164904.thumb.webp", "w": 1600, "h": 1195, "zh": "鸟居", "en": "A torii"},
+    {"o": "d7_2014-07-26 171327.jpg", "f": "photos/japan-2014/07.26/d7_2014-07-26_171327.webp", "t": "photos/japan-2014/07.26/d7_2014-07-26_171327.thumb.webp", "w": 1600, "h": 1195, "zh": "祇园的小街", "en": "A lane in Gion"}
+  ]},
+  "07.27": {"cover": 3, "items": [
+    {"o": "d7_LCAM0925.jpg", "f": "photos/japan-2014/07.27/d7_LCAM0925.webp", "t": "photos/japan-2014/07.27/d7_LCAM0925.thumb.webp", "w": 1195, "h": 1600, "zh": "去大阪城的路", "en": "The way to Osaka Castle"},
+    {"o": "d7_2014-07-27 142855.jpg", "f": "photos/japan-2014/07.27/d7_2014-07-27_142855.webp", "t": "photos/japan-2014/07.27/d7_2014-07-27_142855.thumb.webp", "w": 1600, "h": 1195, "zh": "石墙", "en": "The stone walls"},
+    {"o": "d7_2014-07-27 142858.jpg", "f": "photos/japan-2014/07.27/d7_2014-07-27_142858.webp", "t": "photos/japan-2014/07.27/d7_2014-07-27_142858.thumb.webp", "w": 1600, "h": 1195, "zh": "护城河", "en": "The moat"},
+    {"o": "d7_IMG_5953.jpg", "f": "photos/japan-2014/07.27/d7_IMG_5953.webp", "t": "photos/japan-2014/07.27/d7_IMG_5953.thumb.webp", "w": 1600, "h": 1200, "zh": "天守阁上往下看", "en": "Looking down from the keep"}
+  ]},
+  "07.28": {"cover": 2, "items": [
+    {"o": "d7_HGKJ0294.jpg", "f": "photos/japan-2014/07.28/d7_HGKJ0294.webp", "t": "photos/japan-2014/07.28/d7_HGKJ0294.thumb.webp", "w": 1600, "h": 1195, "zh": "京都御苑", "en": "The Imperial Gardens"},
+    {"o": "d7_2014-07-28 143046.jpg", "f": "photos/japan-2014/07.28/d7_2014-07-28_143046.webp", "t": "photos/japan-2014/07.28/d7_2014-07-28_143046.thumb.webp", "w": 1600, "h": 1195, "zh": "石头和树", "en": "Rocks and trees"},
+    {"o": "d7_2014-07-28 143052.jpg", "f": "photos/japan-2014/07.28/d7_2014-07-28_143052.webp", "t": "photos/japan-2014/07.28/d7_2014-07-28_143052.thumb.webp", "w": 1600, "h": 1195, "zh": "松林", "en": "Pines"},
+    {"o": "d7_2014-07-28 143339.jpg", "f": "photos/japan-2014/07.28/d7_2014-07-28_143339.webp", "t": "photos/japan-2014/07.28/d7_2014-07-28_143339.thumb.webp", "w": 1600, "h": 1195, "zh": "院墙", "en": "Temple walls"},
+    {"o": "d7_2014-07-28 143342.jpg", "f": "photos/japan-2014/07.28/d7_2014-07-28_143342.webp", "t": "photos/japan-2014/07.28/d7_2014-07-28_143342.thumb.webp", "w": 1600, "h": 1195, "zh": "寺院", "en": "The temple"},
+    {"o": "d7_2014-07-28 144046.jpg", "f": "photos/japan-2014/07.28/d7_2014-07-28_144046.webp", "t": "photos/japan-2014/07.28/d7_2014-07-28_144046.thumb.webp", "w": 1600, "h": 1195, "zh": "寺院的地图", "en": "A map of the temple"}
+  ]},
+  "07.29": {"cover": 4, "items": [
+    {"o": "d7_IMG_1965 (1).jpg", "f": "photos/japan-2014/07.29/d7_IMG_1965_(1).webp", "t": "photos/japan-2014/07.29/d7_IMG_1965_(1).thumb.webp", "w": 1200, "h": 1600, "zh": "路边的花", "en": "Flowers by the road"},
+    {"o": "d7_PGSA8629.jpg", "f": "photos/japan-2014/07.29/d7_PGSA8629.webp", "t": "photos/japan-2014/07.29/d7_PGSA8629.thumb.webp", "w": 1600, "h": 1195, "zh": "高濑川", "en": "The Takase canal"},
+    {"o": "d7_OZIG8054.jpg", "f": "photos/japan-2014/07.29/d7_OZIG8054.webp", "t": "photos/japan-2014/07.29/d7_OZIG8054.thumb.webp", "w": 1600, "h": 1195, "zh": "夜里的街", "en": "The street at night"},
+    {"o": "d7_2014-07-29 190956.jpg", "f": "photos/japan-2014/07.29/d7_2014-07-29_190956.webp", "t": "photos/japan-2014/07.29/d7_2014-07-29_190956.thumb.webp", "w": 1600, "h": 1195, "zh": "街口", "en": "A corner"},
+    {"o": "d7_JYTH6419.jpg", "f": "photos/japan-2014/07.29/d7_JYTH6419.webp", "t": "photos/japan-2014/07.29/d7_JYTH6419.thumb.webp", "w": 1600, "h": 1195, "zh": "鸭川", "en": "The Kamo River"},
+    {"o": "d7_IBVN6064.jpg", "f": "photos/japan-2014/07.29/d7_IBVN6064.webp", "t": "photos/japan-2014/07.29/d7_IBVN6064.thumb.webp", "w": 1600, "h": 1195, "zh": "夜里的路口", "en": "A crossing at night"}
   ]}
  }
 }

@@ -383,7 +383,7 @@ def cmd_build():
             out.mkdir(parents=True, exist_ok=True)
             want = set()
             for n in names:
-                stem = Path(n).stem
+                stem = Path(n).stem.replace(" ", "_")
                 want |= {stem + ".webp", stem + ".thumb.webp"}
                 jobs.append((srcpath[n], str(out / (stem + ".webp")), str(out / (stem + ".thumb.webp"))))
             for f in out.iterdir():  # drop files from earlier runs that are no longer picked
@@ -401,7 +401,7 @@ def cmd_build():
             continue
         items = []
         for n in names:
-            stem = Path(n).stem
+            stem = Path(n).stem.replace(" ", "_")
             w, h = sizes[srcpath[n]]
             c = captions.get(n, {})
             items.append({"o": n, "f": f"photos/{tid}/{day}/{stem}.webp", "t": f"photos/{tid}/{day}/{stem}.thumb.webp",
