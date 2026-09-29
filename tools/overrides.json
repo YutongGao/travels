@@ -1659,6 +1659,240 @@
       "IMG_2816.HEIC"
     ]
   },
+  "uk-2025/11.24": {
+    "only": [
+      "d4_IMG_7914.HEIC",
+      "d4_IMG_7946.HEIC",
+      "d4_IMG_7974.HEIC",
+      "d4_IMG_8023.HEIC",
+      "d4_IMG_8029.HEIC",
+      "d4_IMG_8053.HEIC"
+    ],
+    "cover": "d4_IMG_7974.HEIC"
+  },
+  "uk-2025/11.25": {
+    "only": [
+      "d4_IMG_8123.HEIC",
+      "d4_IMG_8127.HEIC",
+      "d4_IMG_8143.HEIC",
+      "d4_IMG_8176.HEIC",
+      "d4_IMG_8210.HEIC",
+      "d4_IMG_8223.HEIC",
+      "d4_IMG_8248.HEIC"
+    ],
+    "cover": "d4_IMG_8176.HEIC"
+  },
+  "uk-2025/11.26": {
+    "only": [
+      "d4_IMG_8262.HEIC",
+      "d4_IMG_8263.HEIC",
+      "d4_IMG_8276.HEIC",
+      "d4_IMG_8287.HEIC",
+      "d4_IMG_8296.HEIC",
+      "d4_IMG_8302.HEIC"
+    ],
+    "cover": "d4_IMG_8263.HEIC"
+  },
+  "uk-2025/11.27": {
+    "only": [
+      "d4_IMG_8348.HEIC",
+      "d4_IMG_8354.HEIC",
+      "d4_IMG_8378.HEIC",
+      "d4_IMG_8390.HEIC",
+      "d4_IMG_8407.HEIC",
+      "d4_IMG_8426.HEIC"
+    ],
+    "cover": "d4_IMG_8348.HEIC"
+  },
+  "uk-2025/11.28": {
+    "only": [
+      "d4_IMG_8477.HEIC",
+      "d4_IMG_8487.HEIC",
+      "d4_IMG_8497.HEIC",
+      "d4_IMG_8514.HEIC",
+      "d4_IMG_8519.HEIC",
+      "d4_IMG_8523.HEIC",
+      "d4_IMG_8532.HEIC"
+    ],
+    "cover": "d4_IMG_8532.HEIC"
+  },
+  "uk-2025/11.29": {
+    "only": [
+      "d4_IMG_8538.HEIC",
+      "d4_IMG_8541.HEIC",
+      "d4_IMG_8545.HEIC",
+      "d4_IMG_8546.HEIC",
+      "d4_IMG_8564.HEIC",
+      "d4_IMG_8566.HEIC"
+    ],
+    "cover": "d4_IMG_8564.HEIC"
+  },
+  "uk-2025/11.30": {
+    "only": [
+      "d4_IMG_8584.HEIC",
+      "d4_IMG_8618.HEIC",
+      "d4_IMG_8642.HEIC",
+      "d4_IMG_8670.HEIC",
+      "d4_IMG_8706.HEIC",
+      "d4_IMG_8726.HEIC",
+      "d4_IMG_8751.HEIC"
+    ],
+    "cover": "d4_IMG_8706.HEIC"
+  },
+  "uk-2025/12.01": {
+    "only": [
+      "d4_IMG_8777.HEIC",
+      "d4_IMG_8781.HEIC",
+      "d4_IMG_8798.HEIC",
+      "d4_IMG_8800.HEIC",
+      "d4_IMG_8804.HEIC",
+      "d4_IMG_8816.HEIC",
+      "d4_IMG_8834.HEIC"
+    ],
+    "cover": "d4_IMG_8800.HEIC"
+  },
+  "uk-2025/12.02": {
+    "only": [
+      "d4_IMG_8881.HEIC",
+      "d4_IMG_8925.HEIC",
+      "d4_IMG_8957.HEIC",
+      "d4_IMG_8970.HEIC",
+      "d4_IMG_8986.HEIC",
+      "d4_IMG_9004.HEIC",
+      "d4_IMG_9031.HEIC"
+    ],
+    "cover": "d4_IMG_8925.HEIC"
+  },
+  "uk-2025/12.03": {
+    "only": [
+      "d4_IMG_9075.HEIC",
+      "d4_IMG_9078.HEIC",
+      "d4_IMG_9100.HEIC",
+      "d4_IMG_9109.HEIC",
+      "d4_IMG_9127.HEIC",
+      "d4_IMG_9154.HEIC"
+    ],
+    "cover": "d4_IMG_9075.HEIC"
+  },
+  "uk-2025/12.04": {
+    "only": [
+      "d4_IMG_9200.HEIC",
+      "d4_IMG_9204.HEIC",
+      "d4_IMG_9218.HEIC",
+      "d4_IMG_9226.HEIC",
+      "d4_IMG_9234.HEIC",
+      "d4_IMG_9244.HEIC"
+    ],
+    "cover": "d4_IMG_9244.HEIC"
+  },
+  "uk-2025/12.05": {
+    "only": [
+      "d4_IMG_9259.HEIC",
+      "d4_IMG_9270.HEIC",
+      "d4_IMG_9279.HEIC",
+      "d4_IMG_9294.HEIC",
+      "d4_IMG_9300.HEIC",
+      "d4_IMG_9310.HEIC",
+      "d4_IMG_9311.HEIC"
+    ],
+    "cover": "d4_IMG_9300.HEIC"
+  },
+  "uk-2025/12.06": {
+    "only": [
+      "d4_IMG_9333.HEIC",
+      "d4_IMG_9340.HEIC",
+      "d4_IMG_9362.HEIC",
+      "d4_IMG_9374.HEIC",
+      "d4_IMG_9380.HEIC",
+      "d4_IMG_9397.HEIC",
+      "d4_IMG_9405.HEIC"
+    ],
+    "cover": "d4_IMG_9397.HEIC"
+  },
+  "uk-2025/12.07": {
+    "only": [
+      "d4_IMG_9456.HEIC",
+      "d4_IMG_9457.HEIC",
+      "d4_IMG_9468.HEIC",
+      "d4_IMG_9487.HEIC",
+      "d4_IMG_9498.HEIC",
+      "d4_IMG_9518.HEIC"
+    ],
+    "cover": "d4_IMG_9518.HEIC"
+  },
+  "uk-2025/12.08": {
+    "only": [
+      "d4_IMG_9534.HEIC",
+      "d4_IMG_9537.HEIC",
+      "d4_IMG_9545.HEIC",
+      "d4_IMG_9558.HEIC",
+      "d4_IMG_9575.HEIC",
+      "d4_IMG_9583.HEIC",
+      "d4_IMG_9592.HEIC",
+      "d4_IMG_9601.HEIC"
+    ],
+    "cover": "d4_IMG_9534.HEIC"
+  },
+  "uk-2025/12.09": {
+    "only": [
+      "d4_IMG_9622.HEIC",
+      "d4_IMG_9635.HEIC",
+      "d4_IMG_9645.HEIC",
+      "d4_IMG_9653.HEIC",
+      "d4_IMG_9672.HEIC",
+      "d4_IMG_9701.HEIC",
+      "d4_IMG_9718.HEIC",
+      "d4_IMG_9723.HEIC"
+    ],
+    "cover": "d4_IMG_9622.HEIC"
+  },
+  "uk-2025/12.10": {
+    "only": [
+      "d4_IMG_9748.HEIC",
+      "d4_IMG_9756.HEIC",
+      "d4_IMG_9765.HEIC",
+      "d4_IMG_9770.HEIC",
+      "d4_IMG_9783.HEIC",
+      "d4_IMG_9788.HEIC"
+    ],
+    "cover": "d4_IMG_9783.HEIC"
+  },
+  "uk-2025/12.11": {
+    "only": [
+      "d4_IMG_9798.HEIC",
+      "d4_IMG_9809.HEIC",
+      "d4_IMG_9821.HEIC",
+      "d4_IMG_9825.HEIC",
+      "d4_IMG_9830.HEIC",
+      "d4_IMG_9833.HEIC",
+      "d4_IMG_9865.HEIC"
+    ],
+    "cover": "d4_IMG_9833.HEIC"
+  },
+  "uk-2025/12.12": {
+    "only": [
+      "d4_IMG_9884.HEIC",
+      "d4_IMG_9889.HEIC",
+      "d4_IMG_9891.HEIC",
+      "d4_IMG_9892.HEIC",
+      "d4_IMG_9898.HEIC",
+      "d4_IMG_9901.HEIC",
+      "d4_IMG_9904.HEIC"
+    ],
+    "cover": "d4_IMG_9884.HEIC"
+  },
+  "uk-2025/12.13": {
+    "only": [
+      "d4_IMG_9908.HEIC",
+      "d4_IMG_9934.HEIC",
+      "d4_IMG_9965.HEIC",
+      "d4_IMG_9974.HEIC",
+      "d4_IMG_0003.HEIC",
+      "d4_IMG_0013.HEIC",
+      "d4_IMG_0027.HEIC"
+    ],
+    "cover": "d4_IMG_9934.HEIC"
+  },
   "usa-2017/03.11": {
     "only": [
       "no17_IMG_9736.jpg",

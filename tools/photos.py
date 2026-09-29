@@ -10,7 +10,7 @@ Hand edits live in two files that the pipeline never overwrites:
 
 Originals are never modified. Everything intermediate goes to .cache/ (git-ignored).
 """
-import html, json, os, sys
+import html, json, os, re, sys
 from concurrent.futures import ProcessPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -152,8 +152,8 @@ def classify(rec, days):
     except ValueError:  # blank or malformed camera clock
         rec["reason"] = "no-time"
         return
-    if rec.get("oto") and not rec["oto"].strip(" :"):
-        rec["oto"] = None
+    if rec.get("oto") and not re.fullmatch(r"[+-]\d\d:\d\d", rec["oto"].strip()):
+        rec["oto"] = None  # blank or malformed offset
     fix = CLOCK_FIX.get((rec.get("model"), local.year))
     if fix:  # camera clock set to another zone; shift to trip-local wall time
         local += fix

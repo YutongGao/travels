@@ -61,7 +61,7 @@ function routeLegs(trip){
   return lines+arrows;
 }
 function overviewSVG(trip){
-  const g=GEO[trip.geo];const anchors=["vancouver","toronto","nyc","chicago","austin","orlando","atlanta","sapporo","tokyo","kyoto","beppu","istanbul","antalya","uchisar","van","trabzon","kars","madrid","sevilla","barcelona","paris","rome","berlin","prague","munich","krakow"];
+  const g=GEO[trip.geo];const anchors=["vancouver","toronto","nyc","chicago","austin","orlando","atlanta","sapporo","tokyo","kyoto","beppu","istanbul","antalya","uchisar","van","trabzon","kars","madrid","sevilla","barcelona","paris","rome","berlin","prague","munich","krakow","london","edinburgh","dublin"];
   let s=`<svg class="overview" viewBox="0 0 ${g.W} ${g.H}" role="group" aria-label="${lang==="zh"?"路线图，可点击地点":"Route map, points are clickable"}"><use href="#land-${trip.geo}" width="${GEO[trip.geo].W}" height="${GEO[trip.geo].H}"/>${routeLegs(trip)}`;
   Object.keys(STOPDAYS[trip.id]).forEach(k=>{const p=g.stops[k];
     s+=`<g class="stop" data-k="${k}" tabindex="0" role="button" aria-label="${p[lang]}"><circle class="dot" cx="${p.x}" cy="${p.y}" r="4"/></g>`});
