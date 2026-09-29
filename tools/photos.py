@@ -37,7 +37,7 @@ PREVIEW_EDGE = 480
 DAY_STARTS_AT = 3  # photos before 03:00 local belong to the previous day
 
 PER_DAY = 9          # fills the 3-column gallery
-FULL_EDGE, FULL_Q = 1600, 80
+FULL_EDGE, FULL_Q = 1400, 72
 THUMB_EDGE, THUMB_Q = 720, 72   # thumbs also fill the large first cell on the trip page
 BURST_SECONDS, BURST_BITS = 10, 16   # same moment, similar frame
 NEAR_SECONDS, NEAR_BITS = 300, 6     # a few minutes apart, nearly identical frame
