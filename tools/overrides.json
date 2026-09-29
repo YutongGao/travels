@@ -1,4 +1,47 @@
 {
+  "china-2015/01.23": {
+    "only": [
+      "wh15_IMG_2258.jpg",
+      "wh15_IMG_2262.jpg",
+      "wh15_IMG_2272.jpg",
+      "wh15_IMG_2276.jpg"
+    ],
+    "cover": "wh15_IMG_2276.jpg"
+  },
+  "china-2015/01.24": {
+    "only": [
+      "wh15_IMG_2298.jpg",
+      "wh15_IMG_2304.jpg",
+      "wh15_IMG_2305.jpg",
+      "wh15_IMG_2310.jpg",
+      "wh15_IMG_2313.jpg",
+      "wh15_IMG_2318.jpg"
+    ],
+    "cover": "wh15_IMG_2310.jpg"
+  },
+  "china-2015/01.25": {
+    "only": [
+      "wh15_IMG_2327.jpg",
+      "wh15_IMG_2331.jpg",
+      "wh15_IMG_2335.jpg",
+      "wh15_IMG_2337.jpg",
+      "wh15_IMG_2339.jpg",
+      "wh15_IMG_2344.jpg",
+      "wh15_IMG_2354.jpg"
+    ],
+    "cover": "wh15_IMG_2335.jpg"
+  },
+  "china-2015/01.26": {
+    "only": [
+      "wh15_IMG_2359.jpg",
+      "wh15_IMG_2360.jpg",
+      "wh15_IMG_2365.jpg",
+      "wh15_IMG_2368.jpg",
+      "wh15_IMG_2371.jpg",
+      "wh15_IMG_2375.jpg"
+    ],
+    "cover": "wh15_IMG_2365.jpg"
+  },
   "europe-2023/01.01": {
     "only": [
       "PXL_20240101_070536989.jpg",
@@ -1052,5 +1095,134 @@
       "IMG_2801.HEIC",
       "IMG_2816.HEIC"
     ]
+  },
+  "usa-2017/03.11": {
+    "only": [
+      "no17_IMG_9736.jpg",
+      "no17_IMG_9740.jpg",
+      "no17_IMG_9742.jpg",
+      "no17_IMG_9746.jpg",
+      "no17_IMG_9785.jpg",
+      "no17_IMG_9788.jpg",
+      "no17_IMG_9794.jpg",
+      "no17_IMG_9799.jpg"
+    ],
+    "cover": "no17_IMG_9794.jpg"
+  },
+  "usa-2017/03.12": {
+    "only": [
+      "no17_IMG_9808.jpg",
+      "no17_IMG_9820.jpg",
+      "no17_IMG_9823.jpg",
+      "no17_IMG_9827.jpg",
+      "no17_IMG_9831.jpg",
+      "no17_IMG_9835.jpg"
+    ],
+    "cover": "no17_IMG_9808.jpg"
+  },
+  "usa-2017/03.13": {
+    "only": [
+      "no17_IMG_9862.jpg",
+      "no17_IMG_9867.jpg",
+      "no17_IMG_9870.jpg",
+      "no17_IMG_9872.jpg",
+      "no17_IMG_9874.jpg",
+      "no17_IMG_9877.jpg",
+      "no17_IMG_9883.jpg",
+      "no17_IMG_9884.jpg"
+    ],
+    "cover": "no17_IMG_9862.jpg"
+  },
+  "usa-2017/03.14": {
+    "only": [
+      "no17_IMG_9901.jpg",
+      "no17_IMG_9915.jpg",
+      "no17_IMG_9917.jpg",
+      "no17_IMG_9921.jpg",
+      "no17_IMG_9923.jpg",
+      "no17_IMG_9928.jpg",
+      "no17_IMG_9931.jpg",
+      "no17_IMG_9933.jpg"
+    ],
+    "cover": "no17_IMG_9917.jpg"
+  },
+  "usa-2017/03.15": {
+    "only": [
+      "no17_IMG_9940.jpg",
+      "no17_IMG_9942.jpg",
+      "no17_IMG_9945.jpg",
+      "no17_IMG_9946.jpg",
+      "no17_IMG_9947.jpg",
+      "no17_IMG_9949.jpg"
+    ],
+    "cover": "no17_IMG_9946.jpg"
+  },
+  "usa-2017/07.23": {
+    "only": [
+      "ca17_DSC_0010.JPG",
+      "ca17_IMG_2599.jpg",
+      "ca17_DSC_0100.JPG",
+      "ca17_DSC_0105.JPG",
+      "ca17_DSC_0141.JPG",
+      "ca17_IMG_2609.jpg",
+      "ca17_IMG_2615.jpg"
+    ],
+    "cover": "ca17_DSC_0010.JPG"
+  },
+  "usa-2017/07.24": {
+    "only": [
+      "ca17_IMG_2622.jpg",
+      "ca17_DSC_0309.JPG",
+      "ca17_DSC_0314.JPG",
+      "ca17_DSC_0317.JPG"
+    ],
+    "cover": "ca17_DSC_0317.JPG"
+  },
+  "usa-2017/07.25": {
+    "only": [
+      "ca17_IMG_0764.JPG",
+      "ca17_IMG_0806.JPG",
+      "ca17_IMG_0855.JPG",
+      "ca17_IMG_0927.JPG",
+      "ca17_IMG_0948.JPG"
+    ],
+    "cover": "ca17_IMG_0806.JPG"
+  },
+  "usa-2017/07.26": {
+    "only": [
+      "ca17_IMG_1037.JPG",
+      "ca17_IMG_1078.JPG",
+      "ca17_DSC_0598.JPG",
+      "ca17_IMG_1153.JPG",
+      "ca17_IMG_1175.JPG",
+      "ca17_IMG_1219.JPG",
+      "ca17_DSC_0762.JPG"
+    ],
+    "cover": "ca17_DSC_0598.JPG"
+  },
+  "usa-2017/07.27": {
+    "only": [
+      "ca17_DSC_0797.JPG",
+      "ca17_DSC_0813.JPG",
+      "ca17_DSC_0823.JPG",
+      "ca17_IMG_2706.jpg",
+      "ca17_IMG_2711.jpg",
+      "ca17_IMG_2712.jpg",
+      "ca17_IMG_1295.JPG"
+    ],
+    "cover": "ca17_IMG_1295.JPG"
+  },
+  "usa-2017/07.28": {
+    "only": [
+      "ca17_IMG_1313.JPG",
+      "ca17_IMG_1318.JPG",
+      "ca17_IMG_1334.JPG",
+      "ca17_IMG_1343.JPG",
+      "ca17_IMG_1350.JPG",
+      "ca17_IMG_1353.JPG",
+      "ca17_IMG_1368.JPG",
+      "ca17_IMG_2735.jpg"
+    ],
+    "cover": "ca17_IMG_1318.JPG"
   }
 }

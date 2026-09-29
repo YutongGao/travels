@@ -1203,5 +1203,136 @@
     {"o": "jp23_PXL_20230707_050617631.jpg", "f": "photos/japan-2023/07.07/jp23_PXL_20230707_050617631.webp", "t": "photos/japan-2023/07.07/jp23_PXL_20230707_050617631.thumb.webp", "w": 1205, "h": 1600, "zh": "博物馆前的池子", "en": "The pond before the museum"},
     {"o": "jp23_PXL_20230707_054310278.jpg", "f": "photos/japan-2023/07.07/jp23_PXL_20230707_054310278.webp", "t": "photos/japan-2023/07.07/jp23_PXL_20230707_054310278.thumb.webp", "w": 1205, "h": 1600, "zh": "上野公园的说明牌", "en": "A sign in Ueno Park"}
   ]}
+ },
+ "usa-2017": {
+  "03.11": {"cover": 6, "items": [
+    {"o": "no17_IMG_9736.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9736.webp", "t": "photos/usa-2017/03.11/no17_IMG_9736.thumb.webp", "w": 1200, "h": 1600, "zh": "运河街历史街区的地图", "en": "A map of the Canal Street historic district"},
+    {"o": "no17_IMG_9740.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9740.webp", "t": "photos/usa-2017/03.11/no17_IMG_9740.thumb.webp", "w": 1200, "h": 1600, "zh": "街上的马车", "en": "A carriage in the street"},
+    {"o": "no17_IMG_9742.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9742.webp", "t": "photos/usa-2017/03.11/no17_IMG_9742.thumb.webp", "w": 1200, "h": 1600, "zh": "西班牙时代的「波旁街」路牌", "en": "The Spanish-era tile for Calle Borbón"},
+    {"o": "no17_IMG_9746.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9746.webp", "t": "photos/usa-2017/03.11/no17_IMG_9746.thumb.webp", "w": 1600, "h": 1200, "zh": "密西西比河", "en": "The Mississippi"},
+    {"o": "no17_IMG_9785.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9785.webp", "t": "photos/usa-2017/03.11/no17_IMG_9785.thumb.webp", "w": 1200, "h": 1600, "zh": "圣路易斯大教堂的天顶", "en": "The ceiling of St. Louis Cathedral"},
+    {"o": "no17_IMG_9788.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9788.webp", "t": "photos/usa-2017/03.11/no17_IMG_9788.thumb.webp", "w": 1200, "h": 1600, "zh": "圣路易斯大教堂", "en": "St. Louis Cathedral"},
+    {"o": "no17_IMG_9794.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9794.webp", "t": "photos/usa-2017/03.11/no17_IMG_9794.thumb.webp", "w": 1600, "h": 1200, "zh": "法语区的铁艺阳台", "en": "Wrought-iron balconies in the French Quarter"},
+    {"o": "no17_IMG_9799.jpg", "f": "photos/usa-2017/03.11/no17_IMG_9799.webp", "t": "photos/usa-2017/03.11/no17_IMG_9799.thumb.webp", "w": 1600, "h": 1200, "zh": "店里的青蛙石像", "en": "A stone frog in a shop"}
+  ]},
+  "03.12": {"cover": 0, "items": [
+    {"o": "no17_IMG_9808.jpg", "f": "photos/usa-2017/03.12/no17_IMG_9808.webp", "t": "photos/usa-2017/03.12/no17_IMG_9808.thumb.webp", "w": 1200, "h": 1600, "zh": "二战博物馆大厅里的飞机", "en": "A plane in the museum's great hall"},
+    {"o": "no17_IMG_9820.jpg", "f": "photos/usa-2017/03.12/no17_IMG_9820.webp", "t": "photos/usa-2017/03.12/no17_IMG_9820.thumb.webp", "w": 1600, "h": 1200, "zh": "同盟国将领", "en": "Allied military leaders"},
+    {"o": "no17_IMG_9823.jpg", "f": "photos/usa-2017/03.12/no17_IMG_9823.webp", "t": "photos/usa-2017/03.12/no17_IMG_9823.thumb.webp", "w": 1600, "h": 1200, "zh": "同盟国指挥官", "en": "Allied commanders"},
+    {"o": "no17_IMG_9827.jpg", "f": "photos/usa-2017/03.12/no17_IMG_9827.webp", "t": "photos/usa-2017/03.12/no17_IMG_9827.thumb.webp", "w": 1600, "h": 1200, "zh": "墓园外", "en": "Outside the cemetery"},
+    {"o": "no17_IMG_9831.jpg", "f": "photos/usa-2017/03.12/no17_IMG_9831.webp", "t": "photos/usa-2017/03.12/no17_IMG_9831.thumb.webp", "w": 1200, "h": 1600, "zh": "墓园里的路", "en": "A path in the cemetery"},
+    {"o": "no17_IMG_9835.jpg", "f": "photos/usa-2017/03.12/no17_IMG_9835.webp", "t": "photos/usa-2017/03.12/no17_IMG_9835.thumb.webp", "w": 1600, "h": 1200, "zh": "地上的墓室", "en": "Above-ground tombs"}
+  ]},
+  "03.13": {"cover": 0, "items": [
+    {"o": "no17_IMG_9862.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9862.webp", "t": "photos/usa-2017/03.13/no17_IMG_9862.thumb.webp", "w": 1200, "h": 1600, "zh": "火烈鸟", "en": "Flamingos"},
+    {"o": "no17_IMG_9867.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9867.webp", "t": "photos/usa-2017/03.13/no17_IMG_9867.thumb.webp", "w": 1200, "h": 1600, "zh": "石头上的青蛙", "en": "A frog on a rock"},
+    {"o": "no17_IMG_9870.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9870.webp", "t": "photos/usa-2017/03.13/no17_IMG_9870.thumb.webp", "w": 1200, "h": 1600, "zh": "「文化中的青蛙」", "en": "'Frogs in culture'"},
+    {"o": "no17_IMG_9872.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9872.webp", "t": "photos/usa-2017/03.13/no17_IMG_9872.thumb.webp", "w": 1200, "h": 1600, "zh": "猴子的攀爬架", "en": "A climbing frame for the monkeys"},
+    {"o": "no17_IMG_9874.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9874.webp", "t": "photos/usa-2017/03.13/no17_IMG_9874.thumb.webp", "w": 1200, "h": 1600, "zh": "动物园的石头园", "en": "A rock garden at the zoo"},
+    {"o": "no17_IMG_9877.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9877.webp", "t": "photos/usa-2017/03.13/no17_IMG_9877.thumb.webp", "w": 1200, "h": 1600, "zh": "树林里", "en": "In the trees"},
+    {"o": "no17_IMG_9883.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9883.webp", "t": "photos/usa-2017/03.13/no17_IMG_9883.thumb.webp", "w": 1200, "h": 1600, "zh": "竹林里的小屋", "en": "A hut in the bamboo"},
+    {"o": "no17_IMG_9884.jpg", "f": "photos/usa-2017/03.13/no17_IMG_9884.webp", "t": "photos/usa-2017/03.13/no17_IMG_9884.thumb.webp", "w": 1200, "h": 1600, "zh": "溪边的笼舍", "en": "An enclosure by a stream"}
+  ]},
+  "03.14": {"cover": 2, "items": [
+    {"o": "no17_IMG_9901.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9901.webp", "t": "photos/usa-2017/03.14/no17_IMG_9901.thumb.webp", "w": 1600, "h": 1200, "zh": "公园的湖", "en": "A lake in the park"},
+    {"o": "no17_IMG_9915.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9915.webp", "t": "photos/usa-2017/03.14/no17_IMG_9915.thumb.webp", "w": 1600, "h": 1200, "zh": "沼泽边的芦苇", "en": "Reeds at the edge of the swamp"},
+    {"o": "no17_IMG_9917.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9917.webp", "t": "photos/usa-2017/03.14/no17_IMG_9917.thumb.webp", "w": 1600, "h": 1200, "zh": "岸边的鳄鱼", "en": "An alligator on the bank"},
+    {"o": "no17_IMG_9921.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9921.webp", "t": "photos/usa-2017/03.14/no17_IMG_9921.thumb.webp", "w": 1600, "h": 1200, "zh": "船尾的浪", "en": "The wake of the boat"},
+    {"o": "no17_IMG_9923.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9923.webp", "t": "photos/usa-2017/03.14/no17_IMG_9923.thumb.webp", "w": 1600, "h": 1200, "zh": "沼泽", "en": "The swamp"},
+    {"o": "no17_IMG_9928.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9928.webp", "t": "photos/usa-2017/03.14/no17_IMG_9928.thumb.webp", "w": 1600, "h": 1200, "zh": "泡在水里的柏树林", "en": "Cypress woods standing in water"},
+    {"o": "no17_IMG_9931.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9931.webp", "t": "photos/usa-2017/03.14/no17_IMG_9931.thumb.webp", "w": 1200, "h": 1600, "zh": "挂满松萝的树", "en": "Trees hung with moss"},
+    {"o": "no17_IMG_9933.jpg", "f": "photos/usa-2017/03.14/no17_IMG_9933.webp", "t": "photos/usa-2017/03.14/no17_IMG_9933.thumb.webp", "w": 1200, "h": 1600, "zh": "水里的树", "en": "Trees in the water"}
+  ]},
+  "03.15": {"cover": 3, "items": [
+    {"o": "no17_IMG_9940.jpg", "f": "photos/usa-2017/03.15/no17_IMG_9940.webp", "t": "photos/usa-2017/03.15/no17_IMG_9940.thumb.webp", "w": 1200, "h": 1600, "zh": "萨拉曼卡的纹章瓷砖", "en": "The tile for Salamanca"},
+    {"o": "no17_IMG_9942.jpg", "f": "photos/usa-2017/03.15/no17_IMG_9942.webp", "t": "photos/usa-2017/03.15/no17_IMG_9942.thumb.webp", "w": 1600, "h": 1200, "zh": "一圈纹章瓷砖", "en": "A ring of heraldic tiles"},
+    {"o": "no17_IMG_9945.jpg", "f": "photos/usa-2017/03.15/no17_IMG_9945.webp", "t": "photos/usa-2017/03.15/no17_IMG_9945.thumb.webp", "w": 1600, "h": 1200, "zh": "西班牙广场", "en": "Spanish Plaza"},
+    {"o": "no17_IMG_9946.jpg", "f": "photos/usa-2017/03.15/no17_IMG_9946.webp", "t": "photos/usa-2017/03.15/no17_IMG_9946.thumb.webp", "w": 1600, "h": 1200, "zh": "广场上的喷泉", "en": "The fountain"},
+    {"o": "no17_IMG_9947.jpg", "f": "photos/usa-2017/03.15/no17_IMG_9947.webp", "t": "photos/usa-2017/03.15/no17_IMG_9947.thumb.webp", "w": 1200, "h": 1600, "zh": "河边的傍晚", "en": "Evening by the river"},
+    {"o": "no17_IMG_9949.jpg", "f": "photos/usa-2017/03.15/no17_IMG_9949.webp", "t": "photos/usa-2017/03.15/no17_IMG_9949.thumb.webp", "w": 1600, "h": 1200, "zh": "河边的赌场", "en": "The casino by the river"}
+  ]},
+  "07.23": {"cover": 0, "items": [
+    {"o": "ca17_DSC_0010.JPG", "f": "photos/usa-2017/07.23/ca17_DSC_0010.webp", "t": "photos/usa-2017/07.23/ca17_DSC_0010.thumb.webp", "w": 1600, "h": 1064, "zh": "隧道观景点看优胜美地山谷", "en": "Yosemite Valley from Tunnel View"},
+    {"o": "ca17_IMG_2599.jpg", "f": "photos/usa-2017/07.23/ca17_IMG_2599.webp", "t": "photos/usa-2017/07.23/ca17_IMG_2599.thumb.webp", "w": 1600, "h": 1200, "zh": "优胜美地的游客中心", "en": "The Yosemite visitor centre"},
+    {"o": "ca17_DSC_0100.JPG", "f": "photos/usa-2017/07.23/ca17_DSC_0100.webp", "t": "photos/usa-2017/07.23/ca17_DSC_0100.thumb.webp", "w": 1600, "h": 1064, "zh": "巨杉", "en": "Giant trees"},
+    {"o": "ca17_DSC_0105.JPG", "f": "photos/usa-2017/07.23/ca17_DSC_0105.webp", "t": "photos/usa-2017/07.23/ca17_DSC_0105.thumb.webp", "w": 1064, "h": 1600, "zh": "优胜美地瀑布", "en": "Yosemite Falls"},
+    {"o": "ca17_DSC_0141.JPG", "f": "photos/usa-2017/07.23/ca17_DSC_0141.webp", "t": "photos/usa-2017/07.23/ca17_DSC_0141.thumb.webp", "w": 1600, "h": 1064, "zh": "下优胜美地瀑布", "en": "Lower Yosemite Fall"},
+    {"o": "ca17_IMG_2609.jpg", "f": "photos/usa-2017/07.23/ca17_IMG_2609.webp", "t": "photos/usa-2017/07.23/ca17_IMG_2609.thumb.webp", "w": 1600, "h": 1200, "zh": "冰川点", "en": "Glacier Point"},
+    {"o": "ca17_IMG_2615.jpg", "f": "photos/usa-2017/07.23/ca17_IMG_2615.webp", "t": "photos/usa-2017/07.23/ca17_IMG_2615.thumb.webp", "w": 1600, "h": 1200, "zh": "半穹顶", "en": "Half Dome"}
+  ]},
+  "07.24": {"cover": 3, "items": [
+    {"o": "ca17_IMG_2622.jpg", "f": "photos/usa-2017/07.24/ca17_IMG_2622.webp", "t": "photos/usa-2017/07.24/ca17_IMG_2622.thumb.webp", "w": 1600, "h": 1200, "zh": "回湾区的路上", "en": "On the way back to the Bay"},
+    {"o": "ca17_DSC_0309.JPG", "f": "photos/usa-2017/07.24/ca17_DSC_0309.webp", "t": "photos/usa-2017/07.24/ca17_DSC_0309.thumb.webp", "w": 1600, "h": 1064, "zh": "进城的高速", "en": "The freeway into the city"},
+    {"o": "ca17_DSC_0314.JPG", "f": "photos/usa-2017/07.24/ca17_DSC_0314.webp", "t": "photos/usa-2017/07.24/ca17_DSC_0314.thumb.webp", "w": 1600, "h": 1064, "zh": "唐人街的南京饭店", "en": "House of Nanking in Chinatown"},
+    {"o": "ca17_DSC_0317.JPG", "f": "photos/usa-2017/07.24/ca17_DSC_0317.webp", "t": "photos/usa-2017/07.24/ca17_DSC_0317.thumb.webp", "w": 1064, "h": 1600, "zh": "哥伦布大楼", "en": "Columbus Tower"}
+  ]},
+  "07.25": {"cover": 1, "items": [
+    {"o": "ca17_IMG_0764.JPG", "f": "photos/usa-2017/07.25/ca17_IMG_0764.webp", "t": "photos/usa-2017/07.25/ca17_IMG_0764.thumb.webp", "w": 1600, "h": 1067, "zh": "金门大桥旁的花坛", "en": "A flower bed by the Golden Gate Bridge"},
+    {"o": "ca17_IMG_0806.JPG", "f": "photos/usa-2017/07.25/ca17_IMG_0806.webp", "t": "photos/usa-2017/07.25/ca17_IMG_0806.thumb.webp", "w": 1600, "h": 1067, "zh": "金门大桥的钢结构", "en": "The steelwork of the Golden Gate Bridge"},
+    {"o": "ca17_IMG_0855.JPG", "f": "photos/usa-2017/07.25/ca17_IMG_0855.webp", "t": "photos/usa-2017/07.25/ca17_IMG_0855.thumb.webp", "w": 1600, "h": 1067, "zh": "十六街的马赛克台阶", "en": "The 16th Avenue tiled steps"},
+    {"o": "ca17_IMG_0927.JPG", "f": "photos/usa-2017/07.25/ca17_IMG_0927.webp", "t": "photos/usa-2017/07.25/ca17_IMG_0927.thumb.webp", "w": 1600, "h": 1067, "zh": "台阶顶上看日落区", "en": "The Sunset District from the top of the steps"},
+    {"o": "ca17_IMG_0948.JPG", "f": "photos/usa-2017/07.25/ca17_IMG_0948.webp", "t": "photos/usa-2017/07.25/ca17_IMG_0948.thumb.webp", "w": 1600, "h": 1067, "zh": "旧金山的陡坡", "en": "A steep San Francisco street"}
+  ]},
+  "07.26": {"cover": 2, "items": [
+    {"o": "ca17_IMG_1037.JPG", "f": "photos/usa-2017/07.26/ca17_IMG_1037.webp", "t": "photos/usa-2017/07.26/ca17_IMG_1037.thumb.webp", "w": 1600, "h": 1067, "zh": "卡梅尔的小店", "en": "A little shop in Carmel"},
+    {"o": "ca17_IMG_1078.JPG", "f": "photos/usa-2017/07.26/ca17_IMG_1078.webp", "t": "photos/usa-2017/07.26/ca17_IMG_1078.thumb.webp", "w": 1600, "h": 1067, "zh": "海岸", "en": "The coast"},
+    {"o": "ca17_DSC_0598.JPG", "f": "photos/usa-2017/07.26/ca17_DSC_0598.webp", "t": "photos/usa-2017/07.26/ca17_DSC_0598.thumb.webp", "w": 1600, "h": 1064, "zh": "比克斯比溪桥", "en": "Bixby Creek Bridge"},
+    {"o": "ca17_IMG_1153.JPG", "f": "photos/usa-2017/07.26/ca17_IMG_1153.webp", "t": "photos/usa-2017/07.26/ca17_IMG_1153.thumb.webp", "w": 1600, "h": 1067, "zh": "大苏尔的海岸", "en": "The Big Sur coast"},
+    {"o": "ca17_IMG_1175.JPG", "f": "photos/usa-2017/07.26/ca17_IMG_1175.webp", "t": "photos/usa-2017/07.26/ca17_IMG_1175.thumb.webp", "w": 1600, "h": 1067, "zh": "海边的桥", "en": "The bridge above the sea"},
+    {"o": "ca17_IMG_1219.JPG", "f": "photos/usa-2017/07.26/ca17_IMG_1219.webp", "t": "photos/usa-2017/07.26/ca17_IMG_1219.thumb.webp", "w": 1600, "h": 1067, "zh": "一座西班牙式的房子", "en": "A Spanish-style house"},
+    {"o": "ca17_DSC_0762.JPG", "f": "photos/usa-2017/07.26/ca17_DSC_0762.webp", "t": "photos/usa-2017/07.26/ca17_DSC_0762.thumb.webp", "w": 1600, "h": 1064, "zh": "海边的松树", "en": "A pine by the sea"}
+  ]},
+  "07.27": {"cover": 6, "items": [
+    {"o": "ca17_DSC_0797.JPG", "f": "photos/usa-2017/07.27/ca17_DSC_0797.webp", "t": "photos/usa-2017/07.27/ca17_DSC_0797.thumb.webp", "w": 1600, "h": 1064, "zh": "好莱坞大道", "en": "Hollywood Boulevard"},
+    {"o": "ca17_DSC_0813.JPG", "f": "photos/usa-2017/07.27/ca17_DSC_0813.webp", "t": "photos/usa-2017/07.27/ca17_DSC_0813.thumb.webp", "w": 1600, "h": 1064, "zh": "电影博物馆", "en": "A film museum"},
+    {"o": "ca17_DSC_0823.JPG", "f": "photos/usa-2017/07.27/ca17_DSC_0823.webp", "t": "photos/usa-2017/07.27/ca17_DSC_0823.thumb.webp", "w": 1600, "h": 1064, "zh": "蜡像", "en": "Wax figures"},
+    {"o": "ca17_IMG_2706.jpg", "f": "photos/usa-2017/07.27/ca17_IMG_2706.webp", "t": "photos/usa-2017/07.27/ca17_IMG_2706.thumb.webp", "w": 1200, "h": 1600, "zh": "星光大道", "en": "The Walk of Fame"},
+    {"o": "ca17_IMG_2711.jpg", "f": "photos/usa-2017/07.27/ca17_IMG_2711.webp", "t": "photos/usa-2017/07.27/ca17_IMG_2711.thumb.webp", "w": 1600, "h": 1200, "zh": "星光大道上的星", "en": "A star on the Walk of Fame"},
+    {"o": "ca17_IMG_2712.jpg", "f": "photos/usa-2017/07.27/ca17_IMG_2712.webp", "t": "photos/usa-2017/07.27/ca17_IMG_2712.thumb.webp", "w": 1600, "h": 1200, "zh": "成龙的星", "en": "Jackie Chan's star"},
+    {"o": "ca17_IMG_1295.JPG", "f": "photos/usa-2017/07.27/ca17_IMG_1295.webp", "t": "photos/usa-2017/07.27/ca17_IMG_1295.thumb.webp", "w": 1600, "h": 1067, "zh": "格里菲斯天文台看洛杉矶夜景", "en": "Los Angeles at night from Griffith Observatory"}
+  ]},
+  "07.28": {"cover": 1, "items": [
+    {"o": "ca17_IMG_1313.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1313.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1313.thumb.webp", "w": 1600, "h": 1067, "zh": "白鲸", "en": "A beluga"},
+    {"o": "ca17_IMG_1318.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1318.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1318.thumb.webp", "w": 1600, "h": 1067, "zh": "探出水面的白鲸", "en": "A beluga surfacing"},
+    {"o": "ca17_IMG_1334.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1334.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1334.thumb.webp", "w": 1600, "h": 1067, "zh": "白鲸", "en": "A beluga"},
+    {"o": "ca17_IMG_1343.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1343.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1343.thumb.webp", "w": 1600, "h": 1067, "zh": "趴着的海豹", "en": "A seal hauled out"},
+    {"o": "ca17_IMG_1350.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1350.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1350.thumb.webp", "w": 1600, "h": 1067, "zh": "水里的海豹", "en": "A seal in the water"},
+    {"o": "ca17_IMG_1353.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1353.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1353.thumb.webp", "w": 1600, "h": 1067, "zh": "企鹅", "en": "A penguin"},
+    {"o": "ca17_IMG_1368.JPG", "f": "photos/usa-2017/07.28/ca17_IMG_1368.webp", "t": "photos/usa-2017/07.28/ca17_IMG_1368.thumb.webp", "w": 1600, "h": 1067, "zh": "海狮", "en": "A sea lion"},
+    {"o": "ca17_IMG_2735.jpg", "f": "photos/usa-2017/07.28/ca17_IMG_2735.webp", "t": "photos/usa-2017/07.28/ca17_IMG_2735.thumb.webp", "w": 1600, "h": 1200, "zh": "圣地亚哥老城", "en": "Old Town San Diego"}
+  ]}
+ },
+ "china-2015": {
+  "01.23": {"cover": 3, "items": [
+    {"o": "wh15_IMG_2258.jpg", "f": "photos/china-2015/01.23/wh15_IMG_2258.webp", "t": "photos/china-2015/01.23/wh15_IMG_2258.thumb.webp", "w": 1600, "h": 1200, "zh": "纪念馆里的老合影", "en": "An old group photograph in the memorial hall"},
+    {"o": "wh15_IMG_2262.jpg", "f": "photos/china-2015/01.23/wh15_IMG_2262.webp", "t": "photos/china-2015/01.23/wh15_IMG_2262.thumb.webp", "w": 1200, "h": 1600, "zh": "黄克诚的题字", "en": "An inscription by Huang Kecheng"},
+    {"o": "wh15_IMG_2272.jpg", "f": "photos/china-2015/01.23/wh15_IMG_2272.webp", "t": "photos/china-2015/01.23/wh15_IMG_2272.thumb.webp", "w": 1600, "h": 1200, "zh": "「东坡赤壁」的保护碑", "en": "The heritage plaque at Dongpo Red Cliff"},
+    {"o": "wh15_IMG_2276.jpg", "f": "photos/china-2015/01.23/wh15_IMG_2276.webp", "t": "photos/china-2015/01.23/wh15_IMG_2276.thumb.webp", "w": 1600, "h": 1200, "zh": "崖壁上的「赤壁」二字", "en": "'Red Cliff' carved in the rock"}
+  ]},
+  "01.24": {"cover": 3, "items": [
+    {"o": "wh15_IMG_2298.jpg", "f": "photos/china-2015/01.24/wh15_IMG_2298.webp", "t": "photos/china-2015/01.24/wh15_IMG_2298.thumb.webp", "w": 1600, "h": 1200, "zh": "博物馆里的漆器纹样", "en": "A lacquer motif in the museum"},
+    {"o": "wh15_IMG_2304.jpg", "f": "photos/china-2015/01.24/wh15_IMG_2304.webp", "t": "photos/china-2015/01.24/wh15_IMG_2304.thumb.webp", "w": 1200, "h": 1600, "zh": "异域的石雕", "en": "A carved stone relief"},
+    {"o": "wh15_IMG_2305.jpg", "f": "photos/china-2015/01.24/wh15_IMG_2305.webp", "t": "photos/china-2015/01.24/wh15_IMG_2305.thumb.webp", "w": 1200, "h": 1600, "zh": "青铜器", "en": "A bronze"},
+    {"o": "wh15_IMG_2310.jpg", "f": "photos/china-2015/01.24/wh15_IMG_2310.webp", "t": "photos/china-2015/01.24/wh15_IMG_2310.thumb.webp", "w": 1600, "h": 1200, "zh": "曾侯乙编钟", "en": "The bells of the Marquis Yi of Zeng"},
+    {"o": "wh15_IMG_2313.jpg", "f": "photos/china-2015/01.24/wh15_IMG_2313.webp", "t": "photos/china-2015/01.24/wh15_IMG_2313.thumb.webp", "w": 1600, "h": 1200, "zh": "湖北省艺术馆", "en": "The Hubei Museum of Art"},
+    {"o": "wh15_IMG_2318.jpg", "f": "photos/china-2015/01.24/wh15_IMG_2318.webp", "t": "photos/china-2015/01.24/wh15_IMG_2318.thumb.webp", "w": 1600, "h": 1200, "zh": "夜里江边的灯光", "en": "Lights on the river at night"}
+  ]},
+  "01.25": {"cover": 2, "items": [
+    {"o": "wh15_IMG_2327.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2327.webp", "t": "photos/china-2015/01.25/wh15_IMG_2327.thumb.webp", "w": 1600, "h": 1200, "zh": "红柱的亭子", "en": "A red-pillared pavilion"},
+    {"o": "wh15_IMG_2331.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2331.webp", "t": "photos/china-2015/01.25/wh15_IMG_2331.thumb.webp", "w": 1600, "h": 1200, "zh": "寺院的台阶", "en": "Temple steps"},
+    {"o": "wh15_IMG_2335.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2335.webp", "t": "photos/china-2015/01.25/wh15_IMG_2335.thumb.webp", "w": 1600, "h": 1200, "zh": "武昌起义纪念馆门口的十八星旗", "en": "The eighteen-star flag at the Wuchang Uprising Memorial"},
+    {"o": "wh15_IMG_2337.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2337.webp", "t": "photos/china-2015/01.25/wh15_IMG_2337.thumb.webp", "w": 1600, "h": 1200, "zh": "「1911.10.10」", "en": "'10 October 1911'"},
+    {"o": "wh15_IMG_2339.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2339.webp", "t": "photos/china-2015/01.25/wh15_IMG_2339.thumb.webp", "w": 1600, "h": 1200, "zh": "馆里的书法", "en": "Calligraphy in the museum"},
+    {"o": "wh15_IMG_2344.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2344.webp", "t": "photos/china-2015/01.25/wh15_IMG_2344.thumb.webp", "w": 1600, "h": 1200, "zh": "汉口的老建筑", "en": "An old building in Hankou"},
+    {"o": "wh15_IMG_2354.jpg", "f": "photos/china-2015/01.25/wh15_IMG_2354.webp", "t": "photos/china-2015/01.25/wh15_IMG_2354.thumb.webp", "w": 1600, "h": 1200, "zh": "一座旧式的门楼", "en": "An old gateway"}
+  ]},
+  "01.26": {"cover": 2, "items": [
+    {"o": "wh15_IMG_2359.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2359.webp", "t": "photos/china-2015/01.26/wh15_IMG_2359.thumb.webp", "w": 1600, "h": 1600, "zh": "烈士陵园的纪念碑", "en": "A memorial in the martyrs' cemetery"},
+    {"o": "wh15_IMG_2360.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2360.webp", "t": "photos/china-2015/01.26/wh15_IMG_2360.thumb.webp", "w": 1600, "h": 1600, "zh": "「国立武汉大学」老牌坊", "en": "The old National Wuhan University gateway"},
+    {"o": "wh15_IMG_2365.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2365.webp", "t": "photos/china-2015/01.26/wh15_IMG_2365.thumb.webp", "w": 1600, "h": 1600, "zh": "绿琉璃瓦的老校舍", "en": "An old green-tiled campus building"},
+    {"o": "wh15_IMG_2368.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2368.webp", "t": "photos/china-2015/01.26/wh15_IMG_2368.thumb.webp", "w": 1600, "h": 1600, "zh": "「中华民国十九年国立武汉大学建」", "en": "'Built 1930, National Wuhan University'"},
+    {"o": "wh15_IMG_2371.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2371.webp", "t": "photos/china-2015/01.26/wh15_IMG_2371.thumb.webp", "w": 1600, "h": 1600, "zh": "雾中的老图书馆", "en": "The old library in the mist"},
+    {"o": "wh15_IMG_2375.jpg", "f": "photos/china-2015/01.26/wh15_IMG_2375.webp", "t": "photos/china-2015/01.26/wh15_IMG_2375.thumb.webp", "w": 1600, "h": 1200, "zh": "大智门火车站", "en": "Dazhimen railway station"}
+  ]}
  }
 }

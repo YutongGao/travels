@@ -163,7 +163,7 @@
   "span": {"zh": "2023 年 6 月 13 日至 7 月 7 日", "en": "June 13 to July 7, 2023"},
   "lede": {"zh": "东京、日光、会津若松、函馆、青森、十和田湖、上田、横滨、河口湖、京都、奈良、大阪、姬路、鹿儿岛、阿苏、长崎、太宰府、广岛、宫岛、镰仓、箱根。", "en": "Tokyo, Nikkō, Aizu-Wakamatsu, Hakodate, Aomori, Lake Towada, Ueda, Yokohama, Lake Kawaguchi, Kyoto, Nara, Osaka, Himeji, Kagoshima, Aso, Nagasaki, Dazaifu, Hiroshima, Miyajima, Kamakura, Hakone."},
   "chapters": {"1": {"zh": "东日本", "en": "Eastern Japan"}, "2": {"zh": "西日本和九州", "en": "Western Japan and Kyushu"}},
-  "frozen": false,
+  "frozen": true,
   "days": [
    {"d": "06.13", "ch": 1, "m": "air", "s": ["tokyo"], "zh": "到东京", "en": "Arriving in Tokyo", "bz": "晚上落地成田，领了 JR Pass 和西瓜卡，住在新宿。", "be": "Landing at Narita in the evening, picking up the rail pass and a Suica, and a night in Shinjuku."},
    {"d": "06.14", "ch": 1, "m": "city", "s": ["tokyo"], "zh": "新宿和乃木神社", "en": "Shinjuku and Nogi Shrine", "bz": "清晨在新宿和歌舞伎町一带走，街上还没什么人。白天在住宅区里乱逛，下午到乃木神社。", "be": "An early walk through Shinjuku and Kabukichō before the crowds. A wander through residential streets, and Nogi Shrine in the afternoon."},
@@ -200,22 +200,21 @@
   "accent": ["#9C5A2E", "#D99A6C"],
   "title": {"zh": "新奥尔良和加州，2017", "en": "New Orleans and California, 2017"},
   "span": {"zh": "2017 年 3 月、7 月", "en": "March and July 2017"},
-  "lede": {"zh": "", "en": ""},
+  "lede": {"zh": "新奥尔良；优胜美地、湾区、旧金山、大苏尔、洛杉矶、圣地亚哥。", "en": "New Orleans; Yosemite, the Bay Area, San Francisco, Big Sur, Los Angeles and San Diego."},
   "chapters": {"1": {"zh": "新奥尔良", "en": "New Orleans"}, "2": {"zh": "加州", "en": "California"}},
-  "draft": true,
+  "frozen": true,
   "days": [
-   {"d": "03.11", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "03.12", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "03.13", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "03.14", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "03.15", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.23", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.24", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.25", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.26", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.27", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.28", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "07.29", "ch": 2, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""}
+   {"d": "03.11", "ch": 1, "m": "city", "s": ["neworleans"], "zh": "新奥尔良的法语区", "en": "The French Quarter", "bz": "在新奥尔良的法语区。街上跑着马车，路牌上还留着西班牙时代的「波旁街」瓷砖，河边就是密西西比河。下午进圣路易斯大教堂，傍晚在铁艺阳台下面逛。", "be": "The French Quarter of New Orleans: carriages in the streets, Spanish-era tiles still naming 'Calle Borbón', the Mississippi at the end of the street. St. Louis Cathedral in the afternoon, and a wander under the wrought-iron balconies at dusk."},
+   {"d": "03.12", "ch": 1, "m": "city", "s": ["neworleans"], "zh": "二战博物馆和墓园", "en": "The WWII Museum and the cemetery", "bz": "下午在国家二战博物馆，大厅里吊着当年的飞机，展厅里把同盟国和轴心国的将领排成两面墙。傍晚去了圣路易斯墓园，一座座地上墓室排成街道。", "be": "The National WWII Museum in the afternoon, planes hung in the great hall and the Allied and Axis commanders arranged on facing walls. St. Louis Cemetery at dusk, its above-ground tombs laid out like streets."},
+   {"d": "03.13", "ch": 1, "m": "garden", "s": ["neworleans"], "zh": "奥杜邦动物园", "en": "Audubon Zoo", "bz": "在奥杜邦动物园逛了一天，火烈鸟、青蛙馆，还有树林里的猴子。", "be": "A day at Audubon Zoo: flamingos, the frog house, and monkeys in the trees."},
+   {"d": "03.14", "ch": 1, "m": "lake", "s": ["neworleans"], "zh": "沼泽", "en": "The swamp", "bz": "上午在公园的湖边。下午坐船进沼泽，岸边的草里趴着一只鳄鱼，柏树林泡在水里，树上挂着松萝。", "be": "By a lake in the park in the morning. A boat into the swamp in the afternoon, an alligator in the grass on the bank, cypress woods standing in the water, hung with Spanish moss."},
+   {"d": "03.15", "ch": 1, "m": "sea", "s": ["neworleans"], "zh": "西班牙广场", "en": "Spanish Plaza", "bz": "最后一天在河边的西班牙广场，喷泉四周的瓷砖拼着西班牙各省的纹章，其中一块是萨拉曼卡。", "be": "A last day at Spanish Plaza by the river, the fountain ringed with tiles bearing the arms of the Spanish provinces, Salamanca among them."},
+   {"d": "07.23", "ch": 2, "m": "mountain", "s": ["yosemite"], "zh": "优胜美地", "en": "Yosemite", "bz": "上午从隧道观景点看进优胜美地山谷，下到谷底看优胜美地瀑布。傍晚上冰川点，半穹顶就在对面。", "be": "Tunnel View in the morning, looking into Yosemite Valley, then down to the valley floor and Yosemite Falls. Glacier Point in the evening, Half Dome right across the way."},
+   {"d": "07.24", "ch": 2, "m": "city", "s": ["cupertino", "sanfrancisco"], "zh": "硅谷和唐人街", "en": "Silicon Valley and Chinatown", "bz": "从山里开回湾区，下午在硅谷看了几家科技公司的园区。傍晚进旧金山，在唐人街吃饭，街口就是绿色的哥伦布大楼。", "be": "Back down to the Bay Area, and an afternoon visiting a few tech campuses in Silicon Valley. Into San Francisco at dusk, dinner in Chinatown, the green Columbus Tower on the corner."},
+   {"d": "07.25", "ch": 2, "m": "sea", "s": ["sanfrancisco"], "zh": "金门大桥", "en": "The Golden Gate Bridge", "bz": "上午走上金门大桥。然后去十六街的马赛克台阶，台阶顶上看得到整个旧金山的日落区和太平洋。", "be": "Onto the Golden Gate Bridge in the morning. Then the 16th Avenue tiled steps, with the Sunset District and the Pacific spread out from the top."},
+   {"d": "07.26", "ch": 2, "m": "sea", "s": ["monterey", "bigsur"], "zh": "一号公路和大苏尔", "en": "Highway 1 and Big Sur", "bz": "沿着一号公路往南，经过卡梅尔的小镇，下午到大苏尔，比克斯比溪桥架在海边的峡谷上。", "be": "South along Highway 1, through the little town of Carmel, to Big Sur in the afternoon, Bixby Creek Bridge spanning its canyon above the sea."},
+   {"d": "07.27", "ch": 2, "m": "city", "s": ["losangeles"], "zh": "好莱坞", "en": "Hollywood", "bz": "在洛杉矶的好莱坞大道，看了一家电影博物馆，在星光大道上找熟悉的名字。晚上上格里菲斯天文台看洛杉矶的夜景。", "be": "Hollywood Boulevard in Los Angeles, a film museum, and familiar names on the Walk of Fame. Griffith Observatory at night, the city lights spread out below."},
+   {"d": "07.28", "ch": 2, "m": "sea", "s": ["sandiego"], "zh": "圣地亚哥", "en": "San Diego", "bz": "在圣地亚哥的海洋世界，白鲸、海豹、企鹅和海狮。傍晚到老城历史公园。", "be": "SeaWorld San Diego: belugas, seals, penguins and sea lions. Old Town State Historic Park in the evening."}
   ]
  },
  {
@@ -317,14 +316,14 @@
   "accent": ["#A63D3D", "#D98080"],
   "title": {"zh": "武汉和黄冈，2015 年冬", "en": "Wuhan and Huanggang, winter 2015"},
   "span": {"zh": "2015 年 1 月 23 日至 26 日", "en": "January 23 to 26, 2015"},
-  "lede": {"zh": "", "en": ""},
+  "lede": {"zh": "黄冈、团风、黄州东坡赤壁、武昌、汉口。", "en": "Huanggang, Tuanfeng, Su Dongpo's Red Cliff at Huangzhou, Wuchang and Hankou."},
   "chapters": {"1": {"zh": "湖北", "en": "Hubei"}},
-  "draft": true,
+  "frozen": true,
   "days": [
-   {"d": "01.23", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "01.24", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "01.25", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""},
-   {"d": "01.26", "ch": 1, "m": "city", "s": [], "zh": "", "en": "", "bz": "", "be": ""}
+   {"d": "01.23", "ch": 1, "m": "temple", "s": ["tuanfeng", "huanggang"], "zh": "团风和黄州赤壁", "en": "Tuanfeng and the Red Cliff at Huangzhou", "bz": "上午在黄冈团风的一处故居纪念馆，看了满墙的老照片和题字。下午到黄州的东坡赤壁，苏轼贬官黄州时在这里写下了前后《赤壁赋》，赤红的崖壁上刻着「赤壁」两个大字。", "be": "A former residence turned memorial hall in Tuanfeng, Huanggang, in the morning, its walls full of old photographs and inscriptions. In the afternoon, Dongpo Red Cliff at Huangzhou, where Su Shi wrote his two Red Cliff rhapsodies in exile, the characters for 'Red Cliff' carved into the red rock."},
+   {"d": "01.24", "ch": 1, "m": "temple", "s": ["wuchang"], "zh": "湖北省博物馆", "en": "The Hubei Provincial Museum", "bz": "回到武汉。下午在湖北省博物馆，最有名的是曾侯乙编钟，一整架青铜钟挂在红色的展台上。旁边的湖北省艺术馆在办迎春展。晚上在江边看灯光。", "be": "Back in Wuhan. The Hubei Provincial Museum in the afternoon, famous for the bells of the Marquis Yi of Zeng, a whole rack of bronze bells on a red stand. The provincial art museum next door had a spring exhibition on. Lights along the river at night."},
+   {"d": "01.25", "ch": 1, "m": "city", "s": ["wuchang", "hankou"], "zh": "辛亥革命的武昌", "en": "Wuchang and the 1911 Revolution", "bz": "上午在一座红柱的寺院，然后到武昌起义纪念馆，就是当年湖北军政府所在的红楼，门口插着十八星旗，馆里画着 1911 年 10 月 10 日的起义。下午过江到汉口，看老街上的旧租界建筑。", "be": "A red-pillared temple in the morning, then the Wuchang Uprising Memorial, the Red House that held the Hubei military government, its eighteen-star flag at the gate and the uprising of 10 October 1911 drawn inside. Across the river to Hankou in the afternoon, for the old concession buildings."},
+   {"d": "01.26", "ch": 1, "m": "temple", "s": ["wuchang", "hankou"], "zh": "武汉大学", "en": "Wuhan University", "bz": "上午在一处烈士陵园。下午去武汉大学，穿过「国立武汉大学」的老牌坊，上山看绿琉璃瓦的老校舍，墙上刻着「中华民国十九年国立武汉大学建」。傍晚到汉口的大智门老火车站。", "be": "A martyrs' memorial in the morning. Wuhan University in the afternoon: through the old 'National Wuhan University' gateway and up to the green-tiled buildings, one stone reading 'Built by National Wuhan University, 19th year of the Republic'. The old Dazhimen railway station in Hankou at dusk."}
   ]
  }
 ]
