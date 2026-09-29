@@ -284,7 +284,13 @@
    "dublin": {"x": 199.7, "y": 277.6, "zh": "都柏林", "en": "Dublin"},
    "kilkenny": {"x": 156.5, "y": 324.6, "zh": "基尔肯尼", "en": "Kilkenny"},
    "moher": {"x": 66.5, "y": 296.9, "zh": "莫赫悬崖", "en": "Cliffs of Moher"},
-   "kylemore": {"x": 50.7, "y": 254.4, "zh": "凯尔莫尔修道院", "en": "Kylemore Abbey"}
+   "kylemore": {"x": 50.7, "y": 254.4, "zh": "凯尔莫尔修道院", "en": "Kylemore Abbey"},
+   "dover": {"x": 524.6, "y": 424.8, "zh": "多佛", "en": "Dover"},
+   "bath": {"x": 364.4, "y": 415.2, "zh": "巴斯", "en": "Bath"},
+   "manchester": {"x": 366.0, "y": 269.1, "zh": "曼彻斯特", "en": "Manchester"},
+   "hadrianswall": {"x": 359.8, "y": 162.8, "zh": "哈德良长城", "en": "Hadrian's Wall"},
+   "warkworth": {"x": 387.7, "y": 138.8, "zh": "沃克沃思", "en": "Warkworth"},
+   "cork": {"x": 101.9, "y": 373.9, "zh": "科克", "en": "Cork"}
   }
  },
  "alaska": {
@@ -302,7 +308,9 @@
    "valdez": {"x": 359.8, "y": 459.0, "zh": "瓦尔迪兹", "en": "Valdez"},
    "matanuska": {"x": 286.4, "y": 389.7, "zh": "马塔努斯卡冰川", "en": "Matanuska Glacier"},
    "whittier": {"x": 237.7, "y": 498.9, "zh": "惠蒂尔", "en": "Whittier"},
-   "seward": {"x": 186.0, "y": 560.8, "zh": "出口冰川", "en": "Exit Glacier"}
+   "seward": {"x": 186.0, "y": 560.8, "zh": "出口冰川", "en": "Exit Glacier"},
+   "denali": {"x": 235.0, "y": 203.2, "zh": "德纳里", "en": "Denali"},
+   "chena": {"x": 351.6, "y": 45.5, "zh": "奇纳河", "en": "Chena River"}
   }
  },
  "newengland": {
@@ -315,7 +323,11 @@
    "boston": {"x": 193.3, "y": 206.2, "zh": "波士顿", "en": "Boston"},
    "salem": {"x": 237.0, "y": 150.8, "zh": "塞勒姆", "en": "Salem"},
    "concord": {"x": 119.1, "y": 171.2, "zh": "康科德", "en": "Concord"},
-   "lexington": {"x": 149.9, "y": 174.8, "zh": "列克星敦", "en": "Lexington"}
+   "lexington": {"x": 149.9, "y": 174.8, "zh": "列克星敦", "en": "Lexington"},
+   "quincy": {"x": 208.6, "y": 244.5, "zh": "昆西", "en": "Quincy"},
+   "hyannis": {"x": 394.9, "y": 452.4, "zh": "海恩尼斯", "en": "Hyannis"},
+   "provincetown": {"x": 417.2, "y": 313.4, "zh": "普罗温斯敦", "en": "Provincetown"},
+   "gloucester": {"x": 295.8, "y": 119.5, "zh": "格洛斯特", "en": "Gloucester"}
   }
  },
  "seasia": {
@@ -359,7 +371,10 @@
    "jinshan": {"x": 367.9, "y": 485.5, "zh": "金山", "en": "Jinshan"},
    "kaohsiung": {"x": 326.2, "y": 578.9, "zh": "高雄", "en": "Kaohsiung"},
    "hongkong": {"x": 123.4, "y": 588.2, "zh": "香港", "en": "Hong Kong"},
-   "hangzhou": {"x": 318.6, "y": 307.7, "zh": "杭州", "en": "Hangzhou"}
+   "hangzhou": {"x": 318.6, "y": 307.7, "zh": "杭州", "en": "Hangzhou"},
+   "xiangyang": {"x": 77.3, "y": 238.9, "zh": "襄阳", "en": "Xiangyang"},
+   "caocao": {"x": 146.3, "y": 90.9, "zh": "曹操高陵", "en": "Cao Cao's Mausoleum"},
+   "baimasi": {"x": 96.5, "y": 143.3, "zh": "白马寺", "en": "White Horse Temple"}
   }
  },
  "shu": {
@@ -400,7 +415,11 @@
    "aachen": {"x": 419.4, "y": 356.8, "zh": "亚琛", "en": "Aachen"},
    "maastricht": {"x": 375.0, "y": 344.9, "zh": "马斯特里赫特", "en": "Maastricht"},
    "leuven": {"x": 263.0, "y": 340.1, "zh": "鲁汶", "en": "Leuven"},
-   "waterloo": {"x": 228.8, "y": 375.9, "zh": "滑铁卢", "en": "Waterloo"}
+   "waterloo": {"x": 228.8, "y": 375.9, "zh": "滑铁卢", "en": "Waterloo"},
+   "dordrecht": {"x": 259.9, "y": 173.3, "zh": "多德雷赫特", "en": "Dordrecht"},
+   "utrecht": {"x": 309.5, "y": 123.0, "zh": "乌得勒支", "en": "Utrecht"},
+   "dusseldorf": {"x": 496.6, "y": 276.1, "zh": "杜塞尔多夫", "en": "Düsseldorf"},
+   "liege": {"x": 361.9, "y": 382.7, "zh": "列日", "en": "Liège"}
   }
  }
 }
