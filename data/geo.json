@@ -38,7 +38,8 @@
    "beppu": {"x": 106.3, "y": 535.7, "zh": "别府", "en": "Beppu"},
    "minamisenju": {"x": 383.3, "y": 431.5, "zh": "南千住", "en": "Minami-Senju"},
    "kanazawa": {"x": 278.4, "y": 396.3, "zh": "金泽", "en": "Kanazawa"},
-   "onuma": {"x": 412.2, "y": 163.1, "zh": "大沼", "en": "Ōnuma"}
+   "onuma": {"x": 412.2, "y": 163.1, "zh": "大沼", "en": "Ōnuma"},
+   "kure": {"x": 141.7, "y": 493.4, "zh": "吴", "en": "Kure"}
   }
  },
  "turkey": {
