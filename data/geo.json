@@ -95,7 +95,30 @@
    "samsun": {"x": 496.8, "y": 70.7, "zh": "萨姆松", "en": "Samsun"},
    "sumela": {"x": 648.2, "y": 105.8, "zh": "苏美拉修道院", "en": "Sumela"},
    "trabzon": {"x": 650.9, "y": 87.7, "zh": "特拉布宗", "en": "Trabzon"},
-   "rize": {"x": 687.3, "y": 86.5, "zh": "里泽", "en": "Rize"}
+   "rize": {"x": 687.3, "y": 86.5, "zh": "里泽", "en": "Rize"},
+   "kadikoy": {"x": 166.8, "y": 88.2, "zh": "伊斯坦布尔亚洲岸", "en": "Istanbul, Asian side"},
+   "gallipoli": {"x": 40.8, "y": 132.9, "zh": "加里波利战场", "en": "Gallipoli battlefields"},
+   "ayvalik": {"x": 58.8, "y": 186.8, "zh": "艾瓦勒克", "en": "Ayvalık"},
+   "burdur": {"x": 222.2, "y": 279.7, "zh": "布尔杜尔", "en": "Burdur"},
+   "insuyu": {"x": 226.0, "y": 283.2, "zh": "因苏尤溶洞", "en": "İnsuyu Cave"},
+   "side": {"x": 272.2, "y": 334.2, "zh": "锡德", "en": "Side"},
+   "beysehir": {"x": 287.4, "y": 282.2, "zh": "贝伊谢希尔", "en": "Beyşehir"},
+   "sille": {"x": 318.7, "y": 267.9, "zh": "锡莱", "en": "Sille"},
+   "selime": {"x": 402.7, "y": 246.2, "zh": "塞利梅", "en": "Selime"},
+   "zelve": {"x": 430.2, "y": 224.8, "zh": "泽尔维", "en": "Zelve"},
+   "yilankale": {"x": 470.4, "y": 320.1, "zh": "蛇堡", "en": "Snake Castle"},
+   "hataycoast": {"x": 472.5, "y": 361.9, "zh": "哈塔伊海岸", "en": "Hatay coast"},
+   "perre": {"x": 586.5, "y": 275.5, "zh": "佩雷古城", "en": "Perre"},
+   "kommagene": {"x": 602.6, "y": 266.9, "zh": "科马基尼遗迹", "en": "Commagene sites"},
+   "gobekli": {"x": 614.7, "y": 308.2, "zh": "哥贝克力石阵", "en": "Göbekli Tepe"},
+   "malabadi": {"x": 718.4, "y": 254.8, "zh": "马拉巴迪桥", "en": "Malabadi Bridge"},
+   "malazgirt": {"x": 779.9, "y": 197.0, "zh": "曼齐刻尔特", "en": "Malazgirt"},
+   "ani": {"x": 826.1, "y": 116.4, "zh": "阿尼古城", "en": "Ani"},
+   "erzincan": {"x": 640.5, "y": 161.3, "zh": "埃尔津詹", "en": "Erzincan"},
+   "tokat": {"x": 506.7, "y": 127.8, "zh": "托卡特", "en": "Tokat"},
+   "amasya": {"x": 474.1, "y": 107.6, "zh": "阿马西亚", "en": "Amasya"},
+   "ordu": {"x": 568.3, "y": 89.5, "zh": "奥尔杜", "en": "Ordu"},
+   "giresun": {"x": 590.5, "y": 91.6, "zh": "吉雷松", "en": "Giresun"}
   }
  }
 }

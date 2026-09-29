@@ -180,6 +180,16 @@ def cmd_scan(src):
                 recs.append(r)
                 if i % 100 == 0 or i == len(todo):
                     print(f"  {i}/{len(todo)}", flush=True)
+    # originals from earlier exports may no longer be in SRC (each Google Photos
+    # download replaces the folder); keep their records so build leaves those days alone
+    here = {p.name for p in files}
+    for name, r in old.items():
+        if name not in here:
+            r["missing"] = True
+            recs.append(r)
+    for r in recs:
+        if r["name"] in here:
+            r.pop("missing", None)
     days = day_index()
     for r in recs:
         classify(r, days)
@@ -313,11 +323,18 @@ def cmd_build(src):
         if not r.get("reason"):
             by_day.setdefault((r["trip"], r["day"]), []).append(r)
 
-    plan, jobs = {}, []
+    previous = json.loads(PHOTOS_JSON.read_text(encoding="utf-8")) if PHOTOS_JSON.exists() else {}
+    plan, jobs, kept = {}, [], {}
     for t in trips:
         for d in t["days"]:
             key = (t["id"], d["d"])
             cands = by_day.get(key, [])
+            if any(r.get("missing") for r in cands):
+                # originals for this day aren't on disk any more: keep what was exported before
+                old = previous.get(key[0], {}).get(key[1])
+                if old:
+                    kept[key] = old
+                continue
             if not cands:
                 continue
             names, cover, why = pick_day(cands, overrides.get(f"{key[0]}/{key[1]}", {}))
@@ -349,6 +366,14 @@ def cmd_build(src):
             items.append({"o": n, "f": f"photos/{tid}/{day}/{stem}.webp", "t": f"photos/{tid}/{day}/{stem}.thumb.webp",
                           "w": w, "h": h, "zh": c.get("zh", ""), "en": c.get("en", "")})
         data.setdefault(tid, {})[day] = {"cover": names.index(cover) if cover in names else 0, "items": items}
+    for (tid, day), old in kept.items():
+        for it in old["items"]:  # captions may have been edited since
+            c = captions.get(it.get("o"), {})
+            it["zh"], it["en"] = c.get("zh", it.get("zh", "")), c.get("en", it.get("en", ""))
+        data.setdefault(tid, {})[day] = old
+    order = [(t["id"], d["d"]) for t in trips for d in t["days"]]
+    data = {tid: dict(sorted(days.items(), key=lambda kv: order.index((tid, kv[0]))))
+            for tid, days in sorted(data.items(), key=lambda kv: [t["id"] for t in trips].index(kv[0]))}
     for tid in list(data):  # remove day folders that no longer have photos
         for dirp in (PHOTOS_DIR / tid).iterdir():
             if dirp.is_dir() and dirp.name not in data[tid] and not any(dirp.iterdir()):

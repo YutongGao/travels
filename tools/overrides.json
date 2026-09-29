@@ -100,5 +100,33 @@
       "IMG_0020.HEIC",
       "IMG_0021.HEIC"
     ]
+  },
+  "turkey-2024/12.19": {
+    "remove": [
+      "IMG_0754.HEIC"
+    ]
+  },
+  "turkey-2024/12.20": {
+    "remove": [
+      "IMG_0901.HEIC",
+      "IMG_1005.HEIC"
+    ]
+  },
+  "turkey-2024/12.21": {
+    "remove": [
+      "PXL_20241221_110119366_Original.jpg"
+    ]
+  },
+  "turkey-2024/12.22": {
+    "remove": [
+      "PXL_20241222_124919839.MP.jpg",
+      "PXL_20241222_132353290.MP.jpg"
+    ]
+  },
+  "turkey-2024/12.29": {
+    "remove": [
+      "IMG_2801.HEIC",
+      "IMG_2816.HEIC"
+    ]
   }
 }
