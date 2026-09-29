@@ -290,7 +290,10 @@
    "manchester": {"x": 366.0, "y": 269.1, "zh": "曼彻斯特", "en": "Manchester"},
    "hadrianswall": {"x": 359.8, "y": 162.8, "zh": "哈德良长城", "en": "Hadrian's Wall"},
    "warkworth": {"x": 387.7, "y": 138.8, "zh": "沃克沃思", "en": "Warkworth"},
-   "cork": {"x": 101.9, "y": 373.9, "zh": "科克", "en": "Cork"}
+   "cork": {"x": 101.9, "y": 373.9, "zh": "科克", "en": "Cork"},
+   "stmargarets": {"x": 527.8, "y": 423.1, "zh": "圣玛格丽特湾", "en": "St Margaret's Bay"},
+   "reculver": {"x": 518.5, "y": 407.9, "zh": "雷卡尔弗", "en": "Reculver"},
+   "baddesley": {"x": 390.5, "y": 347.7, "zh": "巴德斯利·克林顿", "en": "Baddesley Clinton"}
   }
  },
  "alaska": {
@@ -368,13 +371,14 @@
    "nanjing": {"x": 277.4, "y": 243.3, "zh": "南京", "en": "Nanjing"},
    "zhenjiang": {"x": 296.9, "y": 237.9, "zh": "镇江", "en": "Zhenjiang"},
    "taipei": {"x": 365.5, "y": 492.7, "zh": "台北", "en": "Taipei"},
-   "jinshan": {"x": 367.9, "y": 485.5, "zh": "金山", "en": "Jinshan"},
+   "jinshan": {"x": 367.4, "y": 485.5, "zh": "法鼓山", "en": "Dharma Drum Mountain"},
    "kaohsiung": {"x": 326.2, "y": 578.9, "zh": "高雄", "en": "Kaohsiung"},
    "hongkong": {"x": 123.4, "y": 588.2, "zh": "香港", "en": "Hong Kong"},
    "hangzhou": {"x": 318.6, "y": 307.7, "zh": "杭州", "en": "Hangzhou"},
    "xiangyang": {"x": 77.3, "y": 238.9, "zh": "襄阳", "en": "Xiangyang"},
    "caocao": {"x": 146.3, "y": 90.9, "zh": "曹操高陵", "en": "Cao Cao's Mausoleum"},
-   "baimasi": {"x": 96.5, "y": 143.3, "zh": "白马寺", "en": "White Horse Temple"}
+   "baimasi": {"x": 96.5, "y": 143.3, "zh": "白马寺", "en": "White Horse Temple"},
+   "cixian": {"x": 149.8, "y": 86.3, "zh": "磁县北朝墓群", "en": "Cixian Northern Dynasties tombs"}
   }
  },
  "shu": {

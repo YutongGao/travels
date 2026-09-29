@@ -178,9 +178,9 @@
     {"o": "d9_IMG_2036.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2036.webp", "t": "photos/china-2026/05.24/d9_IMG_2036.thumb.webp", "w": 1200, "h": 1600, "zh": "城墙下的花", "en": "Flowers below the wall"},
     {"o": "d9_IMG_2076.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2076.webp", "t": "photos/china-2026/05.24/d9_IMG_2076.thumb.webp", "w": 1200, "h": 1600, "zh": "邺城一带的地图", "en": "A map of the Yecheng area"},
     {"o": "d9_IMG_2088.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2088.webp", "t": "photos/china-2026/05.24/d9_IMG_2088.thumb.webp", "w": 1600, "h": 1200, "zh": "邺城复原模型", "en": "A model of Yecheng"},
-    {"o": "d9_IMG_2159.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2159.webp", "t": "photos/china-2026/05.24/d9_IMG_2159.thumb.webp", "w": 1600, "h": 1200, "zh": "遗址", "en": "The site"},
+    {"o": "d9_IMG_2159.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2159.webp", "t": "photos/china-2026/05.24/d9_IMG_2159.thumb.webp", "w": 1600, "h": 1200, "zh": "磁县北朝墓群", "en": "The Northern Dynasties tombs at Cixian"},
     {"o": "d9_IMG_2202.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2202.webp", "t": "photos/china-2026/05.24/d9_IMG_2202.thumb.webp", "w": 1600, "h": 1200, "zh": "北朝壁画", "en": "A Northern Dynasties mural"},
-    {"o": "d9_IMG_2229.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2229.webp", "t": "photos/china-2026/05.24/d9_IMG_2229.thumb.webp", "w": 1600, "h": 1200, "zh": "展板", "en": "A panel"},
+    {"o": "d9_IMG_2229.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2229.webp", "t": "photos/china-2026/05.24/d9_IMG_2229.thumb.webp", "w": 1600, "h": 1200, "zh": "北朝人物像", "en": "Northern Dynasties figures"},
     {"o": "d9_IMG_2248.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2248.webp", "t": "photos/china-2026/05.24/d9_IMG_2248.thumb.webp", "w": 1200, "h": 1600, "zh": "邺城博物馆", "en": "The Yecheng Museum"},
     {"o": "d9_IMG_2296.HEIC", "f": "photos/china-2026/05.24/d9_IMG_2296.webp", "t": "photos/china-2026/05.24/d9_IMG_2296.thumb.webp", "w": 1600, "h": 1200, "zh": "浮雕墙", "en": "The relief wall"}
   ]},
@@ -423,7 +423,7 @@
   ]},
   "11.30": {"cover": 4, "items": [
     {"o": "d4_IMG_8584.HEIC", "f": "photos/uk-2025/11.30/d4_IMG_8584.webp", "t": "photos/uk-2025/11.30/d4_IMG_8584.thumb.webp", "w": 1600, "h": 1200, "zh": "多佛的海滩", "en": "The beach at Dover"},
-    {"o": "d4_IMG_8618.HEIC", "f": "photos/uk-2025/11.30/d4_IMG_8618.webp", "t": "photos/uk-2025/11.30/d4_IMG_8618.thumb.webp", "w": 1200, "h": 1600, "zh": "修道院的遗址", "en": "Abbey ruins"},
+    {"o": "d4_IMG_8618.HEIC", "f": "photos/uk-2025/11.30/d4_IMG_8618.webp", "t": "photos/uk-2025/11.30/d4_IMG_8618.thumb.webp", "w": 1200, "h": 1600, "zh": "雷卡尔弗的遗址", "en": "The ruins at Reculver"},
     {"o": "d4_IMG_8642.HEIC", "f": "photos/uk-2025/11.30/d4_IMG_8642.webp", "t": "photos/uk-2025/11.30/d4_IMG_8642.thumb.webp", "w": 1600, "h": 1200, "zh": "圣奥古斯丁修道院", "en": "St Augustine's Abbey"},
     {"o": "d4_IMG_8670.HEIC", "f": "photos/uk-2025/11.30/d4_IMG_8670.webp", "t": "photos/uk-2025/11.30/d4_IMG_8670.thumb.webp", "w": 1200, "h": 1600, "zh": "大教堂的彩色玻璃", "en": "Stained glass in the cathedral"},
     {"o": "d4_IMG_8706.HEIC", "f": "photos/uk-2025/11.30/d4_IMG_8706.webp", "t": "photos/uk-2025/11.30/d4_IMG_8706.thumb.webp", "w": 1600, "h": 1200, "zh": "中世纪的玻璃窗", "en": "Medieval glass"},
@@ -454,7 +454,7 @@
     {"o": "d4_IMG_9100.HEIC", "f": "photos/uk-2025/12.03/d4_IMG_9100.webp", "t": "photos/uk-2025/12.03/d4_IMG_9100.thumb.webp", "w": 1200, "h": 1600, "zh": "礼拜堂的彩色玻璃", "en": "Stained glass in the chapel"},
     {"o": "d4_IMG_9109.HEIC", "f": "photos/uk-2025/12.03/d4_IMG_9109.webp", "t": "photos/uk-2025/12.03/d4_IMG_9109.thumb.webp", "w": 1200, "h": 1600, "zh": "纹章玻璃", "en": "Heraldic glass"},
     {"o": "d4_IMG_9127.HEIC", "f": "photos/uk-2025/12.03/d4_IMG_9127.webp", "t": "photos/uk-2025/12.03/d4_IMG_9127.thumb.webp", "w": 1200, "h": 1600, "zh": "博尚家族", "en": "House Beauchamp"},
-    {"o": "d4_IMG_9154.HEIC", "f": "photos/uk-2025/12.03/d4_IMG_9154.webp", "t": "photos/uk-2025/12.03/d4_IMG_9154.thumb.webp", "w": 1200, "h": 1600, "zh": "圣诞树", "en": "A Christmas tree"}
+    {"o": "d4_IMG_9154.HEIC", "f": "photos/uk-2025/12.03/d4_IMG_9154.webp", "t": "photos/uk-2025/12.03/d4_IMG_9154.thumb.webp", "w": 1200, "h": 1600, "zh": "巴德斯利·克林顿的圣诞树", "en": "The Christmas tree at Baddesley Clinton"}
   ]},
   "12.04": {"cover": 5, "items": [
     {"o": "d4_IMG_9200.HEIC", "f": "photos/uk-2025/12.04/d4_IMG_9200.webp", "t": "photos/uk-2025/12.04/d4_IMG_9200.thumb.webp", "w": 1600, "h": 1200, "zh": "码头", "en": "The docks"},
@@ -685,11 +685,11 @@
     {"o": "d1_IMG_5129.HEIC", "f": "photos/taiwan-2025/04.02/d1_IMG_5129.webp", "t": "photos/taiwan-2025/04.02/d1_IMG_5129.thumb.webp", "w": 1200, "h": 1600, "zh": "历史书", "en": "History books"}
   ]},
   "04.03": {"cover": 4, "items": [
-    {"o": "d1_IMG_5151.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5151.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5151.thumb.webp", "w": 1600, "h": 1200, "zh": "公园里的雕像", "en": "A statue in the park"},
+    {"o": "d1_IMG_5151.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5151.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5151.thumb.webp", "w": 1600, "h": 1200, "zh": "国父纪念馆的雕像", "en": "A statue at the Sun Yat-sen Memorial Hall"},
     {"o": "d1_IMG_5154.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5154.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5154.thumb.webp", "w": 1200, "h": 1600, "zh": "中山碑林", "en": "The Zhongshan stele garden"},
     {"o": "d1_IMG_5161.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5161.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5161.thumb.webp", "w": 1200, "h": 1600, "zh": "玻璃顶的回廊", "en": "A glass-roofed walkway"},
     {"o": "d1_IMG_5171.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5171.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5171.thumb.webp", "w": 1200, "h": 1600, "zh": "木简", "en": "Wooden slips"},
-    {"o": "d1_IMG_5173.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5173.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5173.thumb.webp", "w": 1600, "h": 1200, "zh": "清水池", "en": "The reflecting pool"}
+    {"o": "d1_IMG_5173.HEIC", "f": "photos/taiwan-2025/04.03/d1_IMG_5173.webp", "t": "photos/taiwan-2025/04.03/d1_IMG_5173.thumb.webp", "w": 1600, "h": 1200, "zh": "法鼓山的清水池", "en": "The pool at Dharma Drum Mountain"}
   ]},
   "04.04": {"cover": 3, "items": [
     {"o": "d1_IMG_5188.HEIC", "f": "photos/taiwan-2025/04.04/d1_IMG_5188.webp", "t": "photos/taiwan-2025/04.04/d1_IMG_5188.thumb.webp", "w": 1200, "h": 1600, "zh": "龙山寺", "en": "Longshan Temple"},
