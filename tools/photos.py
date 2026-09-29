@@ -140,7 +140,13 @@ def classify(rec, days):
     if not rec.get("dto"):
         rec["reason"] = "no-time"
         return
-    local = datetime.strptime(rec["dto"], "%Y:%m:%d %H:%M:%S")
+    try:
+        local = datetime.strptime(rec["dto"].strip()[:19], "%Y:%m:%d %H:%M:%S")
+    except ValueError:  # blank or malformed camera clock
+        rec["reason"] = "no-time"
+        return
+    if rec.get("oto") and not rec["oto"].strip(" :"):
+        rec["oto"] = None
     if rec.get("oto"):
         sign = 1 if rec["oto"][0] == "+" else -1
         hh, mm = map(int, rec["oto"][1:].split(":"))
@@ -190,6 +196,10 @@ def cmd_scan(srcs):
                 recs.append(r)
                 if i % 100 == 0 or i == len(todo):
                     print(f"  {i}/{len(todo)}", flush=True)
+                if i % 500 == 0 or i == len(todo):  # checkpoint, so a later failure doesn't cost the analysis
+                    done = {x["name"] for x in recs}
+                    keep = recs + [x for n, x in old.items() if n not in done]
+                    SCAN.write_text(json.dumps(keep, ensure_ascii=False, indent=0), encoding="utf-8")
     # originals from earlier exports may no longer be in SRC (each Google Photos
     # download replaces the folder); keep their records so build leaves those days alone
     here = {p.name for p in files}
