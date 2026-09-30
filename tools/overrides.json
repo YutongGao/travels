@@ -1297,6 +1297,59 @@
     ],
     "cover": "IMG_5259.HEIC"
   },
+  "gothenburg-2026/07.07": {
+    "only": [
+      "d10_IMG_5492.HEIC",
+      "d10_IMG_5495.HEIC",
+      "d10_IMG_5496.HEIC",
+      "d10_IMG_5498.HEIC",
+      "d10_IMG_5499.HEIC"
+    ],
+    "cover": "d10_IMG_5495.HEIC"
+  },
+  "gothenburg-2026/07.09": {
+    "only": [
+      "d10_IMG_5532.HEIC",
+      "d10_IMG_5534.HEIC",
+      "d10_IMG_5535.HEIC",
+      "d10_IMG_5536.HEIC",
+      "d10_IMG_5538.HEIC",
+      "d10_IMG_5540.HEIC",
+      "d10_IMG_5541.HEIC",
+      "d10_IMG_5543.HEIC"
+    ],
+    "cover": "d10_IMG_5536.HEIC"
+  },
+  "gothenburg-2026/07.10": {
+    "only": [
+      "d10_IMG_5549.HEIC",
+      "d10_IMG_5550.HEIC",
+      "d10_IMG_5556.HEIC",
+      "d10_IMG_5564.HEIC"
+    ],
+    "cover": "d10_IMG_5556.HEIC"
+  },
+  "gothenburg-2026/07.11": {
+    "only": [
+      "d10_IMG_5572.HEIC",
+      "d10_IMG_5573.HEIC",
+      "d10_IMG_5579.HEIC",
+      "d10_IMG_5582.HEIC",
+      "d10_IMG_5587.HEIC",
+      "d10_IMG_5590.HEIC",
+      "d10_IMG_5594.HEIC",
+      "d10_IMG_5600.HEIC"
+    ],
+    "cover": "d10_IMG_5590.HEIC"
+  },
+  "gothenburg-2026/07.12": {
+    "only": [
+      "d10_IMG_5607.HEIC",
+      "d10_IMG_5608.HEIC",
+      "d10_IMG_5609.HEIC"
+    ],
+    "cover": "d10_IMG_5608.HEIC"
+  },
   "japan-2014/07.19": {
     "only": [
       "d7_YCFM9539.jpg"
@@ -2184,6 +2237,42 @@
     ],
     "cover": "IMG_7506.HEIC"
   },
+  "nyc-2026/03.20": {
+    "only": [
+      "d8_IMG_1438.HEIC",
+      "d8_IMG_1439.HEIC",
+      "d8_IMG_1440.HEIC",
+      "d8_IMG_1442.HEIC",
+      "d8_IMG_1443.HEIC",
+      "d8_IMG_1445.HEIC",
+      "d8_IMG_1446.HEIC"
+    ],
+    "cover": "d8_IMG_1440.HEIC"
+  },
+  "nyc-2026/03.21": {
+    "only": [
+      "d8_IMG_1456.HEIC",
+      "d8_IMG_1457.HEIC",
+      "d8_IMG_1459.HEIC",
+      "d8_IMG_1461.HEIC",
+      "d8_IMG_1463.HEIC",
+      "d8_IMG_1464.HEIC",
+      "d8_IMG_1465.HEIC"
+    ],
+    "cover": "d8_IMG_1463.HEIC"
+  },
+  "nyc-2026/03.22": {
+    "only": [
+      "d8_IMG_1470.HEIC",
+      "d8_IMG_1472.HEIC",
+      "d8_IMG_1476.HEIC",
+      "d8_IMG_1477.HEIC",
+      "d8_IMG_1482.HEIC",
+      "d8_IMG_1484.HEIC",
+      "d8_IMG_1486.HEIC"
+    ],
+    "cover": "d8_IMG_1476.HEIC"
+  },
   "seasia-2025/01.01": {
     "only": [
       "d5_IMG_0453.HEIC",
@@ -2444,6 +2533,110 @@
       "d6_P40823-161114.jpg"
     ],
     "cover": "d6_P40823-135614.jpg"
+  },
+  "shanxi-2026/09.06": {
+    "only": [
+      "d11_IMG_5946.HEIC",
+      "d11_IMG_5952.HEIC",
+      "d11_IMG_5959.HEIC",
+      "d11_IMG_5966.HEIC",
+      "d11_IMG_5975.HEIC",
+      "d11_IMG_5981.HEIC",
+      "d11_IMG_5990.HEIC"
+    ],
+    "cover": "d11_IMG_5966.HEIC"
+  },
+  "shanxi-2026/09.07": {
+    "only": [
+      "d11_IMG_6019.HEIC",
+      "d11_IMG_6042.HEIC",
+      "d11_IMG_6062.HEIC",
+      "d11_IMG_6109.HEIC",
+      "d11_IMG_6132.HEIC",
+      "d11_IMG_6156.HEIC",
+      "d11_IMG_6167.HEIC",
+      "d11_IMG_6193.HEIC",
+      "d11_IMG_6209.HEIC"
+    ],
+    "cover": "d11_IMG_6062.HEIC"
+  },
+  "shanxi-2026/09.08": {
+    "only": [
+      "d11_IMG_6269.HEIC",
+      "d11_IMG_6280.HEIC",
+      "d11_IMG_6317.HEIC",
+      "d11_IMG_6340.HEIC",
+      "d11_IMG_6414.HEIC",
+      "d11_IMG_6420.HEIC",
+      "d11_IMG_6478.HEIC"
+    ],
+    "cover": "d11_IMG_6280.HEIC"
+  },
+  "shanxi-2026/09.09": {
+    "only": [
+      "d11_IMG_6548.HEIC",
+      "d11_IMG_6566.HEIC",
+      "d11_IMG_6619.HEIC",
+      "d11_IMG_6652.HEIC",
+      "d11_IMG_6666.HEIC",
+      "d11_IMG_6727.HEIC",
+      "d11_IMG_6774.HEIC",
+      "d11_IMG_6806.HEIC",
+      "d11_IMG_6841.HEIC"
+    ],
+    "cover": "d11_IMG_6548.HEIC"
+  },
+  "shanxi-2026/09.10": {
+    "only": [
+      "d11_IMG_6870.HEIC",
+      "d11_IMG_6881.HEIC",
+      "d11_IMG_6896.HEIC",
+      "d11_IMG_6916.HEIC",
+      "d11_IMG_6966.HEIC",
+      "d11_IMG_6987.HEIC",
+      "d11_IMG_7005.HEIC"
+    ],
+    "cover": "d11_IMG_6916.HEIC"
+  },
+  "shanxi-2026/09.11": {
+    "only": [
+      "d11_IMG_7055.HEIC",
+      "d11_IMG_7057.HEIC",
+      "d11_IMG_7093.HEIC",
+      "d11_IMG_7100.HEIC",
+      "d11_IMG_7128.HEIC",
+      "d11_IMG_7142.HEIC",
+      "d11_IMG_7192.HEIC",
+      "d11_IMG_7203.HEIC"
+    ],
+    "cover": "d11_IMG_7100.HEIC"
+  },
+  "shanxi-2026/09.12": {
+    "only": [
+      "d11_IMG_7243.HEIC",
+      "d11_IMG_7282.HEIC",
+      "d11_IMG_7294.HEIC",
+      "d11_IMG_7326.HEIC",
+      "d11_IMG_7384.HEIC",
+      "d11_IMG_7399.HEIC",
+      "d11_IMG_7415.HEIC",
+      "d11_IMG_7451.HEIC",
+      "d11_IMG_7496.HEIC"
+    ],
+    "cover": "d11_IMG_7282.HEIC"
+  },
+  "shanxi-2026/09.13": {
+    "only": [
+      "d11_IMG_7527.HEIC",
+      "d11_IMG_7547.HEIC",
+      "d11_IMG_7554.HEIC",
+      "d11_IMG_7577.HEIC",
+      "d11_IMG_7601.HEIC",
+      "d11_IMG_7616.HEIC",
+      "d11_IMG_7647.HEIC",
+      "d11_IMG_7688.HEIC"
+    ],
+    "cover": "d11_IMG_7577.HEIC"
   },
   "taiwan-2014/01.03": {
     "only": [

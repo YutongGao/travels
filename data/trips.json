@@ -1,5 +1,46 @@
 [
  {
+  "id": "shanxi-2026",
+  "geo": "shanxi",
+  "year": 2026,
+  "tab": {"zh": "山西 2026", "en": "Shanxi 2026"},
+  "accent": ["#8C5A2B", "#D6A56E"],
+  "title": {"zh": "山西，从大同到洛阳，2026 年秋", "en": "Shanxi, from Datong to Luoyang, autumn 2026"},
+  "span": {"zh": "2026 年 9 月 6 日至 13 日", "en": "September 6 to 13, 2026"},
+  "lede": {"zh": "从北京出发，经大同的云冈石窟和悬空寺，太原的晋祠，一路往南到小西天、壶口瀑布、永乐宫和鹳雀楼，过黄河到洛阳，看龙门石窟、二里头和洛阳博物馆。", "en": "From Beijing to Datong's Yungang Grottoes and the Hanging Temple, Jinci at Taiyuan, south to Xiaoxitian, Hukou Falls, Yongle Palace and the Stork Tower, and across the Yellow River to Luoyang for the Longmen Grottoes, Erlitou and the Luoyang Museum."},
+  "chapters": {"1": {"zh": "晋北", "en": "Northern Shanxi"}, "2": {"zh": "晋南到洛阳", "en": "Southern Shanxi to Luoyang"}},
+  "frozen": true,
+  "days": [
+   {"d": "09.06", "ch": 1, "m": "temple", "s": ["beijing", "datong"], "zh": "北京", "en": "Beijing", "bz": "出发前在北京城南，上午在陶然亭公园，湖边的慈悲庵；然后去了法源寺，唐代就有的古刹，院子里立着一通通石碑。下午坐车往西北去大同。", "be": "Southern Beijing before setting off: Taoranting Park and the Cibei Hermitage by the lake in the morning, then Fayuan Temple, founded in the Tang, its courtyards full of stelae. West to Datong in the afternoon."},
+   {"d": "09.07", "ch": 1, "m": "cave", "s": ["yungang", "xuankong"], "zh": "云冈石窟和悬空寺", "en": "Yungang and the Hanging Temple", "bz": "一早在大同城西的云冈石窟，北魏开凿的大佛，崖前还留着古道上的车辙。中午往东南到浑源的悬空寺，一座木构的寺院钉在峭壁半腰上。", "be": "The Yungang Grottoes west of Datong first thing, Northern Wei Buddhas cut into the cliff, cart ruts from the old road still in the rock before them. Southeast at midday to the Hanging Temple at Hunyuan, a timber monastery pinned halfway up a cliff."},
+   {"d": "09.08", "ch": 1, "m": "temple", "s": ["datong"], "zh": "大同城里", "en": "Datong", "bz": "在大同城里，辽金时代的寺院，殿里的藻井、佛像和壁画。下午登上城墙，傍晚在古城的街上。", "be": "Liao and Jin temples in Datong, with coffered ceilings, Buddhas and murals. Up on the city wall in the afternoon, and the old town's streets at dusk."},
+   {"d": "09.09", "ch": 1, "m": "temple", "s": ["taiyuan", "jinci"], "zh": "太原和晋祠", "en": "Taiyuan and Jinci", "bz": "上午在太原的北齐壁画博物馆，墓里揭下来的出行图和人物。中午到城西南的晋祠，泉水从祠下流出来。下午在山西博物院，甲骨、造像碑和大幅的壁画。", "be": "The Northern Qi murals museum in Taiyuan in the morning, processions and figures lifted from tombs. Jinci southwest of the city at midday, springs running out beneath the shrines. The Shanxi Museum in the afternoon: oracle bones, a Buddhist stele and great murals."},
+   {"d": "09.10", "ch": 2, "m": "mountain", "s": ["xiaoxitian", "hukou"], "zh": "小西天和壶口瀑布", "en": "Xiaoxitian and Hukou Falls", "bz": "上午在隰县的小西天，一间不大的殿里挤满了明代的彩塑。下午到壶口瀑布，黄河在这里收进一道石槽，满河的黄水翻着浪。", "be": "Xiaoxitian at Xi County in the morning, a small hall crammed with painted Ming sculpture. Hukou Falls in the afternoon, where the Yellow River squeezes into a rock channel, all brown water and spray."},
+   {"d": "09.11", "ch": 2, "m": "temple", "s": ["yongle", "guanque"], "zh": "永乐宫和鹳雀楼", "en": "Yongle Palace and the Stork Tower", "bz": "到芮城的永乐宫，元代的道观，殿里的壁画是整座搬迁过来的。然后去风陵渡边的鹳雀楼，「欲穷千里目，更上一层楼」。", "be": "Yongle Palace at Ruicheng, a Yuan Daoist temple whose murals were moved here wall and all. Then the Stork Tower by the Fenglingdu crossing, the tower of 'climb one more storey to see a thousand li'."},
+   {"d": "09.12", "ch": 2, "m": "cave", "s": ["longmen", "hanwei", "erlitou"], "zh": "龙门石窟和二里头", "en": "Longmen and Erlitou", "bz": "过了黄河到洛阳。一早在龙门石窟，伊河两岸的山崖上凿满了佛龛。中午在城东的汉魏洛阳城一带，下午到偃师的二里头，看夏都遗址博物馆。", "be": "Across the Yellow River to Luoyang. The Longmen Grottoes first thing, niches crowding the cliffs on both banks of the Yi. Around the ruins of Han–Wei Luoyang at midday, and the Erlitou site museum at Yanshi in the afternoon."},
+   {"d": "09.13", "ch": 2, "m": "temple", "s": ["luoyang"], "zh": "洛阳博物馆", "en": "The Luoyang Museum", "bz": "最后一天在洛阳博物馆，从新石器的陶器到汉代的熹平石经，还有唐代的大秦景教经幢。", "be": "A last day at the Luoyang Museum, from Neolithic pottery to the Xiping stone classics of the Han and a Tang Nestorian pillar."}
+  ]
+ },
+ {
+  "id": "gothenburg-2026",
+  "geo": "gothenburg",
+  "year": 2026,
+  "tab": {"zh": "哥德堡 2026", "en": "Gothenburg 2026"},
+  "accent": ["#2E5E7E", "#86B4D4"],
+  "title": {"zh": "哥德堡，2026 年夏", "en": "Gothenburg, summer 2026"},
+  "span": {"zh": "2026 年 7 月 7 日至 12 日", "en": "July 7 to 12, 2026"},
+  "lede": {"zh": "从荷兰北上，在瑞典西海岸的哥德堡住了几天：港口、克朗堡垒、大教堂和海事博物馆。", "en": "North from Holland for a few days in Gothenburg on Sweden's west coast: the harbour, Skansen Kronan, the cathedral and the maritime museum."},
+  "chapters": {"1": {"zh": "哥德堡", "en": "Gothenburg"}},
+  "frozen": true,
+  "days": [
+   {"d": "07.07", "ch": 1, "m": "sea", "s": ["gustafadolf"], "zh": "港口", "en": "The harbour", "bz": "到哥德堡，古斯塔夫·阿道夫广场上立着城市创建者的铜像。中午在约塔河边，河口的港口一直开到海上，海鸥蹲在木桩上。", "be": "Gothenburg: the founder king in bronze on Gustaf Adolfs torg. The Göta River at noon, the harbour opening out towards the sea, a gull on a post."},
+   {"d": "07.09", "ch": 1, "m": "night", "s": ["gbcentrum", "skansenkronan"], "zh": "克朗堡垒", "en": "Skansen Kronan", "bz": "晚上九点，太阳还没落，爬上城南小山上的克朗堡垒，十七世纪末修的圆堡，山坡上架着老炮，整座城铺在夕阳里。", "be": "Nine in the evening and the sun still up: up the hill to Skansen Kronan, a round fort of the late seventeenth century, old cannon on the slope and the whole city in the low light."},
+   {"d": "07.10", "ch": 1, "m": "city", "s": ["gbcentrum"], "zh": "大教堂", "en": "The cathedral", "bz": "在城里，哥德堡大学的主楼，然后到黄色的大教堂。晚上在公园里散步。", "be": "In town: the main building of the University of Gothenburg, then the yellow cathedral. A walk in the park at night."},
+   {"d": "07.11", "ch": 1, "m": "sea", "s": ["maritime"], "zh": "海事博物馆", "en": "The maritime museum", "bz": "下午在海事博物馆和水族馆，一层是珊瑚礁的大水缸，楼上是一艘艘船模，从东印度公司的帆船到二十世纪的货轮。", "be": "The maritime museum and aquarium in the afternoon: a great reef tank downstairs, and upstairs ship model after ship model, from East Indiamen to twentieth-century freighters."},
+   {"d": "07.12", "ch": 1, "m": "city", "s": ["gbcentrum", "liseberg"], "zh": "离开哥德堡", "en": "Leaving Gothenburg", "bz": "最后一个上午在港边和广场上走了走，远处是利瑟贝里游乐园的塔。", "be": "A last morning by the harbour and in the squares, the tower of Liseberg amusement park in the distance."}
+  ]
+ },
+ {
   "id": "lowlands-2026",
   "geo": "lowlands",
   "year": 2026,
@@ -52,6 +93,24 @@
    {"d": "05.28", "ch": 3, "m": "temple", "s": ["maanshan"], "zh": "采石矶", "en": "Caishiji", "bz": "到马鞍山的采石矶，长江边的石矶，传说李白就在这里捉月。山上有三公祠、三元洞和广济寺。", "be": "Caishiji at Ma'anshan, a rocky headland on the Yangtze where Li Bai is said to have drowned reaching for the moon. The Hall of the Three Lords, the Sanyuan Cave and Guangji Temple on the hill."},
    {"d": "05.29", "ch": 3, "m": "city", "s": ["nanjing"], "zh": "南京", "en": "Nanjing", "bz": "在南京。早上沿着城墙走，然后在一处处碑刻、石像和老石刻之间逛了一天。", "be": "Nanjing. Along the city wall in the morning, then a day among stelae, stone statues and old carvings."},
    {"d": "05.30", "ch": 3, "m": "sea", "s": ["zhenjiang"], "zh": "镇江", "en": "Zhenjiang", "bz": "最后一天在镇江，江边山上的碑林和龟趺碑，树林外就是长江。", "be": "A last day in Zhenjiang: a forest of stelae on the riverside hill, tortoise-borne stones, and the Yangtze beyond the trees."}
+  ]
+ },
+ {
+  "id": "nyc-2026",
+  "geo": "nyc",
+  "year": 2026,
+  "tab": {"zh": "纽约 2026", "en": "New York 2026"},
+  "accent": ["#6B3E7A", "#B48CC4"],
+  "title": {"zh": "纽约，为了《怀疑》，2026 年春", "en": "New York, for Doubt, spring 2026"},
+  "span": {"zh": "2026 年 3 月 20 日至 22 日", "en": "March 20 to 22, 2026"},
+  "lede": {"zh": "排《怀疑》的时候去了一趟纽约。这部戏写的是 1964 年布朗克斯一所天主教学校，于是去看了曼哈顿的教会大学和老教堂，在大斋期的弥撒里坐了一个钟头，又去布朗克斯找了一座带学校的教堂。", "en": "A trip to New York while directing Doubt. The play is set in a Catholic school in the Bronx in 1964, so I went to a Jesuit university and old churches in Manhattan, sat through a Lenten mass, and found a parish church with its school in the Bronx."},
+  "chapters": {"1": {"zh": "纽约", "en": "New York"}},
+  "sec": "theatre",
+  "frozen": true,
+  "days": [
+   {"d": "03.20", "ch": 1, "m": "city", "s": ["lincolnsq"], "zh": "福特汉姆和圣保罗堂", "en": "Fordham and St Paul the Apostle", "bz": "在林肯中心一带，耶稣会的福特汉姆大学曼哈顿校区，街对面是灰色石头的圣保罗宗徒堂。", "be": "Around Lincoln Center: Fordham University's Manhattan campus, run by the Jesuits, and across the street the grey stone Church of St Paul the Apostle."},
+   {"d": "03.21", "ch": 1, "m": "temple", "s": ["lincolnsq"], "zh": "大斋期的弥撒", "en": "Mass in Lent", "bz": "傍晚回到圣保罗宗徒堂，大斋期第五主日的弥撒，神父穿着紫色的祭衣。弥撒后在堂里看祭台、圣母像和墙上的马赛克。", "be": "Back at St Paul the Apostle in the evening for the Mass of the Fifth Sunday of Lent, the priest in violet. Afterwards the altar, the Madonna and the mosaics along the walls."},
+   {"d": "03.22", "ch": 1, "m": "temple", "s": ["bronx", "village", "stpatrick"], "zh": "布朗克斯", "en": "The Bronx", "bz": "上午去布朗克斯，找到一座红砖的天主教堂，旁边就是教会学校，院子里立着圣母像。下午在格林威治村，傍晚走进第五大道的圣帕特里克大教堂。", "be": "The Bronx in the morning, and a red-brick parish church with its school next door and a Madonna in the yard. Greenwich Village in the afternoon, and St Patrick's Cathedral on Fifth Avenue at dusk."}
   ]
  },
  {

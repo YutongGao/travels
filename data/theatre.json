@@ -1,0 +1,10 @@
+[
+ {"season": {"zh": "2026 秋", "en": "Autumn 2026"}, "title": {"zh": "杏仁豆腐心", "en": "Almond Tofu Heart"}, "role": {"zh": "制作人", "en": "Producer"}},
+ {"season": {"zh": "2026 春", "en": "Spring 2026"}, "title": {"zh": "怀疑", "en": "Doubt"}, "role": {"zh": "导演", "en": "Director"}, "trips": ["nyc-2026"]},
+ {"season": {"zh": "2025 秋", "en": "Autumn 2025"}, "title": {"zh": "萨勒姆的女巫", "en": "The Crucible"}, "role": {"zh": "副导演", "en": "Assistant director"}, "trips": ["new-england-2025"]},
+ {"season": {"zh": "2024 秋", "en": "Autumn 2024"}, "title": {"zh": "茶话会", "en": "Tea Party"}, "role": {"zh": "导演", "en": "Director"}},
+ {"season": {"zh": "2024 春", "en": "Spring 2024"}, "title": {"zh": "艺术", "en": "Art"}, "role": {"zh": "舞美、道具", "en": "Set and props"}},
+ {"season": {"zh": "2023 夏", "en": "Summer 2023"}, "title": {"zh": "风声", "en": "The Message"}, "role": {"zh": "舞台监督", "en": "Stage manager"}},
+ {"season": {"zh": "2023 春", "en": "Spring 2023"}, "title": {"zh": "断手斯城", "en": "A Behanding in Spokane"}, "role": {"zh": "舞美、道具", "en": "Set and props"}},
+ {"season": {"zh": "2022 夏", "en": "Summer 2022"}, "title": {"zh": "金锁记", "en": "The Golden Cangue"}, "role": {"zh": "演员", "en": "Actor"}}
+]

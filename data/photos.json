@@ -1,4 +1,126 @@
 {
+ "shanxi-2026": {
+  "09.06": {"cover": 3, "items": [
+    {"o": "d11_IMG_5946.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5946.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5946.thumb.webp", "w": 1400, "h": 1050, "zh": "陶然亭的牌楼", "en": "The gateway at Taoranting"},
+    {"o": "d11_IMG_5952.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5952.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5952.thumb.webp", "w": 1050, "h": 1400, "zh": "公园里的石像", "en": "A stone sculpture in the park"},
+    {"o": "d11_IMG_5959.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5959.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5959.thumb.webp", "w": 1050, "h": 1400, "zh": "慈悲庵", "en": "The Cibei Hermitage"},
+    {"o": "d11_IMG_5966.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5966.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5966.thumb.webp", "w": 1400, "h": 1050, "zh": "陶然亭的湖", "en": "The lake at Taoranting"},
+    {"o": "d11_IMG_5975.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5975.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5975.thumb.webp", "w": 1400, "h": 1050, "zh": "法源寺", "en": "Fayuan Temple"},
+    {"o": "d11_IMG_5981.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5981.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5981.thumb.webp", "w": 1050, "h": 1400, "zh": "法源寺的石碑", "en": "A stele at Fayuan Temple"},
+    {"o": "d11_IMG_5990.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5990.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5990.thumb.webp", "w": 1400, "h": 1050, "zh": "法源寺的殿", "en": "A hall at Fayuan Temple"}
+  ]},
+  "09.07": {"cover": 2, "items": [
+    {"o": "d11_IMG_6019.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6019.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6019.thumb.webp", "w": 1050, "h": 1400, "zh": "古松", "en": "An old pine"},
+    {"o": "d11_IMG_6042.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6042.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6042.thumb.webp", "w": 1400, "h": 1050, "zh": "古道车辙", "en": "Ancient cart ruts"},
+    {"o": "d11_IMG_6062.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6062.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6062.thumb.webp", "w": 1050, "h": 1400, "zh": "云冈的石窟", "en": "Caves at Yungang"},
+    {"o": "d11_IMG_6109.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6109.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6109.thumb.webp", "w": 1050, "h": 1400, "zh": "云冈石窟的碑", "en": "The Yungang stele"},
+    {"o": "d11_IMG_6132.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6132.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6132.thumb.webp", "w": 1400, "h": 1050, "zh": "悬空寺", "en": "The Hanging Temple"},
+    {"o": "d11_IMG_6156.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6156.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6156.thumb.webp", "w": 1050, "h": 1400, "zh": "崖上的「巧」字", "en": "The character 'ingenious' on the cliff"},
+    {"o": "d11_IMG_6167.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6167.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6167.thumb.webp", "w": 1050, "h": 1400, "zh": "悬在崖上的殿", "en": "Halls hanging on the cliff"},
+    {"o": "d11_IMG_6193.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6193.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6193.thumb.webp", "w": 1400, "h": 1050, "zh": "猫", "en": "A cat"},
+    {"o": "d11_IMG_6209.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6209.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6209.thumb.webp", "w": 1400, "h": 1050, "zh": "刻字的石头", "en": "An inscribed stone"}
+  ]},
+  "09.08": {"cover": 1, "items": [
+    {"o": "d11_IMG_6269.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6269.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6269.thumb.webp", "w": 1400, "h": 1050, "zh": "辽金的大殿", "en": "A Liao–Jin hall"},
+    {"o": "d11_IMG_6280.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6280.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6280.thumb.webp", "w": 1050, "h": 1400, "zh": "藻井和佛像", "en": "Coffered ceiling and Buddha"},
+    {"o": "d11_IMG_6317.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6317.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6317.thumb.webp", "w": 1400, "h": 1050, "zh": "壁画", "en": "A mural"},
+    {"o": "d11_IMG_6340.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6340.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6340.thumb.webp", "w": 1050, "h": 1400, "zh": "石碑", "en": "A stele"},
+    {"o": "d11_IMG_6414.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6414.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6414.thumb.webp", "w": 1400, "h": 1050, "zh": "大同城墙的城门", "en": "A gate in the Datong wall"},
+    {"o": "d11_IMG_6420.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6420.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6420.thumb.webp", "w": 1400, "h": 1050, "zh": "城墙上的说明", "en": "Signs on the wall"},
+    {"o": "d11_IMG_6478.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6478.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6478.thumb.webp", "w": 1050, "h": 1400, "zh": "古城的街", "en": "A street in the old town"}
+  ]},
+  "09.09": {"cover": 0, "items": [
+    {"o": "d11_IMG_6548.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6548.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6548.thumb.webp", "w": 1400, "h": 1050, "zh": "北齐壁画里的骑马人", "en": "Riders in a Northern Qi mural"},
+    {"o": "d11_IMG_6566.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6566.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6566.thumb.webp", "w": 1050, "h": 1400, "zh": "壁画里的马", "en": "A horse in a mural"},
+    {"o": "d11_IMG_6619.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6619.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6619.thumb.webp", "w": 1050, "h": 1400, "zh": "壁画里的人像", "en": "A face in a mural"},
+    {"o": "d11_IMG_6652.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6652.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6652.thumb.webp", "w": 1400, "h": 1050, "zh": "晋祠的水", "en": "Water at Jinci"},
+    {"o": "d11_IMG_6666.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6666.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6666.thumb.webp", "w": 1400, "h": 1050, "zh": "砖雕", "en": "A brick carving"},
+    {"o": "d11_IMG_6727.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6727.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6727.thumb.webp", "w": 1400, "h": 1050, "zh": "晋祠的泉渠", "en": "The spring channel at Jinci"},
+    {"o": "d11_IMG_6774.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6774.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6774.thumb.webp", "w": 1400, "h": 1050, "zh": "甲骨", "en": "Oracle bones"},
+    {"o": "d11_IMG_6806.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6806.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6806.thumb.webp", "w": 1050, "h": 1400, "zh": "造像碑", "en": "A Buddhist stele"},
+    {"o": "d11_IMG_6841.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6841.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6841.thumb.webp", "w": 1400, "h": 1050, "zh": "壁画", "en": "A mural"}
+  ]},
+  "09.10": {"cover": 3, "items": [
+    {"o": "d11_IMG_6870.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_6870.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_6870.thumb.webp", "w": 1400, "h": 1050, "zh": "山里", "en": "In the hills"},
+    {"o": "d11_IMG_6881.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_6881.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_6881.thumb.webp", "w": 1400, "h": 1050, "zh": "小西天的彩塑", "en": "The painted sculpture at Xiaoxitian"},
+    {"o": "d11_IMG_6896.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_6896.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_6896.thumb.webp", "w": 1400, "h": 1050, "zh": "彩塑里的罗汉", "en": "Painted arhats"},
+    {"o": "d11_IMG_6916.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_6916.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_6916.thumb.webp", "w": 1400, "h": 1050, "zh": "壶口瀑布", "en": "Hukou Falls"},
+    {"o": "d11_IMG_6966.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_6966.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_6966.thumb.webp", "w": 1050, "h": 1400, "zh": "黄河边的崖", "en": "Cliffs by the Yellow River"},
+    {"o": "d11_IMG_6987.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_6987.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_6987.thumb.webp", "w": 1400, "h": 1050, "zh": "崖壁", "en": "The cliff face"},
+    {"o": "d11_IMG_7005.HEIC", "f": "photos/shanxi-2026/09.10/d11_IMG_7005.webp", "t": "photos/shanxi-2026/09.10/d11_IMG_7005.thumb.webp", "w": 1050, "h": 1400, "zh": "原上的庄稼", "en": "Crops on the loess"}
+  ]},
+  "09.11": {"cover": 3, "items": [
+    {"o": "d11_IMG_7055.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7055.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7055.thumb.webp", "w": 1050, "h": 1400, "zh": "柳树", "en": "Willows"},
+    {"o": "d11_IMG_7057.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7057.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7057.thumb.webp", "w": 1400, "h": 1050, "zh": "树丛里的猫", "en": "Cats in the bushes"},
+    {"o": "d11_IMG_7093.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7093.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7093.thumb.webp", "w": 1050, "h": 1400, "zh": "石碑", "en": "A stele"},
+    {"o": "d11_IMG_7100.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7100.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7100.thumb.webp", "w": 1400, "h": 1050, "zh": "永乐宫", "en": "Yongle Palace"},
+    {"o": "d11_IMG_7128.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7128.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7128.thumb.webp", "w": 1050, "h": 1400, "zh": "碑座", "en": "A stele base"},
+    {"o": "d11_IMG_7142.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7142.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7142.thumb.webp", "w": 1400, "h": 1050, "zh": "风陵渡纪念碑", "en": "The Fenglingdu crossing memorial"},
+    {"o": "d11_IMG_7192.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7192.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7192.thumb.webp", "w": 1050, "h": 1400, "zh": "展板", "en": "A panel"},
+    {"o": "d11_IMG_7203.HEIC", "f": "photos/shanxi-2026/09.11/d11_IMG_7203.webp", "t": "photos/shanxi-2026/09.11/d11_IMG_7203.thumb.webp", "w": 1400, "h": 1050, "zh": "鹳雀楼的说明", "en": "About the Stork Tower"}
+  ]},
+  "09.12": {"cover": 1, "items": [
+    {"o": "d11_IMG_7243.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7243.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7243.thumb.webp", "w": 1050, "h": 1400, "zh": "龙门石窟介绍", "en": "About the Longmen Grottoes"},
+    {"o": "d11_IMG_7282.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7282.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7282.thumb.webp", "w": 1400, "h": 1050, "zh": "龙门的佛龛", "en": "Niches at Longmen"},
+    {"o": "d11_IMG_7294.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7294.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7294.thumb.webp", "w": 1400, "h": 1050, "zh": "草里的猫", "en": "A cat in the grass"},
+    {"o": "d11_IMG_7326.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7326.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7326.thumb.webp", "w": 1400, "h": 1050, "zh": "展板上的地图", "en": "Maps on a panel"},
+    {"o": "d11_IMG_7384.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7384.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7384.thumb.webp", "w": 1050, "h": 1400, "zh": "石碑", "en": "A stele"},
+    {"o": "d11_IMG_7399.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7399.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7399.thumb.webp", "w": 1400, "h": 1050, "zh": "遗址的平面图", "en": "A plan of the site"},
+    {"o": "d11_IMG_7415.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7415.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7415.thumb.webp", "w": 1400, "h": 1050, "zh": "原上看洛阳", "en": "Looking over the plain"},
+    {"o": "d11_IMG_7451.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7451.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7451.thumb.webp", "w": 1400, "h": 1050, "zh": "二里头的展厅", "en": "The Erlitou museum"},
+    {"o": "d11_IMG_7496.HEIC", "f": "photos/shanxi-2026/09.12/d11_IMG_7496.webp", "t": "photos/shanxi-2026/09.12/d11_IMG_7496.thumb.webp", "w": 1400, "h": 1050, "zh": "展板", "en": "A panel"}
+  ]},
+  "09.13": {"cover": 3, "items": [
+    {"o": "d11_IMG_7527.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7527.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7527.thumb.webp", "w": 1400, "h": 1050, "zh": "展览说明", "en": "An exhibition panel"},
+    {"o": "d11_IMG_7547.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7547.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7547.thumb.webp", "w": 1400, "h": 1050, "zh": "陶器上的纹样", "en": "Patterns on pottery"},
+    {"o": "d11_IMG_7554.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7554.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7554.thumb.webp", "w": 1400, "h": 1050, "zh": "熹平石经", "en": "The Xiping stone classics"},
+    {"o": "d11_IMG_7577.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7577.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7577.thumb.webp", "w": 1400, "h": 1050, "zh": "陶狗", "en": "A pottery dog"},
+    {"o": "d11_IMG_7601.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7601.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7601.thumb.webp", "w": 1400, "h": 1050, "zh": "陶俑的头", "en": "Figurine heads"},
+    {"o": "d11_IMG_7616.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7616.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7616.thumb.webp", "w": 1400, "h": 1050, "zh": "地图", "en": "A map"},
+    {"o": "d11_IMG_7647.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7647.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7647.thumb.webp", "w": 1050, "h": 1400, "zh": "石刻", "en": "A carved stone"},
+    {"o": "d11_IMG_7688.HEIC", "f": "photos/shanxi-2026/09.13/d11_IMG_7688.webp", "t": "photos/shanxi-2026/09.13/d11_IMG_7688.thumb.webp", "w": 1400, "h": 1050, "zh": "大秦景教经幢", "en": "The Nestorian pillar"}
+  ]}
+ },
+ "gothenburg-2026": {
+  "07.07": {"cover": 1, "items": [
+    {"o": "d10_IMG_5492.HEIC", "f": "photos/gothenburg-2026/07.07/d10_IMG_5492.webp", "t": "photos/gothenburg-2026/07.07/d10_IMG_5492.thumb.webp", "w": 1400, "h": 1050, "zh": "古斯塔夫·阿道夫广场", "en": "Gustaf Adolfs torg"},
+    {"o": "d10_IMG_5495.HEIC", "f": "photos/gothenburg-2026/07.07/d10_IMG_5495.webp", "t": "photos/gothenburg-2026/07.07/d10_IMG_5495.thumb.webp", "w": 1400, "h": 1050, "zh": "约塔河口", "en": "The mouth of the Göta"},
+    {"o": "d10_IMG_5496.HEIC", "f": "photos/gothenburg-2026/07.07/d10_IMG_5496.webp", "t": "photos/gothenburg-2026/07.07/d10_IMG_5496.thumb.webp", "w": 1400, "h": 1050, "zh": "港口", "en": "The harbour"},
+    {"o": "d10_IMG_5498.HEIC", "f": "photos/gothenburg-2026/07.07/d10_IMG_5498.webp", "t": "photos/gothenburg-2026/07.07/d10_IMG_5498.thumb.webp", "w": 1400, "h": 1050, "zh": "码头", "en": "The quay"},
+    {"o": "d10_IMG_5499.HEIC", "f": "photos/gothenburg-2026/07.07/d10_IMG_5499.webp", "t": "photos/gothenburg-2026/07.07/d10_IMG_5499.thumb.webp", "w": 1050, "h": 1400, "zh": "木桩上的海鸥", "en": "A gull on a post"}
+  ]},
+  "07.09": {"cover": 3, "items": [
+    {"o": "d10_IMG_5532.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5532.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5532.thumb.webp", "w": 1400, "h": 1050, "zh": "傍晚的街", "en": "A street in the evening"},
+    {"o": "d10_IMG_5534.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5534.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5534.thumb.webp", "w": 1400, "h": 1050, "zh": "「克朗堡垒 1687–1700」", "en": "Skansen Kronan, 1687–1700"},
+    {"o": "d10_IMG_5535.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5535.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5535.thumb.webp", "w": 1050, "h": 1400, "zh": "铜制的地图", "en": "A bronze map"},
+    {"o": "d10_IMG_5536.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5536.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5536.thumb.webp", "w": 1400, "h": 1050, "zh": "山上看城", "en": "The city from the hill"},
+    {"o": "d10_IMG_5538.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5538.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5538.thumb.webp", "w": 1400, "h": 1050, "zh": "夕阳里的教堂", "en": "Churches in the evening light"},
+    {"o": "d10_IMG_5540.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5540.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5540.thumb.webp", "w": 1400, "h": 1050, "zh": "堡垒下的老炮", "en": "Cannon below the fort"},
+    {"o": "d10_IMG_5541.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5541.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5541.thumb.webp", "w": 1400, "h": 1050, "zh": "克朗堡垒的说明", "en": "About Skansen Kronan"},
+    {"o": "d10_IMG_5543.HEIC", "f": "photos/gothenburg-2026/07.09/d10_IMG_5543.webp", "t": "photos/gothenburg-2026/07.09/d10_IMG_5543.thumb.webp", "w": 1400, "h": 1050, "zh": "林奈", "en": "Linnaeus"}
+  ]},
+  "07.10": {"cover": 2, "items": [
+    {"o": "d10_IMG_5549.HEIC", "f": "photos/gothenburg-2026/07.10/d10_IMG_5549.webp", "t": "photos/gothenburg-2026/07.10/d10_IMG_5549.thumb.webp", "w": 1400, "h": 1050, "zh": "哥德堡大学主楼", "en": "The University of Gothenburg"},
+    {"o": "d10_IMG_5550.HEIC", "f": "photos/gothenburg-2026/07.10/d10_IMG_5550.webp", "t": "photos/gothenburg-2026/07.10/d10_IMG_5550.thumb.webp", "w": 1400, "h": 1050, "zh": "圆顶的楼", "en": "A domed building"},
+    {"o": "d10_IMG_5556.HEIC", "f": "photos/gothenburg-2026/07.10/d10_IMG_5556.webp", "t": "photos/gothenburg-2026/07.10/d10_IMG_5556.thumb.webp", "w": 1050, "h": 1400, "zh": "哥德堡大教堂", "en": "Gothenburg Cathedral"},
+    {"o": "d10_IMG_5564.HEIC", "f": "photos/gothenburg-2026/07.10/d10_IMG_5564.webp", "t": "photos/gothenburg-2026/07.10/d10_IMG_5564.thumb.webp", "w": 1050, "h": 1400, "zh": "公园里的雕塑", "en": "A sculpture in the park"}
+  ]},
+  "07.11": {"cover": 5, "items": [
+    {"o": "d10_IMG_5572.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5572.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5572.thumb.webp", "w": 1400, "h": 1050, "zh": "墙上的彩绘", "en": "A painted wall"},
+    {"o": "d10_IMG_5573.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5573.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5573.thumb.webp", "w": 1400, "h": 1050, "zh": "彩绘的花", "en": "Painted flowers"},
+    {"o": "d10_IMG_5579.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5579.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5579.thumb.webp", "w": 1400, "h": 1050, "zh": "珊瑚礁水缸", "en": "The reef tank"},
+    {"o": "d10_IMG_5582.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5582.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5582.thumb.webp", "w": 1400, "h": 1050, "zh": "船模", "en": "Ship models"},
+    {"o": "d10_IMG_5587.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5587.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5587.thumb.webp", "w": 1400, "h": 1050, "zh": "帆船模型", "en": "A sailing ship model"},
+    {"o": "d10_IMG_5590.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5590.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5590.thumb.webp", "w": 1050, "h": 1400, "zh": "东印度公司的船", "en": "An East Indiaman"},
+    {"o": "d10_IMG_5594.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5594.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5594.thumb.webp", "w": 1400, "h": 1050, "zh": "货轮模型", "en": "A freighter model"},
+    {"o": "d10_IMG_5600.HEIC", "f": "photos/gothenburg-2026/07.11/d10_IMG_5600.webp", "t": "photos/gothenburg-2026/07.11/d10_IMG_5600.thumb.webp", "w": 1400, "h": 1050, "zh": "山上看港口", "en": "The harbour from the hill"}
+  ]},
+  "07.12": {"cover": 1, "items": [
+    {"o": "d10_IMG_5607.HEIC", "f": "photos/gothenburg-2026/07.12/d10_IMG_5607.webp", "t": "photos/gothenburg-2026/07.12/d10_IMG_5607.thumb.webp", "w": 1400, "h": 1050, "zh": "港边", "en": "By the harbour"},
+    {"o": "d10_IMG_5608.HEIC", "f": "photos/gothenburg-2026/07.12/d10_IMG_5608.webp", "t": "photos/gothenburg-2026/07.12/d10_IMG_5608.thumb.webp", "w": 1050, "h": 1400, "zh": "广场上的铜像", "en": "A statue in a square"},
+    {"o": "d10_IMG_5609.HEIC", "f": "photos/gothenburg-2026/07.12/d10_IMG_5609.webp", "t": "photos/gothenburg-2026/07.12/d10_IMG_5609.thumb.webp", "w": 1400, "h": 1050, "zh": "利瑟贝里", "en": "Liseberg"}
+  ]}
+ },
  "lowlands-2026": {
   "06.20": {"cover": 4, "items": [
     {"o": "d10_IMG_3407.HEIC", "f": "photos/lowlands-2026/06.20/d10_IMG_3407.webp", "t": "photos/lowlands-2026/06.20/d10_IMG_3407.thumb.webp", "w": 1050, "h": 1400, "zh": "马格利特", "en": "Magritte"},
@@ -235,6 +357,35 @@
     {"o": "d9_IMG_3141.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3141.webp", "t": "photos/china-2026/05.30/d9_IMG_3141.thumb.webp", "w": 1400, "h": 1050, "zh": "树林外的江", "en": "The river through the trees"},
     {"o": "d9_IMG_3152.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3152.webp", "t": "photos/china-2026/05.30/d9_IMG_3152.thumb.webp", "w": 1050, "h": 1400, "zh": "龟趺碑", "en": "A tortoise-borne stele"},
     {"o": "d9_IMG_3154.HEIC", "f": "photos/china-2026/05.30/d9_IMG_3154.webp", "t": "photos/china-2026/05.30/d9_IMG_3154.thumb.webp", "w": 1050, "h": 1400, "zh": "墓", "en": "A tomb"}
+  ]}
+ },
+ "nyc-2026": {
+  "03.20": {"cover": 2, "items": [
+    {"o": "d8_IMG_1438.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1438.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1438.thumb.webp", "w": 1050, "h": 1400, "zh": "哥伦布大道", "en": "Columbus Avenue"},
+    {"o": "d8_IMG_1439.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1439.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1439.thumb.webp", "w": 1400, "h": 1050, "zh": "圣保罗宗徒堂", "en": "The Church of St Paul the Apostle"},
+    {"o": "d8_IMG_1440.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1440.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1440.thumb.webp", "w": 1050, "h": 1400, "zh": "教堂的钟楼", "en": "The church tower"},
+    {"o": "d8_IMG_1442.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1442.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1442.thumb.webp", "w": 1050, "h": 1400, "zh": "路口", "en": "The corner"},
+    {"o": "d8_IMG_1443.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1443.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1443.thumb.webp", "w": 1050, "h": 1400, "zh": "福特汉姆大学", "en": "Fordham University"},
+    {"o": "d8_IMG_1445.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1445.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1445.thumb.webp", "w": 1400, "h": 1050, "zh": "校园的广场", "en": "The campus plaza"},
+    {"o": "d8_IMG_1446.HEIC", "f": "photos/nyc-2026/03.20/d8_IMG_1446.webp", "t": "photos/nyc-2026/03.20/d8_IMG_1446.thumb.webp", "w": 1050, "h": 1400, "zh": "消防员的纪念像", "en": "A firefighters' memorial"}
+  ]},
+  "03.21": {"cover": 4, "items": [
+    {"o": "d8_IMG_1456.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1456.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1456.thumb.webp", "w": 1050, "h": 1400, "zh": "墙上的希腊文", "en": "Greek lettering on the wall"},
+    {"o": "d8_IMG_1457.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1457.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1457.thumb.webp", "w": 1400, "h": 1050, "zh": "教堂里", "en": "Inside the church"},
+    {"o": "d8_IMG_1459.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1459.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1459.thumb.webp", "w": 1050, "h": 1400, "zh": "大斋期第五主日的单页", "en": "The Fifth Sunday of Lent bulletin"},
+    {"o": "d8_IMG_1461.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1461.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1461.thumb.webp", "w": 1400, "h": 1050, "zh": "基督的卧像", "en": "The dead Christ"},
+    {"o": "d8_IMG_1463.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1463.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1463.thumb.webp", "w": 1400, "h": 1050, "zh": "祭台", "en": "The altar"},
+    {"o": "d8_IMG_1464.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1464.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1464.thumb.webp", "w": 1050, "h": 1400, "zh": "圣母像", "en": "The Madonna"},
+    {"o": "d8_IMG_1465.HEIC", "f": "photos/nyc-2026/03.21/d8_IMG_1465.webp", "t": "photos/nyc-2026/03.21/d8_IMG_1465.thumb.webp", "w": 1050, "h": 1400, "zh": "侧祭台", "en": "A side altar"}
+  ]},
+  "03.22": {"cover": 2, "items": [
+    {"o": "d8_IMG_1470.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1470.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1470.thumb.webp", "w": 1050, "h": 1400, "zh": "布朗克斯的街", "en": "A street in the Bronx"},
+    {"o": "d8_IMG_1472.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1472.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1472.thumb.webp", "w": 1050, "h": 1400, "zh": "教会学校", "en": "The parish school"},
+    {"o": "d8_IMG_1476.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1476.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1476.thumb.webp", "w": 1050, "h": 1400, "zh": "院子里的圣母像", "en": "The Madonna in the yard"},
+    {"o": "d8_IMG_1477.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1477.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1477.thumb.webp", "w": 1050, "h": 1400, "zh": "高速公路", "en": "The expressway"},
+    {"o": "d8_IMG_1482.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1482.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1482.thumb.webp", "w": 1050, "h": 1400, "zh": "华盛顿广场的铜像", "en": "A statue in Washington Square"},
+    {"o": "d8_IMG_1484.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1484.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1484.thumb.webp", "w": 1050, "h": 1400, "zh": "圣帕特里克大教堂的门", "en": "The door of St Patrick's"},
+    {"o": "d8_IMG_1486.HEIC", "f": "photos/nyc-2026/03.22/d8_IMG_1486.webp", "t": "photos/nyc-2026/03.22/d8_IMG_1486.thumb.webp", "w": 1050, "h": 1400, "zh": "圣帕特里克大教堂", "en": "St Patrick's Cathedral"}
   ]}
  },
  "seasia-2025": {
