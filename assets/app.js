@@ -16,7 +16,7 @@ const NS="http://www.w3.org/2000/svg";
 // one language setting shared with the rest of yanxia.art; first visit follows the browser
 let lang=/^zh\b/i.test(navigator.language||"")?"zh":"en";try{const s=localStorage.getItem("lang");if(s==="zh"||s==="en")lang=s}catch(e){}
 const T=o=>`<span class="zh">${o.zh}</span><span class="en">${o.en}</span>`;
-const readsHTML=(r,label)=>r&&r.length?`<div class="reads"><p>${T(label)}</p><ul>${r.map(a=>`<li><a href="${a.u}" target="_blank" rel="noopener">${T(a)}</a><time>${a.d}</time></li>`).join("")}</ul></div>`:"";
+const readsHTML=(r,label)=>r&&r.length?`<div class="reads"><p>${T(label)}</p><ul>${r.map(a=>`<li><a href="${a.u}">${T(a)}</a><time>${a.d}</time></li>`).join("")}</ul></div>`:"";
 
 // map symbols
 const defs=document.getElementById("defs");
@@ -153,7 +153,7 @@ function render(){
   nav(trip);
   {const ys=document.getElementById("years"),c=ys.querySelector("[aria-current]");if(c&&(c.offsetLeft+c.offsetWidth>ys.scrollLeft+ys.clientWidth||c.offsetLeft<ys.scrollLeft))ys.scrollLeft=c.offsetLeft-ys.offsetLeft-8}
   const play=PLAYS.find(p=>(p.trips||[]).includes(trip.id));
-  let h=`<section class="hero"><div><h1>${T(trip.title)}</h1><p class="span">${T(trip.span)}</p><p class="lede">${T(trip.lede)}</p>${play?`<p class="playnote">${T({zh:`这次旅行和《${play.title.zh}》有关，见<a href="#theatre">戏剧</a>。`,en:`This trip was for <i>${play.title.en}</i>; see <a href="#theatre">Theatre</a>.`})}</p>`:""}${readsHTML(trip.reads,{zh:"当年写的游记（公众号）",en:"What I wrote at the time (WeChat, in Chinese)"})}
+  let h=`<section class="hero"><div><h1>${T(trip.title)}</h1><p class="span">${T(trip.span)}</p><p class="lede">${T(trip.lede)}</p>${play?`<p class="playnote">${T({zh:`这次旅行和《${play.title.zh}》有关，见<a href="#theatre">戏剧</a>。`,en:`This trip was for <i>${play.title.en}</i>; see <a href="#theatre">Theatre</a>.`})}</p>`:""}${readsHTML(trip.reads,{zh:"当年写的游记",en:"What I wrote at the time (in Chinese)"})}
     <p class="note">${T({zh:"路线由浅到深、箭头指向前进方向，虚线是长途转移。把鼠标移到地图上的点可以预览，点击进入那一天；没有照片的日子，用当天的地图代替。",en:"The route darkens from start to finish and arrows point the way; dashed lines are long transfers. Hover a point to preview it, click to open that day; days without photos show the day's map instead."})}</p></div>
     <div class="ovwrap">${overviewSVG(trip)}<div class="mapctl"><button type="button" data-z="in" aria-label="Zoom in">+</button><button type="button" data-z="out" aria-label="Zoom out">−</button><button type="button" data-z="reset" aria-label="Reset map">⟲</button></div><div class="maphint">${lang==='zh'?'按住 Ctrl 或 ⌘ 再滚动来缩放':'Hold Ctrl or ⌘ and scroll to zoom'}</div></div></section>`;
   let ch=0;
