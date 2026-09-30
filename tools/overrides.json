@@ -2548,29 +2548,31 @@
   },
   "shanxi-2026/09.07": {
     "only": [
-      "d11_IMG_6019.HEIC",
       "d11_IMG_6042.HEIC",
       "d11_IMG_6062.HEIC",
-      "d11_IMG_6109.HEIC",
       "d11_IMG_6132.HEIC",
-      "d11_IMG_6156.HEIC",
       "d11_IMG_6167.HEIC",
-      "d11_IMG_6193.HEIC",
-      "d11_IMG_6209.HEIC"
+      "d11_IMG_6182.HEIC",
+      "d11_IMG_6189.HEIC",
+      "d11_IMG_6195.HEIC",
+      "d11_IMG_6203.HEIC",
+      "d11_IMG_6213.HEIC"
     ],
-    "cover": "d11_IMG_6062.HEIC"
+    "cover": "d11_IMG_6195.HEIC"
   },
   "shanxi-2026/09.08": {
     "only": [
       "d11_IMG_6269.HEIC",
       "d11_IMG_6280.HEIC",
       "d11_IMG_6317.HEIC",
-      "d11_IMG_6340.HEIC",
-      "d11_IMG_6414.HEIC",
-      "d11_IMG_6420.HEIC",
-      "d11_IMG_6478.HEIC"
+      "d11_IMG_6410.HEIC",
+      "d11_IMG_6413.HEIC",
+      "d11_IMG_6442.HEIC",
+      "d11_IMG_6451.HEIC",
+      "d11_IMG_6479.HEIC",
+      "d11_IMG_6495.HEIC"
     ],
-    "cover": "d11_IMG_6280.HEIC"
+    "cover": "d11_IMG_6451.HEIC"
   },
   "shanxi-2026/09.09": {
     "only": [

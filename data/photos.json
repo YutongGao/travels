@@ -9,25 +9,27 @@
     {"o": "d11_IMG_5981.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5981.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5981.thumb.webp", "w": 1050, "h": 1400, "zh": "法源寺的石碑", "en": "A stele at Fayuan Temple"},
     {"o": "d11_IMG_5990.HEIC", "f": "photos/shanxi-2026/09.06/d11_IMG_5990.webp", "t": "photos/shanxi-2026/09.06/d11_IMG_5990.thumb.webp", "w": 1400, "h": 1050, "zh": "法源寺的殿", "en": "A hall at Fayuan Temple"}
   ]},
-  "09.07": {"cover": 2, "items": [
-    {"o": "d11_IMG_6019.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6019.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6019.thumb.webp", "w": 1050, "h": 1400, "zh": "古松", "en": "An old pine"},
+  "09.07": {"cover": 6, "items": [
     {"o": "d11_IMG_6042.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6042.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6042.thumb.webp", "w": 1400, "h": 1050, "zh": "古道车辙", "en": "Ancient cart ruts"},
     {"o": "d11_IMG_6062.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6062.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6062.thumb.webp", "w": 1050, "h": 1400, "zh": "云冈的石窟", "en": "Caves at Yungang"},
-    {"o": "d11_IMG_6109.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6109.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6109.thumb.webp", "w": 1050, "h": 1400, "zh": "云冈石窟的碑", "en": "The Yungang stele"},
     {"o": "d11_IMG_6132.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6132.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6132.thumb.webp", "w": 1400, "h": 1050, "zh": "悬空寺", "en": "The Hanging Temple"},
-    {"o": "d11_IMG_6156.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6156.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6156.thumb.webp", "w": 1050, "h": 1400, "zh": "崖上的「巧」字", "en": "The character 'ingenious' on the cliff"},
     {"o": "d11_IMG_6167.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6167.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6167.thumb.webp", "w": 1050, "h": 1400, "zh": "悬在崖上的殿", "en": "Halls hanging on the cliff"},
-    {"o": "d11_IMG_6193.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6193.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6193.thumb.webp", "w": 1400, "h": 1050, "zh": "猫", "en": "A cat"},
-    {"o": "d11_IMG_6209.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6209.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6209.thumb.webp", "w": 1400, "h": 1050, "zh": "刻字的石头", "en": "An inscribed stone"}
+    {"o": "d11_IMG_6182.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6182.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6182.thumb.webp", "w": 1050, "h": 1400, "zh": "净土寺的藻井", "en": "The coffered ceiling of Jingtu Temple"},
+    {"o": "d11_IMG_6189.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6189.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6189.thumb.webp", "w": 1400, "h": 1050, "zh": "净土寺", "en": "Jingtu Temple"},
+    {"o": "d11_IMG_6195.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6195.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6195.thumb.webp", "w": 1050, "h": 1400, "zh": "应县木塔", "en": "The Yingxian Wooden Pagoda"},
+    {"o": "d11_IMG_6203.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6203.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6203.thumb.webp", "w": 1050, "h": 1400, "zh": "木塔里的佛像", "en": "A Buddha inside the pagoda"},
+    {"o": "d11_IMG_6213.HEIC", "f": "photos/shanxi-2026/09.07/d11_IMG_6213.webp", "t": "photos/shanxi-2026/09.07/d11_IMG_6213.thumb.webp", "w": 1400, "h": 1050, "zh": "佛宫寺释迦塔", "en": "The Sakyamuni Pagoda of Fogong Temple"}
   ]},
-  "09.08": {"cover": 1, "items": [
+  "09.08": {"cover": 6, "items": [
     {"o": "d11_IMG_6269.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6269.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6269.thumb.webp", "w": 1400, "h": 1050, "zh": "辽金的大殿", "en": "A Liao–Jin hall"},
     {"o": "d11_IMG_6280.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6280.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6280.thumb.webp", "w": 1050, "h": 1400, "zh": "藻井和佛像", "en": "Coffered ceiling and Buddha"},
     {"o": "d11_IMG_6317.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6317.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6317.thumb.webp", "w": 1400, "h": 1050, "zh": "壁画", "en": "A mural"},
-    {"o": "d11_IMG_6340.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6340.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6340.thumb.webp", "w": 1050, "h": 1400, "zh": "石碑", "en": "A stele"},
-    {"o": "d11_IMG_6414.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6414.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6414.thumb.webp", "w": 1400, "h": 1050, "zh": "大同城墙的城门", "en": "A gate in the Datong wall"},
-    {"o": "d11_IMG_6420.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6420.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6420.thumb.webp", "w": 1400, "h": 1050, "zh": "城墙上的说明", "en": "Signs on the wall"},
-    {"o": "d11_IMG_6478.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6478.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6478.thumb.webp", "w": 1050, "h": 1400, "zh": "古城的街", "en": "A street in the old town"}
+    {"o": "d11_IMG_6410.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6410.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6410.thumb.webp", "w": 1400, "h": 1050, "zh": "雁门关的城楼", "en": "A gate tower at Yanmen"},
+    {"o": "d11_IMG_6413.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6413.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6413.thumb.webp", "w": 1400, "h": 1050, "zh": "雁门关的关门", "en": "The pass gate at Yanmen"},
+    {"o": "d11_IMG_6442.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6442.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6442.thumb.webp", "w": 1050, "h": 1400, "zh": "雾里的砖塔", "en": "A brick pagoda in the fog"},
+    {"o": "d11_IMG_6451.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6451.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6451.thumb.webp", "w": 1400, "h": 1050, "zh": "雁门关", "en": "Yanmen Pass"},
+    {"o": "d11_IMG_6479.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6479.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6479.thumb.webp", "w": 1050, "h": 1400, "zh": "「这里是忻州」", "en": "This is Xinzhou"},
+    {"o": "d11_IMG_6495.HEIC", "f": "photos/shanxi-2026/09.08/d11_IMG_6495.webp", "t": "photos/shanxi-2026/09.08/d11_IMG_6495.thumb.webp", "w": 1050, "h": 1400, "zh": "忻州古城的夜", "en": "Old Xinzhou at night"}
   ]},
   "09.09": {"cover": 0, "items": [
     {"o": "d11_IMG_6548.HEIC", "f": "photos/shanxi-2026/09.09/d11_IMG_6548.webp", "t": "photos/shanxi-2026/09.09/d11_IMG_6548.thumb.webp", "w": 1400, "h": 1050, "zh": "北齐壁画里的骑马人", "en": "Riders in a Northern Qi mural"},

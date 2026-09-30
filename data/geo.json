@@ -469,7 +469,10 @@
    "longmen": {"x": 202.0, "y": 525.4, "zh": "龙门石窟", "en": "Longmen Grottoes"},
    "hanwei": {"x": 211.9, "y": 512.0, "zh": "汉魏洛阳城", "en": "Han–Wei Luoyang"},
    "erlitou": {"x": 217.4, "y": 515.4, "zh": "二里头", "en": "Erlitou"},
-   "luoyang": {"x": 200.7, "y": 518.6, "zh": "洛阳", "en": "Luoyang"}
+   "luoyang": {"x": 200.7, "y": 518.6, "zh": "洛阳", "en": "Luoyang"},
+   "yingxian": {"x": 252.4, "y": 100.9, "zh": "应县木塔", "en": "Yingxian Wooden Pagoda"},
+   "yanmen": {"x": 231.1, "y": 132.7, "zh": "雁门关", "en": "Yanmen Pass"},
+   "xinzhou": {"x": 222.8, "y": 199.7, "zh": "忻州古城", "en": "Old Xinzhou"}
   }
  },
  "gothenburg": {
