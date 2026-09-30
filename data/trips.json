@@ -512,6 +512,7 @@
   "lede": {"zh": "在柏林自由大学上了一个夏天的课。周末去波茨坦、布拉格、德累斯顿、汉堡、吕贝克和克拉科夫；课结束后，从魏玛、慕尼黑、新天鹅堡一路到莱茵河、特里尔和法兰克福。", "en": "A summer of classes at the Free University of Berlin. Weekends in Potsdam, Prague, Dresden, Hamburg, Lübeck and Kraków; after the last class, Weimar, Munich, Neuschwanstein, the Rhine, Trier and Frankfurt."},
   "chapters": {"1": {"zh": "柏林和波茨坦", "en": "Berlin and Potsdam"}, "2": {"zh": "布拉格、德累斯顿、汉堡、克拉科夫", "en": "Prague, Dresden, Hamburg, Kraków"}, "3": {"zh": "课后一路向西", "en": "West after the last class"}},
   "frozen": true,
+  "reads": [{"zh": "远游（1）", "en": "Far journeys (1)", "d": "2018-01-08", "u": "https://mp.weixin.qq.com/s/xqoKJ70_KZYvbDXm7j7rng"}, {"zh": "远行（2）", "en": "Far journeys (2)", "d": "2018-01-09", "u": "https://mp.weixin.qq.com/s/sLXqjf5Jq6E7nyEJk0yK-g"}, {"zh": "远望（3）", "en": "Far journeys (3)", "d": "2018-01-16", "u": "https://mp.weixin.qq.com/s/o9Qbtyj2NWoKtZ1MbTlY3w"}],
   "days": [
    {"d": "07.22", "ch": 1, "m": "air", "s": ["berlin"], "zh": "到柏林", "en": "Arriving in Berlin", "bz": "转机飞到柏林泰格尔机场，下午沿着施普雷河走了一段。", "be": "A connecting flight into Berlin Tegel, and an afternoon walk along the Spree."},
    {"d": "07.23", "ch": 1, "m": "city", "s": ["berlin"], "zh": "国会大厦和柏林墙", "en": "The Reichstag and the Wall", "bz": "第一天在市中心：国会大厦，普鲁士议会大楼，以及旁边「恐怖地形图」保留下来的一段柏林墙。", "be": "A first day in the centre: the Reichstag, the old Prussian parliament, and the stretch of the Wall kept at the Topography of Terror next door."},

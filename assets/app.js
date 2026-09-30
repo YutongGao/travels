@@ -16,6 +16,7 @@ const NS="http://www.w3.org/2000/svg";
 // one language setting shared with the rest of yanxia.art; first visit follows the browser
 let lang=/^zh\b/i.test(navigator.language||"")?"zh":"en";try{const s=localStorage.getItem("lang");if(s==="zh"||s==="en")lang=s}catch(e){}
 const T=o=>`<span class="zh">${o.zh}</span><span class="en">${o.en}</span>`;
+const readsHTML=(r,label)=>r&&r.length?`<div class="reads"><p>${T(label)}</p><ul>${r.map(a=>`<li><a href="${a.u}" target="_blank" rel="noopener">${T(a)}</a><time>${a.d}</time></li>`).join("")}</ul></div>`:"";
 
 // map symbols
 const defs=document.getElementById("defs");
@@ -140,7 +141,7 @@ function renderTheatre(){
   const card=id=>{const t=TRIPS.find(x=>x.id===id);if(!t)return"";const d=t.days.find(x=>x.photos)||{};const ph=d.photos&&d.photos[d.cover||0];
     return `<a class="th-trip" href="#${t.id}">${ph?`<img src="${ph.t}" alt="" loading="lazy">`:""}<span><small>${T({zh:"相关的旅行",en:"A related trip"})} · ${T(t.span)}</small><strong>${T(t.title)}</strong></span></a>`};
   let h=`<section class="th-hero"><h1>${T({zh:"戏剧",en:"Theatre"})}</h1><p class="lede">${T({zh:"2022 年起在非鱼剧社做戏，演过戏，做过舞美道具和舞台监督，也当过导演和制作人。这里记下每一部戏，还有为了戏去过的地方。",en:"Since 2022 I have made theatre with the Feiyu troupe: acting, building sets and props, stage-managing, directing and producing. Here is each production, and the places I went because of them."})}</p></section><ol class="th-list">`;
-  PLAYS.forEach(p=>{h+=`<li class="th-item"><div class="when">${T(p.season)}</div><div><h2>${T({zh:"《"+p.title.zh+"》",en:"<i>"+p.title.en+"</i>"})}</h2><p class="role">${T(p.role)}</p>${(p.trips||[]).length?`<div class="th-trips">${p.trips.map(card).join("")}</div>`:""}</div></li>`});
+  PLAYS.forEach(p=>{h+=`<li class="th-item"><div class="when">${T(p.season)}</div><div><h2>${T({zh:"《"+p.title.zh+"》",en:"<i>"+p.title.en+"</i>"})}</h2><p class="role">${T(p.role)}</p>${readsHTML(p.reads,{zh:"相关文章",en:"Related writing"})}${(p.trips||[]).length?`<div class="th-trips">${p.trips.map(card).join("")}</div>`:""}</div></li>`});
   h+=`</ol>`;
   document.getElementById("app").innerHTML=h;
   document.title=lang==="zh"?"戏剧":"Theatre";
@@ -152,7 +153,7 @@ function render(){
   nav(trip);
   {const ys=document.getElementById("years"),c=ys.querySelector("[aria-current]");if(c&&(c.offsetLeft+c.offsetWidth>ys.scrollLeft+ys.clientWidth||c.offsetLeft<ys.scrollLeft))ys.scrollLeft=c.offsetLeft-ys.offsetLeft-8}
   const play=PLAYS.find(p=>(p.trips||[]).includes(trip.id));
-  let h=`<section class="hero"><div><h1>${T(trip.title)}</h1><p class="span">${T(trip.span)}</p><p class="lede">${T(trip.lede)}</p>${play?`<p class="playnote">${T({zh:`这次旅行和《${play.title.zh}》有关，见<a href="#theatre">戏剧</a>。`,en:`This trip was for <i>${play.title.en}</i>; see <a href="#theatre">Theatre</a>.`})}</p>`:""}
+  let h=`<section class="hero"><div><h1>${T(trip.title)}</h1><p class="span">${T(trip.span)}</p><p class="lede">${T(trip.lede)}</p>${play?`<p class="playnote">${T({zh:`这次旅行和《${play.title.zh}》有关，见<a href="#theatre">戏剧</a>。`,en:`This trip was for <i>${play.title.en}</i>; see <a href="#theatre">Theatre</a>.`})}</p>`:""}${readsHTML(trip.reads,{zh:"当年写的游记（公众号）",en:"What I wrote at the time (WeChat, in Chinese)"})}
     <p class="note">${T({zh:"路线由浅到深、箭头指向前进方向，虚线是长途转移。把鼠标移到地图上的点可以预览，点击进入那一天；没有照片的日子，用当天的地图代替。",en:"The route darkens from start to finish and arrows point the way; dashed lines are long transfers. Hover a point to preview it, click to open that day; days without photos show the day's map instead."})}</p></div>
     <div class="ovwrap">${overviewSVG(trip)}<div class="mapctl"><button type="button" data-z="in" aria-label="Zoom in">+</button><button type="button" data-z="out" aria-label="Zoom out">−</button><button type="button" data-z="reset" aria-label="Reset map">⟲</button></div><div class="maphint">${lang==='zh'?'按住 Ctrl 或 ⌘ 再滚动来缩放':'Hold Ctrl or ⌘ and scroll to zoom'}</div></div></section>`;
   let ch=0;
